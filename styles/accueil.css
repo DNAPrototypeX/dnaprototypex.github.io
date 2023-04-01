@@ -1,0 +1,40 @@
+@charset "iso-8859-1";
+.intro {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	text-align:center;
+	}
+.legende {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	}
+.website {
+	font-family:Times New Roman,Times,serif;
+	font-size:30px;
+	font-weight:normal;
+	font-style:italic;
+	color:#FF9900;
+	text-align:center;
+	}
+.subtitle { font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	}
+.text {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+	text-align:justify;
+	}
+.title {
+	margin-left:50px;
+	background:#990000;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-align:left;
+	font-size:10px;
+	}	
+

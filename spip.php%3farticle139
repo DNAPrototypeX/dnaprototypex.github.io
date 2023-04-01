@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html lang='fr' dir='ltr'>
+<head>
+<title>Site en travaux</title>
+		<link rel='stylesheet' href='prive/minipres.css' type='text/css' media='all' />
+<script type='text/javascript' src='prive/javascript/spip_barre.js'></script></head>
+<body class='minipres'>
+	<div id='minipres'>
+	<h1>Site en travaux</h1>
+	<div>
+Attention&nbsp;: un probl&egrave;me technique (serveur SQL) emp&ecirc;che l'acc&egrave;s &agrave; cette partie du site. Merci de votre compr&eacute;hension.
+	</div>
+	</div>
+</body>
+</html>

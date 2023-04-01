@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<TITLE>Molière : Iconographie - La référence sur l'oeuvre de Molière - Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</TITLE>
+<META NAME="description" lang="fr" CONTENT="Le site de référence sur l'oeuvre de Molière
+Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<META NAME="keywords" lang="fr" CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, œuvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
+<meta name="abstract" content="Le site de référence sur l'oeuvre de Molière
+Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<meta name="reply-to" content="webmaster@toutmoliere.net">
+<meta name="category" content="literature">
+<meta name="revisit-after" content="30 days">
+<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="robots" content="index, follow">
+<meta name="distribution" content="global">
+<META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link  href="../styles/styles.css" rel="StyleSheet" type="text/css">
+<link  href="../styles/iconographie.css" rel="StyleSheet" type="text/css">
+
+<br />
+<b>Warning</b>:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Read error! in <b>/home/toutmoli/www/iconographie/zoom.php</b> on line <b>30</b><br />
+<SCRIPT LANGUAGE="JavaScript">
+var from=window.opener.document.URL;
+var fromsite=from.indexOf("http://www.toutmoliere.net");
+if (fromsite==-1) decale=120;
+else decale=0;
+window.resizeTo(50+decale,160);
+</SCRIPT>
+</HEAD>
+<BODY MARGINWIDTH=0 MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0>
+<SCRIPT>
+if (fromsite==-1)
+document.write ("<TABLE CELLPADDING=5><TR><TD BGCOLOR='#000000' VALIGN=top ALIGN=center><IMG SRC='../images/moliere.jpg' BORDER=0 WIDTH=90 HEIGHT=109 ALT='Molière en tragédien' VSPACE=10><BR><SPAN CLASS=site>www.toutmoliere.net</SPAN><BR><SPAN CLASS=externe>ICONOGRAPHIE</SPAN><BR><HR WIDTH=80%><BR><BR><BR><DIV CLASS=jump>Cette page est tirée du site <A HREF='http://www.toutmoliere.net' TARGET=_blank CLASS=jump>www.toutmoliere.net</A><BR><BR>Le site de référence sur l'oeuvre de Molière<BR><BR>Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</DIV></TD><TD>");
+else document.write ("<BR>");
+</SCRIPT>
+<DIV ALIGN=CENTER>
+<SPAN CLASS=legende></SPAN><BR><BR>
+<IMG SRC="images/"  BORDER=1><BR><BR>
+<FORM><INPUT TYPE=button VALUE="Fermer cette fenêtre" onClick="javascript:window.close()" CLASS=bouton></FORM>
+</DIV>
+<SCRIPT>
+if (fromsite==-1)
+	document.write ("</TD></TR></TABLE>");
+</SCRIPT>
+<script type="text/javascript" src="http://www.toutmoliere.net/stats/php-stats.js.php"></script><noscript><img src="http://www.toutmoliere.net/stats/php-stats.php" border="0" alt=""></noscript></body>
+</HTML>

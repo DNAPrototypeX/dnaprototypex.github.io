@@ -1,0 +1,66 @@
+@charset "iso-8859-1";
+A {
+	font-family: Verdana,Arial,sans-serif; 
+	font-size: 10px; 
+	font-weight: bold;
+	text-decoration:none;
+	color:#000000;
+	}
+A:visited {color:#009999;}
+A:hover {background: #FFCC00;color:#009999}
+A:focus {background: #FFCC00;color:#009999}
+body.AnneesScroll {
+	scrollbar-arrow-color: #FFCC00; 
+	scrollbar-face-color: #993300; 
+	scrollbar-highlight-color: #663300; 
+	scrollbar-shadow-color: #000000;
+	background:#993300;
+	}
+.Annee{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-style:italic;
+	text-align:left;
+	font-size:30px;
+	color:#993300;
+	}
+.moliere {	
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	text-align:left;
+	color:#993300;
+	text-align:left;
+	}
+.theatre{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	text-align:left;
+	color:#339933;
+	text-align:left;
+	}
+.politique{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	text-align:left;
+	color:#3399CC;
+	text-align:left;
+	}
+.art{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	text-align:left;
+	color:#FF9933;
+	text-align:left;
+	}
+.legende {
+	font-family: Verdana,Arial,sans-serif; 
+	font-size: 10px; 
+	font-weight: bold;
+	text-decoration:none;
+	color:#000000;
+	}
+.indexno {display:none;}

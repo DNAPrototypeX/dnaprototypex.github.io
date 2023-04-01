@@ -1,0 +1,1212 @@
+html
+{
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	overflow:auto;
+}
+
+body
+{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+/* début gestion de la page de démarrage */
+
+.animation_demarrage
+{
+	width:800px;
+	height:630px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-left:-400px;
+	margin-top:-315px;
+	border:#b9221b 3px solid;
+	background-color:#b9221b;
+}
+
+/* fin gestion de la page de démarrage */
+
+.intro
+{
+	text-align:right;
+	color:#FFF;
+	padding-right:5px;
+	padding-top:2px;
+	font-size:11px;
+}
+
+.intro a
+{
+	letter-spacing:1px;
+	font-size:14px;
+	text-decoration:none;
+	color:#FFF;
+}
+
+.intro a:hover
+{
+	border-bottom:#FFF 1px dotted;
+}
+
+/* début gestion du fond du header */
+
+.header
+{
+	background-image:url(images/maquette_tout_moliere_03.gif);
+	background-repeat:repeat-x;
+	height:124px;
+	position:static;
+}
+
+.image1
+{
+	background-image:url(images/maquette_tout_moliere_01.jpg);
+	width:115px;
+	height:124px;
+	position:absolute;
+	left:0;
+	top:0;
+}
+
+.image2
+{
+	background-image:url(images/maquette_tout_moliere_02.jpg);
+	width:529px;
+	height:124px;
+	float:left;
+	position:absolute;
+	top:0;
+	left:115px;
+}
+
+.image4
+{
+	background-image:url(images/maquette_tout_moliere_04.jpg);
+	width:165px;
+	height:124px;
+	float:right;
+	position:static;
+}
+
+.image5
+{
+	background-image:url(images/maquette_tout_moliere_05.jpg);
+	width:47px;
+	height:124px;
+	float:right;
+	position:static;
+}
+
+.image6
+{
+	background-image:url(images/maquette_tout_moliere_06.jpg);
+	width:16px;
+	height:124px;
+	float:right;
+	position:static;
+}
+
+.header_menu
+{
+	font-size:15px;
+	top:85px;
+	left:230px;
+	color:#999999;
+	font-variant:small-caps;
+	letter-spacing:2px;
+	position:absolute;
+	z-index:1;
+}
+
+.header_menu a
+{
+	font-size:15px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+}
+
+.header_menu a:hover
+{
+	color:#CC0000;
+}
+
+/* fin gestion du fond du header */
+
+
+/* début gestion du fond du corps */
+
+.corps
+{
+	background-color:#f9f5ee;
+	height:581px;
+	position:absolute;
+	top:124px;
+	left:-16px;
+	border-right:#ba231c 16px solid;
+	border-bottom:#ba231c 39px solid;
+	width:100%;
+}
+
+.image7
+{
+	background-image:url(images/maquette_tout_moliere_07.jpg);
+	width:115px;
+	height:581px;
+	position:absolute;
+	top:0;
+	left:16px;
+}
+	
+/* fin gestion du fond du corps */
+
+
+/* début gestion du fond du pied */
+
+.image9
+{
+	background-image:url(images/maquette_tout_moliere_10.jpg);
+	width:115px;
+	height:39px;
+	position:absolute;
+	top:581px;
+	left:0;
+}
+
+.scenovision
+{
+	font-size:14px;
+	text-align:center;
+	letter-spacing:1px;
+	margin-top:26px;
+}
+
+.scenovision a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.scenovision a:hover
+{
+	border-bottom:dotted #FFFFFF 1px;
+}
+
+.partenaires
+{
+	font-size:10px;
+	letter-spacing:1px;
+	text-align:center;
+	color:#333333;
+	margin-top:20px;
+}
+
+.partenaires a
+{
+	color:#666666;
+	text-decoration:none;
+}
+
+.partenaires a:hover
+{
+	color:#000000;
+}
+
+/* fin gestion du fond du pied */
+
+
+/* début gestion de la rubrique Dictionnaire */
+
+.content
+{
+	margin-left:146px;
+	margin-right:15px;
+	padding-top:15px;
+	height:550px;
+	overflow:auto;
+}
+
+.content h1
+{
+	font-size:14px;
+	font-variant:small-caps;
+	letter-spacing:3px;
+	color:#b9221b;
+	border-bottom:#b9221b 1px solid;
+	padding-left:10px;
+	padding-bottom:10px;
+	margin-top:0px;
+	margin-bottom:15px;
+}
+
+.dictionnaire_liste_verticale
+{
+	height:505px;
+	width:200px;
+    margin-left:0px;
+	padding-left:0px;
+	text-align:left;
+	letter-spacing:1px;
+	line-height:20px;
+	overflow:auto;
+	float:left;
+}
+
+.dictionnaire_liste_verticale ul
+{
+	font-size:12px;
+	padding-bottom:0px;
+	padding-left:0px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-right:0px;
+	list-style:none;
+	font-weight:bold;
+	background-color:#999999;
+	text-align:center;
+	border-left:#999999 solid 1px;
+	border-bottom:#999999 solid 1px;
+	color:#FFFFFF;
+}
+
+.dictionnaire_liste_verticale li
+{
+	background-image:url(images/marky.gif);
+	background-repeat:no-repeat;
+	padding-left:15px;
+	background-position:0px;
+	font-weight:normal;
+	background-color:#f9f5ee;
+	text-align:left;
+}
+
+.dictionnaire_liste_verticale li a
+{
+	color:#333333;
+	text-decoration:none;
+}
+
+.dictionnaire_liste_verticale li a:hover
+{
+	color:#b9221b;
+}
+
+.dictionnaire_liste_horizontale
+{
+	background-color:#999999;
+	color:#CCCCCC;
+	border:#666666 1px solid;
+}
+
+.dictionnaire_liste_horizontale td
+{
+	width:25px;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+
+.dictionnaire_liste_horizontale a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.dictionnaire_liste_horizontale a:hover
+{
+	color:#b9221b;
+}
+
+.dictionnaire_cadre_texte
+{
+	height:480px;
+	padding-left:10px;
+	text-align:justify;
+	letter-spacing:1px;
+	line-height:20px;
+	overflow:hidden;
+	font-size:12px;
+}
+
+.dictionnaire_texte
+{
+	height:420px;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:justify;
+	letter-spacing:1px;
+	line-height:20px;
+	overflow:auto;
+	font-size:12px;
+}
+
+.dictionnaire_cadre_texte h2
+{
+	font-size:12px;	
+	font-weight:bold;
+	color:#b9221b;
+	border-bottom:#b9221b 1px solid;
+	padding-bottom:5px;
+	padding-left:10px;
+	margin-top:20px;
+	margin-bottom:10px;
+}
+
+.dictionnaire_texte p
+{
+	margin-bottom:10px;
+	margin-top:0px;
+	overflow:auto;
+}
+
+.dictionnaire_texte p a
+{
+	color:#b9221b;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.dictionnaire_texte p a:hover
+{
+	border-bottom:#b9221b 1px dotted;
+}
+ 
+.dictionnaire_texte img
+{
+	border:0;
+	width:34px;
+	height:34px;
+}
+
+/* fin gestion de la rubrique Dictionnaire */
+
+/* début gestion de la page d'accueil */
+
+.accueil
+{
+	height:500px;
+	overflow:auto;
+	width:100%;
+}
+
+.accueil br
+{
+	line-height:10px;
+}
+
+.accueil h2
+{
+	font-size:14px;
+	letter-spacing:1px;
+	font-weight:bold;
+	color:#b9221b;
+	padding-bottom:0;
+	margin-bottom:10px;
+	margin-top:0;
+	padding-top:0;
+	background-image:url(images/marky.gif);
+	background-repeat:no-repeat;
+	padding-left:15px;
+	background-position:0;
+}
+
+.accueil p
+{
+	margin-bottom:10px;
+	padding-bottom:0;
+	margin-top:0px;
+	padding-top:0;
+	letter-spacing:1px;
+	line-height:20px;
+	font-size:12px;
+}
+
+.accueil p a
+{
+	color:#b9221b;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.accueil p a:hover
+{
+	border-bottom:#b9221b 1px dotted;
+}
+
+.accueil ul
+{
+	font-size:12px;
+	letter-spacing:1px;
+	margin-top:0;
+	padding-left:15px;
+	list-style:circle;
+	line-height:20px;
+}
+
+.accueil li
+{
+	margin-bottom:5px;
+}
+
+.content_fond
+{
+	height:550px;
+	position:absolute;
+	top:124px;
+	
+}
+
+.corps_accueil
+{
+	background-image:url(images/rideau_fond_accueil.jpg);
+	background-repeat:repeat-x;
+	background-position:115px;
+	height:581px;
+	position:absolute;
+	top:124px;
+	left:-16px;
+	border-right:#ba231c 16px solid;
+	border-bottom:#ba231c 39px solid;
+	width:100%;
+}
+
+.corps_accueil h1
+{
+	text-align:center;
+	font-size:16px;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	color:#FFF;
+	letter-spacing:2px;
+	margin-left:124px;
+	line-height:30px;
+	padding-top:20px;
+}
+
+.corps_accueil_texte
+{
+	text-align:justify;
+	font-size:15px;
+	font-weight:normal;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#FFF;
+	letter-spacing:0px;
+	margin-left:124px;
+	line-height:25px;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+.corps_accueil p
+{
+	text-align:center;
+	font-size:16px;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	color:#FFF;
+	letter-spacing:0px;
+	margin-left:124px;
+	line-height:30px;
+	padding-right:100px;
+	padding-left:100px;
+}
+
+.corps_accueil_toutmoliere
+{
+	left:50%;
+	margin-left:-340px;
+	width:800px;
+	height:220px;
+	position:absolute;
+	margin-top:30px;
+}
+
+.corps_accueil_toutmoliere ul
+{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+.corps_accueil_toutmoliere li
+{
+	float:left;
+	margin-left:180px;
+}
+
+.corps_accueil_toutmoliere h2
+{
+	color:#FFF;
+	border-bottom:none;
+	font-size:15px;
+	font-weight:normal;
+	width:124px;
+	text-align:center;
+	text-decoration:none;
+}
+
+.corps_accueil_toutmoliere h2:hover
+{
+	border-bottom:#FFF dotted 1px;
+}
+
+/* fin gestion de la page d'accueil */
+
+
+/* début gestion de la page oeuvres */
+
+.oeuvres
+{
+	height:500px;
+	overflow:auto;
+	width:100%;
+	font-size:12px;
+}
+
+.oeuvres table
+{
+	margin:auto;
+}
+
+.oeuvres a
+{
+	text-decoration:none;
+	font-weight:bold;
+	color:#b9221b;
+}
+
+.oeuvres a:hover
+{
+	border-bottom:#b9221b 1px dotted;
+}
+
+.oeuvres_menu
+{
+	color:#FFFFFF;
+	background-color:#000000;
+	height:100%;
+	overflow:hidden;
+	border-right:#b9221b 1px solid;
+}
+
+.oeuvres_menu h1
+{
+	font-size:15px;
+	text-align:center;
+	letter-spacing:3px;
+	font-variant:small-caps;
+	margin-top:0;
+	padding-bottom:10px;
+	padding-top:15px;
+	margin-bottom:0;
+}
+
+.oeuvres_menu h2
+{
+	font-size:12px;
+	font-weight:normal;
+	text-align:center;
+	border-bottom:#FFFFFF 1px solid;
+	padding-bottom:15px;
+	letter-spacing:1px;
+	margin-top:0;
+	margin-bottom:0;
+}
+
+.oeuvres_menu_scene
+{
+	margin:auto;
+	background-color:#b9221b;
+	padding-left:15px;
+}
+
+.oeuvres_menu_scene ul
+{
+	margin-top:0;
+	list-style:url(images/marky.gif);
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-bottom:0;
+	margin-left:0;
+}
+
+.oeuvres_menu_scene li
+{
+	padding-left:0px;
+	font-size:12px;
+	padding-bottom:2px;
+	padding-top:2px;
+}
+
+.oeuvres_menu_scene a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.oeuvres_menu_pdf
+{
+	text-align:center;
+	font-size:12px;
+	font-size:10px;
+	padding-top:10px;
+}
+
+.oeuvres_menu_pdf_icone
+{
+	background-image:url(images/pdffile.gif);
+	background-repeat:no-repeat;
+	background-position:bottom;
+	height:50px;
+	border-top:#FFFFFF 1px solid;
+}
+
+.oeuvres_menu_pdf a
+{
+	font-size:12px;
+	letter-spacing:1px;
+	color:#FFF;
+	text-decoration:none;
+}
+
+.oeuvres_menu_pdf a:hover
+{
+	border-bottom:none;
+	margin:auto;
+}
+
+.oeuvres_menu a:hover
+{
+	border-bottom:#FFFFFF 1px dotted;
+}
+
+.oeuvres_body
+{
+	background-color:#f9f5ee;
+	padding-left:15px;
+	padding-right:15px;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	text-align:justify;
+	font-size:13px;
+	letter-spacing:1px;
+	line-height:20px;
+	height:auto;
+	overflow:auto;
+}
+
+.oeuvres_body_notes
+{
+	background-color:#f9f5ee;
+	padding-left:15px;
+	padding-right:15px;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	text-align:justify;
+	font-size:13px;
+	letter-spacing:1px;
+	line-height:20px;
+	padding-bottom:0;
+	margin-bottom:0;
+	min-height:100%;
+}
+
+.oeuvres_body_notes a
+{
+	color:#b9221b;
+	text-decoration:none;
+}
+
+.oeuvres_body_notes a:hover
+{
+	color:#b9221b;
+	border-bottom:#b9221b 1px dotted;
+}
+
+.oeuvres_body_notes h1
+{
+	font-size:16px;
+	margin-bottom:0;
+	margin-top:0;
+	padding-bottom:10px;
+	padding-top:15px;
+	border-bottom:#000 1px solid;
+}
+
+.oeuvres_body_notes h2
+{
+	font-size:14px;
+	margin-bottom:0;
+	padding-bottom:0;
+	padding-top:15px;
+	margin-top:0;
+}
+
+.oeuvres_body_notes h3
+{
+	font-size:13px;
+	margin-bottom:0;
+	padding-bottom:5px;
+	padding-top:15px;
+	margin-top:0;
+}
+.oeuvres_body_notes p
+{
+	margin-bottom:0;
+	padding-bottom:0;
+}
+
+.oeuvres_body_notes_piece
+{
+	background-color:#f9f5ee;
+	padding-left:15px;
+	padding-right:15px;
+	font-family:Tahoma,Arial,Helvetica,sans-serif;
+	text-align:justify;
+	font-size:13px;
+	letter-spacing:1px;
+	line-height:20px;
+	padding-bottom:0;
+	margin-bottom:0;
+	height:auto;
+}
+
+.oeuvres_body_notes_piece a
+{
+	color:#b9221b;
+	text-decoration:none;
+}
+
+.oeuvres_body_notes_piece a:hover
+{
+	color:#b9221b;
+	border-bottom:#b9221b 1px dotted;
+}
+
+.oeuvres_body_notes_piece h1
+{
+	font-size:16px;
+	margin-bottom:0;
+	padding-bottom:10px;
+	padding-top:15px;
+	margin-top:0;
+	border-bottom:#000 1px solid;
+}
+
+.oeuvres_body_notes_piece h2
+{
+	font-size:14px;
+	margin-bottom:0;
+	padding-bottom:0;
+	padding-top:15px;
+	margin-top:0;
+}
+
+.oeuvres_body_notes_piece h3
+{
+	font-size:13px;
+	margin-bottom:0;
+	padding-bottom:5px;
+	padding-top:15px;
+	margin-top:0;
+}
+
+.oeuvres_body_notes_piece p
+{
+	margin-bottom:0;
+	padding-bottom:0;
+}
+
+/* début gestion de la page oeuvres */
+
+
+/* début gestion de la page actualités */
+
+.actualites
+{
+	height:500px;
+	overflow:auto;
+	width:100%;
+}
+
+.actualites a
+{
+	text-decoration:none;
+	color:#b9221b;
+	font-weight:bold;
+	font-size:13px;
+	margin:auto;
+	letter-spacing:1px;
+	width:100%;
+}
+
+/* fin gestion de la page actualités */
+
+
+/* début gestion de la page filmographie */
+
+.img2
+{
+	background-image:url(images/maquette_tout_moliere_02.jpg);
+	width:529px;
+	height:124px;
+	float:left;
+	position:absolute;
+	top:0;
+	left:0;
+}	
+
+.img7
+{
+	background-image:url(images/maquette_tout_moliere_07.jpg);
+	width:115px;
+	height:581px;
+	position:absolute;
+	top:124px;
+	left:0;
+}
+
+.img9
+{
+	background-image:url(images/maquette_tout_moliere_10.jpg);
+	width:115px;
+	height:39px;
+	position:absolute;
+	top:705px;
+	left:0;
+}
+
+.iconographie a
+{
+	color:#333;
+	letter-spacing:1px;
+	line-height:20px;
+	font-size:12px;
+	text-decoration:none;
+	border-bottom:#333 dotted 1px;
+}
+
+.iconographie a:hover
+{
+	color:#ba231c;
+	letter-spacing:1px;
+	line-height:20px;
+	font-size:12px;
+	border-bottom:#ba231c solid 1px;
+}
+
+.filmographie_corps
+{
+	background-color:#f9f5ee;
+	height:156px;
+	width:100%;
+	position:absolute;
+	top:124px;
+	left:0;
+	overflow:hidden;
+}
+
+.filmographie_content
+{
+	margin-left:0px;
+	padding-top:15px;
+	overflow:hidden;
+	border-right:#ba231c 16px solid;
+}
+
+.filmographie_content h1
+{
+	font-size:14px;
+	font-variant:small-caps;
+	letter-spacing:3px;
+	color:#b9221b;
+	border-bottom:#b9221b 1px solid;
+	padding-left:10px;
+	padding-bottom:10px;
+	margin-top:0px;
+	margin-bottom:15px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+.filmographie_menu
+{
+	font-size:15px;
+	top:85px;
+	left:115px;
+	color:#999999;
+	font-variant:small-caps;
+	letter-spacing:2px;
+	position:absolute;
+	z-index:1;
+}
+
+.filmographie_menu a
+{
+	font-size:15px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+}
+
+.filmographie_menu a:hover
+{
+	color:#CC0000;
+}
+
+.filmographie body
+{
+	overflow:hidden;
+	margin:0px 0px 0px 0px;
+	width:100%;
+	height:100%;
+}
+
+.filmographie_resultats_cadre
+{
+	width:98%;
+	height:464px;
+	overflow:hidden;
+	left:0;
+	top:0;
+	position:absolute;
+	background-color:#f9f5ee;
+}
+
+.filmographie_resultats
+{
+	width:100%;
+	height:100%;
+	position:absolute;
+	overflow:hidden;
+	text-align:justify;
+	left:15px;
+}
+
+.filmographie_resultats_tableau
+{
+	overflow:auto;
+	height:390px;
+	position:absolute;
+	width:98%;
+	top:25px;
+}
+
+.filmographie_bordure_droite_exterieure
+{
+	height:464px;
+	width:16px;
+	float:right;
+	background:#b9221b;
+}
+
+.filmographie_bordure_droite_interieure
+{
+	height:464px;
+	width:20px;
+	float:right;
+	background:#f9f5ee;
+}
+
+.filmographie_bordure_pied_exterieure
+{
+	height:39px;
+	width:100%;
+	background:#b9221b;
+	position:absolute;
+	top:425px;
+	z-index:1;
+}
+
+.filmographie_texte
+{
+	width:98%;
+}
+
+.filmographie_resultats_tableau table a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.filmographie_resultats_tableau a:hover
+{
+	border-bottom:#FFFFFF 1px dotted;
+}
+
+.filmographie_scenovision
+{
+	font-size:14px;
+	text-align:center;
+	letter-spacing:1px;
+	position:absolute;
+	top:435px;
+	width:820px;
+	left:50%;
+	margin-left:-467px;
+	z-index:1;
+}
+
+.filmographie_scenovision a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.filmographie_scenovision a:hover
+{
+	border-bottom:dotted #FFFFFF 1px;
+}
+
+.filmographie_partenaires
+{
+	font-size:10px;
+	letter-spacing:1px;
+	text-align:center;
+	color:#333333;
+	position:absolute;	
+	top:470px;
+	width:550px;
+	left:50%;
+	margin-left:-332px;
+	z-index:1;
+}
+
+.filmographie_partenaires a
+{
+	color:#666666;
+	text-decoration:none;
+}
+
+.filmographie_partenaires a:hover
+{
+	color:#000000;
+}
+
+/* fin gestion de la page filmographie */
+
+
+/* début */
+
+.chronologie_texte
+{
+	height:505px;
+	padding-left:10px;
+	text-align:justify;
+	letter-spacing:1px;
+	line-height:20px;
+	overflow:auto;
+	font-size:12px;
+}
+
+.chronologie_texte h2
+{
+	font-size:12px;	
+	font-weight:bold;
+	color:#b9221b;
+	border-bottom:#b9221b 1px dotted;
+	padding-bottom:5px;
+	padding-left:5px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.chronologie_texte h3
+{
+	font-size:12px;	
+	font-weight:bold;
+	color:#b9221b;
+	margin-top:0;
+	padding-top:5px;
+	margin-bottom:5px;
+}
+
+.chronologie_texte p
+{
+	margin-bottom:10px;
+	margin-top:0px;
+}
+
+.chronologie_texte p a
+{
+	color:#b9221b;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.chronologie_texte p a:hover
+{
+	border-bottom:#b9221b 1px dotted;
+}
+
+.chronologie_date
+{
+	font-style:italic;
+}
+
+.chronologie_texte_image_content
+{
+	text-align:center;
+	padding-top:10px;
+}
+
+.chronologie_texte_image_content img
+{
+	border:1px solid #999999;
+}
+
+.chronologie_texte_image_texte
+{
+	padding-top:5px;
+}
+
+.chronologie_liste_verticale
+{
+	height:505px;
+	width:80px;
+    margin-left:0px;
+	padding-left:0px;
+	text-align:left;
+	letter-spacing:1px;
+	line-height:20px;
+	overflow:auto;
+	float:left;
+}
+
+.chronologie_liste_verticale ul
+{
+	font-size:12px;
+	padding-bottom:0px;
+	padding-left:0px;
+	margin-left:5px;
+	margin-top:0px;
+	margin-right:0px;
+	list-style:none;
+	font-weight:bold;
+	background-color:#999999;
+	text-align:center;
+	border-left:#999999 solid 1px;
+	border-bottom:#999999 solid 1px;
+	color:#FFFFFF;
+}
+
+.chronologie_liste_verticale li
+{
+	background-image:url(images/marky.gif);
+	background-repeat:no-repeat;
+	padding-left:15px;
+	background-position:0px;
+	font-weight:normal;
+	background-color:#f9f5ee;
+	text-align:left;
+}
+
+.chronologie_liste_verticale li a
+{
+	color:#333333;
+	text-decoration:none;
+}
+
+.chronologie_liste_verticale li a:hover
+{
+	color:#b9221b;
+}
+/* fin */

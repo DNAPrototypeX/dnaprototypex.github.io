@@ -1,0 +1,18 @@
+li.fieldset.pliable > fieldset > h3{
+	cursor:pointer;
+}
+
+li.fieldset.pliable > fieldset > h3 span{
+	padding-left:15px;
+	background:transparent url(prive/images/deplierbas.gif) left center no-repeat;
+}
+
+li.fieldset.plie > fieldset > h3 span{
+	background-image:url(prive/images/deplierhaut.gif);
+}
+
+
+.saisie_date_jour_mois_annee .choix {float:left;}
+.saisie_date_jour_mois_annee .choix+.choix {margin-left:1em;}
+.saisie_date_jour_mois_annee .choix label{display:block; width:auto;}
+.saisie_date_jour_mois_annee .choix .text{width:auto;}

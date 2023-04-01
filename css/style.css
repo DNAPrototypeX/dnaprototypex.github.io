@@ -1,0 +1,225 @@
+/*
+CSS TOUTMOLIERE.NET
+Agence Topwize DEV&COM
+http://topwize.com/
+*/
+
+/* Variables Style */
+.marginleft20{margin-left:20px;}
+.marginleft30{margin-left:30px;}
+.marginleft40{margin-left:40px;}
+.marginleft50{margin-left:50px;}
+.marginleft60{margin-left:60px;}
+.marginleft70{margin-left:70px;}
+.marginleft80{margin-left:80px;}
+.marginleft90{margin-left:90px;}
+.marginleft100{margin-left:100px;}
+.marginleft110{margin-left:110px;}
+.marginleft120{margin-left:120px;}
+.marginleft130{margin-left:130px;}
+.marginleft140{margin-left:140px;}
+.marginleft150{margin-left:150px;}
+.marginleft160{margin-left:160px;}
+.marginleft170{margin-left:170px;}
+.marginleft180{margin-left:180px;}
+.marginleft190{margin-left:190px;}
+.marginleft200{margin-left:200px;}
+.marginleft210{margin-left:210px;}
+.marginleft220{margin-left:220px;}
+.marginleft230{margin-left:230px;}
+.marginleft240{margin-left:240px;}
+.marginleft250{margin-left:250px;}
+.marginleft260{margin-left:260px;}
+.marginleft270{margin-left:270px;}
+.marginleft280{margin-left:280px;}
+.marginleft290{margin-left:290px;}
+.marginleft300{margin-left:300px;}
+.marginleft310{margin-left:310px;}
+.alignright{text-align:right;}
+.aligncenter{text-align:center;}
+.role {font-weight:bold;}
+.scene {border-top:#999 1px dotted; border-bottom:#999 1px dotted; text-align:center; font-size:14px; font-family:Georgia, "Times New Roman", Times, serif; font-weight:bold; margin:0; padding:0; padding-top:10px; padding-bottom:10px; margin-bottom:20px; margin-top:20px;}
+.gris {color:#8c8c8c;}
+.spip_documents_left {float:left; margin-right:25px; margin-bottom:15px;}
+.spip_documents_right {float:right; margin-left:25px; margin-bottom:15px;}
+.moliere_sommaire {display:none;}
+
+/* Base */
+html, body, div, p, img{margin: 0; padding: 0; border: 0;}
+
+/* Main Layout */
+body#home{background-color:#190101; font-family:Verdana, Geneva, sans-serif; font-size:12px;color:#3b3b3a; margin:0; padding:0; background-image:url(../images/background_home.jpg); background-position:top center; background-repeat:no-repeat;}
+body#gen{background-color:#1b0101; font-family:Verdana, Geneva, sans-serif; font-size:12px;color:#3b3b3a; margin:0; padding:0; background-image:url(../images/background.jpg); background-position:top center; background-repeat:no-repeat;}
+a {text-decoration:none;color:#4f0304;}
+a:hover {color:#94090b;text-decoration:underline;}
+p {padding-bottom:10px; line-height:1.5em;}
+h1 {padding:0; margin:0; font-family:Georgia, "Times New Roman", Times, serif; color:#640506; font-size:24px; font-weight:normal; margin-bottom:25px; margin-top:10px;} 
+h2 {padding:0; margin:0; font-family:Georgia, "Times New Roman", Times, serif; color:#640506; font-size:18px; font-weight:normal; margin-bottom:20px; display:block; border-top:solid 1px #bca7a5; border-bottom:solid 1px #bca7a5; background-image:url(../images/h2.gif); background-position:top left; background-repeat:no-repeat; padding-left:20px; line-height:27px; margin-top:20px} 
+h4 {padding:0; margin:0; font-family:Georgia, "Times New Roman", Times, serif; color:#640506; font-size:18px; font-weight:normal; margin-bottom:20px; margin-top:20px;} 
+input, select, textarea {border:0; font-size: 10px; color:#205c84; background:#efefeb;}
+hr {color:#efefef; background-color:#efefef; height:2px; border:0;}
+ul, li {color:#3b3b3a;line-height:1.5em;}
+
+/* Wrappers */
+#wrapper {width:985px;text-align: left; position: relative; margin-right: auto; margin-bottom: 0;margin-left: auto;padding: 0;}
+
+/* Extras */
+.clear{clear:both;}
+.scroll-pane{width: 100%;height: 250px;overflow: auto;}
+
+/* Sommaire */
+#wrapper_sommaire {width:995px;text-align: left; position: relative; margin-right: auto; margin-bottom: 0;margin-left: auto;padding: 0;}
+#gauche_menu {float:left; width:232px; padding-top:40px;}
+	#gm_moliere {display:block; width:232px; height:46px; background-image:url(../images/gm_moliere.png); background-position:top center; background-repeat:no-repeat;}
+		#gm_moliere span, a.gm_menu6 span, a.gm_menu7 span,a.gm_menu8 span,a.gm_menu9 span,a.gm_menu10 span, a.gm_menu16 span, a.gm_menu57 span, #gm_mediatheque span, a.gm_actu span, a.gm_contact span, a.gm_liens span {display:none;}
+	a.gm_menu6 {display:block; width:232px; height:21px; background-image:url(../images/gm_menu6.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_menu7 {display:block; width:232px; height:31px; background-image:url(../images/gm_menu7.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_menu8 {display:block; width:232px; height:25px; background-image:url(../images/gm_menu8.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_menu9 {display:block; width:232px; height:22px; background-image:url(../images/gm_menu9.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_menu10 {display:block; width:232px; height:16px; background-image:url(../images/gm_menu10.png); background-position:top center; background-repeat:no-repeat; padding-top:7px;}
+	a.gm_menu16 {display:block; width:232px; height:30px; background-image:url(../images/gm_menu16.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_menu57 {display:block; width:232px; height:22px; background-image:url(../images/gm_menu17.png); background-position:top center; background-repeat:no-repeat;}
+	#gm_mediatheque {display:block; width:232px; height:46px; background-image:url(../images/gm_mediatheque.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	a.gm_actu {display:block; width:232px; height:45px; background-image:url(../images/gm_actu.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_liens {display:block; width:232px; height:30px; background-image:url(../images/gm_liens.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	a.gm_contact {display:block; width:232px; height:45px; background-image:url(../images/gm_contact.png); background-position:top center; background-repeat:no-repeat;}
+	#gm_logos {float:left; margin-top:150px;}
+	a.gm_ot {display:inline-block; float:left; width:133px; height:88px; background-image:url(../images/ot_pezenas.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_pzs {display:inline-block; float:right; width:99px; height:109px; background-image:url(../images/logo_pezenas.png); background-position:top center; background-repeat:no-repeat;}
+	a.gm_ml {font-size:10px; color:#FFF; display:inline-block; float:left;width:133px; text-align:center;}
+#centre_home {width:703px; float:left; padding-top:65px; padding-left:45px; padding-right:15px;}
+	#centre_bienvenue {display:block; width:439px; height:36px; background-image:url(../images/home_bienvenue.png); background-position:top center; background-repeat:no-repeat; margin-bottom:10px;}
+	#centre_texte p span{text-align:justify; }
+	#centre_sceno {width:703px; float:left; height:71px; margin-top:350px;}
+	a.centre_bsceno {display:inline-block; float:left; height:71px; width:408px; background-image:url(../images/sceno.gif); background-position:top center; background-repeat:no-repeat;}
+	#centre_scenotxt {display:inline-block; float:left; height:71px; margin-left:20px;}
+	.cstxt_1 {font-size:14px; font-style:italic; color:#f8c206; display:block; margin-top:10px; margin-bottom:10px;}
+	.cstxt_2 {font-size:11px;  color:#f8c206;display:block;}
+	#centre_intro p {margin-top:5px; color:#f8c206;}
+
+/* General Gauche */
+#gauche {float:left; width:210px; padding-top:280px; margin-right:1px;}
+	a.gg_accueil {display:block; width:211px; height:23px; background-image:url(../images/gen_accueil.png); background-position:top center; background-repeat:no-repeat;}
+			#gg_moliere span, a.gg_menu6 span, a.gg_menu7 span,a.gg_menu8 span,a.gg_menu9 span,a.gg_menu10 span, a.gg_menu16 span, a.gg_menu57 span, #gg_mediatheque span, a.gg_actu span, a.gg_contact span, a.gg_liens span {display:none;}
+	a.gg_menu6 {display:block; width:211px; height:26px; background-image:url(../images/gg_menu6.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu7 {display:block; width:211px; height:19px; background-image:url(../images/gg_menu7.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu8 {display:block; width:211px; height:21px; background-image:url(../images/gg_menu8.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu9 {display:block; width:211px; height:25px; background-image:url(../images/gg_menu9.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu10 {display:block; width:211px; height:28px; background-image:url(../images/gg_menu10.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu16 {display:block; width:211px; height:24px; background-image:url(../images/gg_menu16.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_menu57 {display:block; width:211px; height:37px; background-image:url(../images/gg_menu17.png); background-position:top center; background-repeat:no-repeat;}
+	#gg_moliere {display:block; width:211px; height:39px; background-image:url(../images/gen_moliere.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	#gg_mediatheque {display:block; width:211px; height:49px; background-image:url(../images/gg_mediatheque.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	a.gg_actu {display:block; width:211px; height:43px; background-image:url(../images/gg_actu.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	a.gg_liens {display:block; width:211px; height:42px; background-image:url(../images/gg_liens.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	a.gg_contact {display:block; width:211px; height:38px; background-image:url(../images/gg_contact.png); background-position:top center; background-repeat:no-repeat; margin-top:5px;}
+	#gg_logos {float:left; margin-top:30px;}
+	a.gg_ot {display:inline-block; float:left; width:125px; height:75px; background-image:url(../images/gen_otpezenas.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_pzs {display:inline-block; float:right; width:85px; height:97px; background-image:url(../images/gen_villepezenas.png); background-position:top center; background-repeat:no-repeat;}
+	a.gg_ml {font-size:10px; color:#FFF; display:inline-block; float:left;width:126px; text-align:center;margin-bottom:5px;}
+	a.topwize {font-size:10px; color:#FFF; display:inline-block; clear:both; width:195px; text-align:left; margin-bottom:20px; padding-left:15px;}
+	.toplink {display:none;}
+	
+/* General Centre */
+#centre_haut {float:left; width:710px; height:100px;padding-left:30px; padding-right:33px;}	
+	#centre_pathway {float:right;font-size:9px; color:#94090b; display:block; background-image:url(../images/c_carre.png); padding-right:25px; background-repeat:no-repeat; background-position:top right; margin-top:50px; }
+		#centre_pathway a {color:#94090b; text-decoration:none;}
+		#centre_pathway a:hover {text-decoration:underline;}
+#centre {float:left; width:710px;padding-left:29px; padding-right:33px; background-color:#efefeb; padding-bottom:40px;}
+	#centre p {text-align:justify;}
+.ct_var {margin-bottom:10px; display:block;}
+.centre_notes {font-size:10px; background-color:#FFF; padding:20px; margin-top:20px; margin-bottom:20px;}
+.centre_notes_titre {display:block; font-size:16px; background-image:url(../images/notes.gif); background-position:top left; background-repeat:no-repeat; padding-bottom:10px; margin-bottom:25px; height:25px; border-bottom:1px dotted #333333;}
+.pagi {clear:both; margin-top:10px;}
+.gen_pagination {height:24px; display:block; clear:both; background-color:#f1ead7; border-bottom:3px solid #eedead; margin-bottom:40px;}
+	.pag { height:24px; float:left; width:132px; background-image:url(../images/pag.gif); background-position:top center; background-repeat:no-repeat; display:inline-block;}
+	.pad { height:24px; float:right; width:132px; background-image:url(../images/pad.gif); background-position:top center; background-repeat:no-repeat;display:inline-block;}
+	.lien_pag {float:left;height:24px; display:inline-block; line-height:24px; text-align:center;color:#efefeb;}
+		.lien_pag a {font-size:10px; font-weight:bold; color:#850406; text-decoration:none;}
+		.lien_pag .on{background-color:#850406; color:#efefeb;font-size:10px; font-weight:bold;text-decoration:none; padding:2px;}
+
+/* Centre Oeuvres */
+#centre_o {float:left; width:772px;background-color:#efefeb; padding-bottom:40px;}
+#centre_otxt  {width:495px;padding-left:40px; padding-right:40px; display:inline; float:left; background-color:#efefeb; padding-bottom:40px;}
+	#centre_o p {text-align:justify;}
+#droite_otxt {float:left; width:196px; height:100%;}
+#sidebar {display:inline;float:right; width:196px;}
+
+/* General Droite */
+#droite {float:right; width:196px;}
+	#droite_recherche {width:196px; height:92px; background-image:url(../images/dr_search.png); background-position:top center; background-repeat:no-repeat; padding-top:48px;}
+		#droite_recherche .submit { display:inline-block; background-image:url(../images/dr_search_ok.jpg); width:28px; height:22px; background-position:top center; background-repeat:no-repeat;}
+		#droite_recherche #droite label {display:none;}
+			#droite_recherche input#recherche {width:120px; border:1px solid #c39914; height:20px; margin-right:6px; background-image:url(../images/dr_search_bg.png); background-position:top left; background-repeat:repeat; color:#ffc81a;}
+			#droite_recherche #formulaire_recherche {padding-left:25px; padding-right:15px;}
+	a.droite_scenovision { float:right; background-image:url(../images/dr_sceno.jpg); background-repeat:no-repeat; background-position:top right; display:block; height:155px; width:201px; margin-top:30px;}
+	
+/* Droite Oeuvres */
+a.droite_pdf{display:inline; background-image:url(../images/pdf.png); background-position:top center; background-repeat:no-repeat; width:196px; height:47px; float:right; margin-bottom:30px;}
+	#lapiecetitre {background-image:url(../images/lapiece.png); width:196px; background-position:top right; background-repeat:no-repeat; border-bottom:1px solid #b28786; height:30px; margin:0; padding:0;}
+	ul#lapiece, .cs_sommaire ul {padding:0; margin:0;padding-top:10px; padding-left:10px; padding-bottom:10px; background-color:#f0e9cc;}
+	ul#lapiece li, .cs_sommaire ul li {list-style:none; text-align:left;}
+	ul#lapiece li a, .cs_sommaire ul li a {color:#4b4a47; font-size:10px; text-decoration:none; display:block; height:22px; line-height:22px; border-bottom:1px dotted #94090b; padding-left:5px;}
+		ul#lapiece li a:hover, .cs_sommaire ul li a:hover {color:#f8c219; border-bottom:1px dotted #f8c219; background-color:#94090b;}
+		ul#lapiece li a.on {color:#94090b;}
+			ul#lapiece li a.on:hover {color:#f8c219; border-bottom:1px dotted #f8c219; background-color:#94090b;}
+	.autoanchors {width:196px; clear:both;}
+	#lesscenestitre {background-image:url(../images/lesscenes.png); width:196px; background-position:top right; background-repeat:no-repeat; border-bottom:1px solid #b28786; height:30px; margin:0; padding:0; margin-top:20px;}
+
+/* Droite Dico */
+.droite_titredico {background-image:url(../images/droite_index.gif); height:33px; width:196px; background-position:top center; background-repeat:no-repeat;}
+	
+/* Include Droite */
+#droite_titre {width:196px; height:26px; border-bottom:1px solid #cc5e20; display:block; margin-top:30px;}
+#droite_liste {width:191px; background-color:#4f0304; padding-left:20px; padding-top:10px; padding-bottom:10px;}
+a.droite_liste_liens {display:block; border-bottom:1px dotted #94090b; color:#f1efe3; font-size:12px; padding-bottom:3px; padding-top:3px;}
+a.droite_liste_liens:hover {display:block; border-bottom:1px dotted #94090b; color:#ffffff; font-size:12px; padding-bottom:3px; padding-top:3px; background-color:#7d0406; text-decoration:none;}
+
+/* Galerie */
+.gal_rub {float:left; margin-right:20px; margin-bottom:30px;}
+a.gal_rubtitre {display:block; font-family:Georgia, "Times New Roman", Times, serif; font-size:18px; color:#350201; text-decoration:none;text-align:center;}
+	a.gal_rubtitre:hover {text-decoration:underline;}
+.gal {float:left; margin-left:20px; margin-right:20px; margin-bottom:20px;}
+	.galtitre {display:block; font-size:10px; color:#350201;}
+	
+/* Styles Divers */
+ul#ul_chrono {margin:0; padding:0; list-style:none;}
+ul#ul_chrono li {float:left; margin: 4px; padding:2px; padding-left:5px; padding-right:5px; list-style-type: none; border: solid 1px #deae15; background-color:#efd88a; font-size:10px;font-weight:normal;}
+ul#ul_chrono li a {font-size:10px; font-weight:normal;color:#4f0304;}
+ul#ul_chrono li a:hover {color:#f8c218; text-decoration:none;font-size:10px;font-weight:normal;}
+ul#ul_chrono li:hover {border: solid 1px #000; background-color:#4f0304; color:#f8c218;font-size:10px;}
+#articleaccueil {clear:both; padding-top:15px;}
+.titre_lien {font-weight:bold;}
+#liste1 {float:left; width:340px; margin-right:30px;}
+	#liste1 ul, #liste2 ul{padding:0; margin:0; padding-left:12px; padding-right:12px;}
+	#liste1 ul li,#liste2 ul li{padding:0; margin:0; list-style:none; font-size:11px;border-bottom:1px dotted #989898; display:block; line-height:23px;}
+	#liste1 a, #liste2 a {display:block; line-height:23px;}
+	#liste1 a:hover,#liste2  a:hover{text-decoration:none; background-color:#f0ebd5;}
+#liste2 {float:left; width:340px;}
+
+/* Notes */
+.notestxt {background-color:#efdda6; color:#6d0406; font-size:10px; padding:2px;}
+
+/* Pages Mediatheque */
+#textintro {background-color:#efede1; padding:25px; font-size:10px; display:block; margin-bottom:15px; padding-bottom:15px;}
+.listearticlesmedia {display:none;}
+#textemediasearch {text-align:center; width:100%; margin-top:20px; margin-bottom:10px;}
+#textemediasearch .submit { display:inline-block; width:28px; height:22px; background-position:top center; background-repeat:no-repeat; background-color:none; background-image:url(../images/form_ok.png); background-position:top center; background-repeat:no-repeat;}
+		#textemediasearch #droite label {display:none;}
+			#textemediasearch input#recherche {width:200px; border:1px solid #c39914; height:20px; margin-right:6px; background-color:#f0e9cc; color:#380203; margin-top:10px;margin-bottom:15px;}
+			
+/* Menu Scènes */
+div.cs_sommaire {display:block;padding:0; margin:0;padding-top:10px; padding-left:10px; padding-bottom:10px; background-color:#f0e9cc;}
+a.sommaire_ancre {}
+div.cs_sommaire a:after {display:none;}
+div.cs_sommaire_avec_fond {}
+div.cs_sommaire_sans_fond {}
+div.cs_sommaire_inner {}
+
+div.cs_sommaire_titre_avec_fond, div.cs_sommaire_titre_sans_fond {	display:none;}
+div.cs_sommaire ul{	margin:0;padding:0;font-size: 10px;list-style-type: none;}
+div.cs_sommaire ul li{margin:0;padding:0;list-style-image: none;list-style-type: none;}
+div.cs_sommaire_titre_avec_fond, div.cs_sommaire_titre_sans_fond {}
+div.cs_sommaire_replie {}
+.cs_sommaire_invisible{ display:none; }
+a.affgloss {color:#850003;}

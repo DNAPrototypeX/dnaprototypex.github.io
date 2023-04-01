@@ -1,0 +1,50 @@
+@charset "iso-8859-1";
+.intro {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	text-align:center;
+	}
+.ssTitre {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFFFFF;
+	}
+.legende {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:10px;
+	}
+.externe {
+	font-family :Verdana,Arial,sans-serif;
+	color: white;
+	font-weight :bold;
+	font-size :10px;
+	}
+.jump {
+	font-family :Verdana,Arial,sans-serif;
+	color: white;
+	font-weight :normal;
+	font-size :10px;
+	}
+A.lien {
+	font-family :Verdana,Arial,sans-serif;
+	color: blue;
+	font-size :10px;
+	text-decoration:none;
+	}
+A.lien:hover{color:#990000}
+A.lien:visited{color:#990000}	
+.bouton {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:10px;
+	width:140px;
+	}
+.titre {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	text-align:center;
+	}

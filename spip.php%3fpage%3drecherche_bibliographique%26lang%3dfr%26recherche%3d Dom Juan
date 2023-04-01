@@ -1,0 +1,1019 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+<head>
+<meta name="keywords" content="moliere, molière, toutmoliere, toumoliere, molire, moliere pezenas, ville pezenas, scenovision moliere, oeuvres, iconographie, bibliographie, filmographie, dico, personnages, oeuvres completes, theatre, illustre theatre"/>
+<meta name="copyright" content="Office de Tourisme de Pézenas Val d'Hérault"/>
+<meta name="author" content="Topwize - DEV&amp;amp;COM"/>
+<meta name="robots" content="INDEX, FOLLOW"/>
+<meta name="description" content="Le site de référence sur l'œuvre de Molière créé par la ville de Pézenas. Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes. Ce site a été conçu et élaboré par Gabriel Conesa, professeur à l'Université de Reims-Champagne Ardennes." /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="fr" />
+<meta name="category" content="History" />
+<meta name="distribution" content="global" />
+<meta name="revisit-after" content="7 days" />
+<meta name="identifier-url" content="http://www.toutmoliere.net" />
+<meta name="expires" content="never" />
+<meta name="copyright" content="Office de Tourisme de Pézenas Val d'Hérault"/>
+<meta name="author" content="Topwize - DEV&amp;amp;COM"/>
+<meta name="robots" content="INDEX, FOLLOW"/>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.toutmoliere.net/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" href="http://www.toutmoliere.net/spip.php?page=backend" title="Tout Molière" />
+
+<link rel="stylesheet" href="http://www.toutmoliere.net/css/style.css" type="text/css" />
+<link type="text/css" href="http://www.toutmoliere.net/css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+<link type="text/css" href="http://www.toutmoliere.net/css/listnav.css" rel="stylesheet" media="all" />
+<link href="http://www.toutmoliere.net/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<link rel='stylesheet' type='text/css' media='all' href='extensions/porte_plume/css/barre_outils.css' />
+<link rel='stylesheet' type='text/css' media='all' href='http://www.toutmoliere.net/spip.php?page=barre_outils_icones.css' />
+<link rel="stylesheet" href="http://www.toutmoliere.net/spip.php?page=cfg.css" type="text/css" media="all" /><link rel="stylesheet" href="plugins/auto/mediabox/colorbox/black-striped/colorbox.css" type="text/css" media="all" />
+<link rel='stylesheet' href='http://www.toutmoliere.net/spip.php?page=saisies.css' type='text/css' media='projection, screen, tv' />
+
+<script src="prive/javascript/jquery.js" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js" type="text/javascript"></script>
+<!-- insert_head --><!--[if lt IE 7]>
+	<script src='extensions/msie_compat/javascript/jquery.ifixpng.js'></script>
+	<script type='text/javascript'>//<![CDATA[
+		jQuery.ifixpng('rien.gif');		
+		function fixie() {
+			jQuery('img').ifixpng();
+		}
+		$(document).ready(function() { fixie(); });
+		onAjaxLoad(fixie);	
+	//]]></script>
+<![endif]-->
+<script type='text/javascript' src='extensions/porte_plume/javascript/xregexp-min.js'></script>
+<script type='text/javascript' src='extensions/porte_plume/javascript/jquery.markitup_pour_spip.js'></script>
+<script type='text/javascript' src='extensions/porte_plume/javascript/jquery.previsu_spip.js'></script>
+<script type='text/javascript' src='http://www.toutmoliere.net/spip.php?page=porte_plume_start.js&amp;lang=fr'></script>
+<link rel='stylesheet' href='http://www.toutmoliere.net/spip.php?page=forms_styles.css' type='text/css' media='all' />
+<link rel='stylesheet' href='plugins/auto/glossaire_interne/glossaire.css' type='text/css' media='all' />
+<script type='text/javascript' src='plugins/auto/glossaire_interne/glossaire.js'></script>
+<!-- Debut header du Couteau Suisse -->
+<script src="plugins/auto/couteau_suisse/outils/jquery.scrollto.js" type="text/javascript"></script>
+<script src="plugins/auto/couteau_suisse/outils/jquery.localscroll.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+var cs_prive=window.location.pathname.match(/\/ecrire\/$/)!=null;
+jQuery.fn.cs_todo=function(){return this.not('.cs_done').addClass('cs_done');};
+function soft_scroller_init() { if(typeof jQuery.localScroll=="function") jQuery.localScroll({hash: true}); }
+var cs_init = function() {
+	cs_sommaire_init.apply(this);
+	soft_scroller_init.apply(this);
+}
+if(typeof onAjaxLoad=='function') onAjaxLoad(cs_init);
+if(window.jQuery) {
+var cs_sel_jQuery=typeof jQuery(document).selector=='undefined'?'@':'';
+var cs_CookiePlugin="http://www.toutmoliere.net/prive/javascript/jquery.cookie.js";
+jQuery(document).ready(function(){
+	if(jQuery("div.cs_sommaire").length) {
+		// s'il y a un sommaire, on cache la navigation haute sur les pages
+		jQuery("div.decoupe_haut").css("display", "none");
+		// utilisation des cookies pour conserver l'etat du sommaire si on quitte la page
+		if(cs_CookiePlugin) jQuery.getScript(cs_CookiePlugin, cs_sommaire_cookie);
+	}
+	cs_init.apply(document);
+});
+}
+// --></script>
+
+<style type="text/css">
+
+</style>
+<script type="text/javascript" src="http://www.toutmoliere.net/plugins/auto/couteau_suisse/outils/sommaire.js"></script><!-- Fin header du Couteau Suisse -->
+
+
+<script src="plugins/auto/mediabox/javascript/jquery.colorbox.js?1379578253" type="text/javascript"></script>
+<script src="plugins/auto/mediabox/javascript/spip.mediabox.js?1379578253" type="text/javascript"></script><script type="text/javascript">/* <![CDATA[ */
+var box_settings = {tt_img:true,sel_g:".portfolio a",sel_c:".mediabox",trans:"elastic",speed:"200",ssSpeed:"2500",maxW:"90%",maxH:"90%",minW:"400px",minH:"",opa:"0.9",str_ssStart:"Diaporama",str_ssStop:"Arrêter",str_cur:"{current}/{total}",str_prev:"Pr&eacute;c&eacute;dent",str_next:"Suivant",str_close:"Fermer",splash_url:""};
+if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAjaxLoad(mediaboxInit); jQuery(mediaboxInit); }));
+/* ]]> */</script>
+
+<script type='text/javascript' src='plugins/auto/saisies/javascript/saisies.js'></script>
+
+<script type="text/javascript" src="http://www.toutmoliere.net/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://www.toutmoliere.net/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="http://www.toutmoliere.net/js/jquery.listnav.pack-2.1.js"></script>
+
+<!-- tips -->
+	<!--  <link rel="stylesheet" type="text/css" media="screen" href="http://www.toutmoliere.net/css/tinyTips.css" />	  -->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.toutmoliere.net/js/tinytips/tinyTips.css" />
+    <script type="text/javascript" src="http://www.toutmoliere.net/js/tinytips/jquery.tinyTips.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('a.tTip').tinyTips();
+        });
+    </script>     
+<!-- end tips -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1225519-50']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30226144-21', 'auto');
+  ga('send', 'pageview');
+
+</script><title>Tout Molière - M&eacute;diath&egrave;que - Bibliographie - Recherche :  Dom Juan</title>
+</head>
+
+<body id="gen">
+
+		<div id="wrapper">
+        
+        <div id="droite">
+        	<div id="droite_recherche">
+            	<div class="formulaire_spip formulaire_recherche" id="formulaire_recherche">
+<form action="http://www.toutmoliere.net/spip.php?page=recherche" method="get"><div>
+	<input name="page" value="recherche" type="hidden" />
+	<input type="hidden" name="lang" value="fr" />
+	<input type="text" class="text" size="10" name="recherche" id="recherche"[ value="&nbsp;"] accesskey="4" /><input type="submit" class="submit" value="&nbsp;" title="Rechercher" />
+</div></form>
+</div>
+            </div>
+        </div>
+        
+        <div id="gauche">
+    <a href="http://www.toutmoliere.net" class="gg_accueil" title="Tout Molière"></a>
+	<div id="gg_moliere"><span>Molière</span></div>
+    
+		<a href="oeuvres.html" title="Œuvres" class="gg_menu6"><span>Œuvres</span></a>
+	
+		<a href="chronologie.html" title="Chronologie" class="gg_menu7"><span>Chronologie</span></a>
+	
+		<a href="moliere-de-a-a-z.html" title="Molière de A à Z" class="gg_menu16"><span>Molière de A à Z</span></a>
+	
+		<a href="moliere-et-pezenas.html" title="Molière et Pézenas" class="gg_menu57"><span>Molière et Pézenas</span></a>
+	
+    	
+	<div id="gg_mediatheque"><span>Médiathèque</span></div>
+	
+		<a href="bibliographie.html" title="Bibliographie" class="gg_menu8"><span>Bibliographie</span></a>
+	
+		<a href="filmographie.html" title="Filmographie" class="gg_menu10"><span>Filmographie</span></a>
+	
+		<a href="iconographie.html" title="Iconographie" class="gg_menu9"><span>Iconographie</span></a>
+	
+	
+		<a href="actualites.html" title="Actualités" class="gg_actu"><span>Actualités</span></a>
+	
+	
+		<a href="liens.html" title="Liens" class="gg_liens"><span>Liens</span></a>
+	
+	
+		<a href="contact.html" title="Contact" class="gg_contact"><span>Contact</span></a>
+	
+    <div id="gg_logos">
+    	<a href="http://www.ot-pezenas-valdherault.com" target="_blank" class="gg_ot" title="OT Pézenas Val d'Hérault"></a>
+        <a href="http://www.ville-pezenas.fr" target="_blank" class="gg_pzs" title="Ville de Pézenas"></a>
+        <a href="mentions-legales.html" title="Mentions légales" class="gg_ml">Mentions légales</a>
+        <a href="http://www.topwize.com" title="Cr&eacute;ation site internet Topwize" class="topwize"><span class="toplink">Cr&eacute;ation site internet</span>Une cr&eacute;ation Topwize</a>
+    </div>
+</div>        
+        <div id="centre_haut">
+       		<div id="centre_pathway">
+                <a href="http://www.toutmoliere.net" title="Tout Molière">Accueil</a> > <a href="mediatheque.html" title="Médiathèque">Médiathèque</a> > <a href="bibliographie.html" title="Bibliographie">Bibliographie</a> > Recherche bibliographique
+            </div>
+        </div>
+        
+        <div id="centre">        
+            <div id="centre_titre"><h1 class="">Recherche Bibliographique</h1></div>
+            <div id="centre_texte">
+            <div id="textemedia">
+            	<div id="textemediasearch">
+                Nouvelle recherche bibliographique : <div class="formulaire_spip formulaire_recherche" id="formulaire_recherche">
+<form action="spip.php?page=recherche_bibliographique" method="get"><div>
+	<input name="page" value="recherche_bibliographique" type="hidden" />
+	<input type="hidden" name="lang" value="fr" />
+	<input type="text" class="text" size="10" name="recherche" id="recherche"[ value="&nbsp;"] accesskey="4" /><input type="submit" class="submit" value="&nbsp;" title="Rechercher" />
+</div></form>
+</div>
+                </div>
+                <div id="resultats">
+                
+            	<h2>R&eacute;sultats de la recherche <strong> Dom Juan</strong> :</h2>
+            	<ul>
+                    
+                    <li><a href="un-dom-juan-moderniste-a-saint-petersbourg.html" title="Un Dom Juan moderniste à Saint-Pétersbourg"><strong>Un Dom Juan moderniste à Saint-Pétersbourg</strong> de Abensour, Gérard</a></li>
+                    
+                    <li><a href="don-juan-als-libertin-molieres-don-juan-ou-le-festin-de-pierre-bearbeitungen-von-brecht-anouilh-vailland.html" title="Don Juan als Libertin. Molières Don Juan ou le festin de Pierre&nbsp;? Bearbeitungen von Brecht, Anouilh, Vailland"><strong>Don Juan als Libertin. Molières Don Juan ou le festin de Pierre&nbsp;? Bearbeitungen von Brecht, Anouilh, Vailland</strong> de GNÜG, Hiltrud</a></li>
+                    
+                    <li><a href="don-juan-et-la-deconstruction-des-ideologies-une-lecture-du-dom-juan-de-moliere.html" title="Don Juan et la déconstruction des idéologies. Une lecture du Dom Juan de Molière"><strong>Don Juan et la déconstruction des idéologies. Une lecture du Dom Juan de Molière</strong> de Fourcaut, Laurent</a></li>
+                    
+                    <li><a href="don-juan-et-la-mort-ou-la-difficulte-d-etre-libertin-dorimon-villiers-moliere-th-corneille-rosimond-et-les-don-juan-de-la-foire.html" title="Don Juan et la mort ou la difficulté d&#8217;être libertin&nbsp;: Dorimon, Villiers, Molière, Th. Corneille, Rosimond et les Don Juan de la Foire"><strong>Don Juan et la mort ou la difficulté d&#8217;être libertin&nbsp;: Dorimon, Villiers, Molière, Th. Corneille, Rosimond et les Don Juan de la Foire</strong> de Rivara, Annie</a></li>
+                    
+                    <li><a href="zur-literarischen-tradition-des-dom-juan-moliere-dom-juan-ou-le-festin-de-pierre.html" title="Zur literarischen Tradition des Dom Juan. Molière, Dom Juan ou le festin de pierre"><strong>Zur literarischen Tradition des Dom Juan. Molière, Dom Juan ou le festin de pierre</strong> de BORK, Claudia</a></li>
+                    
+                    <li><a href="explication-de-texte-dom-juan-i-2-tirade-de-dom-juan.html" title="Explication de texte&nbsp;: Dom Juan, I, 2&nbsp;: Tirade de Dom Juan"><strong>Explication de texte&nbsp;: Dom Juan, I, 2&nbsp;: Tirade de Dom Juan</strong> de ROPARS-WUILLEUMIER, Marie-Claire</a></li>
+                    
+                    <li><a href="le-don-juan-espagnol-et-le-don-juan-de-moliere.html" title="Le Don Juan espagnol et le Don Juan de Molière"><strong>Le Don Juan espagnol et le Don Juan de Molière</strong> de SAUVAGE, T.</a></li>
+                    
+                    <li><a href="le-jeu-de-dom-juan,405254.html" title="Le Jeu de Dom Juan"><strong>Le Jeu de Dom Juan</strong> de Dotoli, Giovanni&nbsp;; Brunel, Pierre (preface)</a></li>
+                    
+                    <li><a href="le-jeu-de-dom-juan,405115.html" title="&#171;&nbsp;Le jeu de Dom Juan&nbsp;&#187;."><strong>&#171;&nbsp;Le jeu de Dom Juan&nbsp;&#187;.</strong> de Dotoli, Giovanni</a></li>
+                    
+                    <li><a href="le-jeu-de-dom-juan.html" title="Le Jeu de Dom Juan"><strong>Le Jeu de Dom Juan</strong> de Dotoli, Giovanni</a></li>
+                    
+                    <li><a href="dom-juan,404240.html" title="Dom Juan"><strong>Dom Juan</strong> de SUARES, A.</a></li>
+                    
+                    <li><a href="dom-juan,403884.html" title="Dom Juan"><strong>Dom Juan</strong> de Sandier, Gilles</a></li>
+                    
+                    <li><a href="dom-juan,402753.html" title="Dom Juan"><strong>Dom Juan</strong> de MACLEAN, G.M</a></li>
+                    
+                    <li><a href="dom-juan,402607.html" title="Dom Juan"><strong>Dom Juan</strong> de LEPOUTRE, Raymond</a></li>
+                    
+                    <li><a href="dom-juan,402153.html" title="Dom Juan"><strong>Dom Juan</strong> de JANIN, J.</a></li>
+                    
+                    <li><a href="un-dom-juan.html" title="Un Dom Juan"><strong>Un Dom Juan</strong> de CARAT, Jacques</a></li>
+                    
+                    <li><a href="dom-juan,40407.html" title="Dom Juan"><strong>Dom Juan</strong> de BIHLER, Heinrich</a></li>
+                    
+                    <li><a href="don-juan.html" title="Don Juan"><strong>Don Juan</strong> de Barfoed, Niels</a></li>
+                    
+                    <li><a href="dom-juan-no-smoke-without-fire.html" title="Dom Juan&nbsp;: No Smoke without Fire"><strong>Dom Juan&nbsp;: No Smoke without Fire</strong> de Taylor-Woodrough, Elizabeth</a></li>
+                    
+                    <li><a href="portrait-de-don-juan-en-seducteur.html" title="&#171;&nbsp;Portrait de Don Juan en séducteur.&nbsp;&#187;"><strong>&#171;&nbsp;Portrait de Don Juan en séducteur.&nbsp;&#187;</strong> de BRUNEL, Pierre</a></li>
+                    
+                    <li><a href="la-langue-du-dom-juan-de-moliere.html" title="La Langue du &#8217;Dom Juan&#8217; de Molière"><strong>La Langue du &#8217;Dom Juan&#8217; de Molière</strong> de Dotoli, Giovanni</a></li>
+                    
+                    <li><a href="dom-juan-ou-le-libertin-de-l-esprit.html" title="Dom Juan, ou le libertin de l&#8217;esprit"><strong>Dom Juan, ou le libertin de l&#8217;esprit</strong> de VILLERS, André</a></li>
+                    
+                    <li><a href="moliere-don-juan-et-le-xxe-siecle.html" title="Molière, Don Juan et le XXe siècle"><strong>Molière, Don Juan et le XXe siècle</strong> de VIER, Jacques</a></li>
+                    
+                    <li><a href="don-juan-ou-la-conversion-manquee.html" title="Don Juan ou la conversion manquée"><strong>Don Juan ou la conversion manquée</strong> de Venesoen, Constant</a></li>
+                    
+                    <li><a href="dom-juan-moliere-mozart.html" title="Dom Juan, Molière, Mozart"><strong>Dom Juan, Molière, Mozart</strong> de VALETTE, Bernard</a></li>
+                    
+                    <li><a href="dom-juan-et-le-noble-vieillard.html" title="Dom Juan et le noble vieillard"><strong>Dom Juan et le noble vieillard</strong> de Ubersfeld, Annie</a></li>
+                    
+                    <li><a href="reflexions-sur-%C2%B4dom-juan-de-moliere.html" title="Réflexions sur ´Dom Juan&#8217; de Molière"><strong>Réflexions sur ´Dom Juan&#8217; de Molière</strong> de Teyssier, Jean-Marie</a></li>
+                    
+                    <li><a href="masques-dom-juan-de-moliere.html" title="Masques. Dom Juan de Molière"><strong>Masques. Dom Juan de Molière</strong> de TESSON, Philippe</a></li>
+                    
+                    <li><a href="an-analysis-of-the-plot-in-dom-juan.html" title="An Analysis of the &#8217;Plot&#8217; in Dom Juan"><strong>An Analysis of the &#8217;Plot&#8217; in Dom Juan</strong> de Stewart, Philip</a></li>
+                    
+                    <li><a href="the-shadow-of-dom-juan-in-moliere.html" title="The Shadow of Dom Juan in Molière"><strong>The Shadow of Dom Juan in Molière</strong> de Singer, Irving</a></li>
+                    
+                    <li><a href="le-don-de-dom-juan-ou-la-naissance-de-la-comedie.html" title="Le Don de Dom Juan ou la naissance de la comédie"><strong>Le Don de Dom Juan ou la naissance de la comédie</strong> de Serres, Michel</a></li>
+                    
+                    <li><a href="dom-juan-a-la-comedie-francaise,404007.html" title="Dom Juan à la Comédie-Française"><strong>Dom Juan à la Comédie-Française</strong> de SENART, Philippe</a></li>
+                    
+                    <li><a href="uberspektatel-dom-juan-in-stuttgart.html" title="Überspektatel. Dom Juan in Stuttgart"><strong>Überspektatel. Dom Juan in Stuttgart</strong> de SEIDEL, Hans-Dieter</a></li>
+                    
+                    <li><a href="en-marge-de-la-reprise-de-dom-juan.html" title="En marge de la reprise de Dom Juan"><strong>En marge de la reprise de Dom Juan</strong> de SEBASTIEN</a></li>
+                    
+                    <li><a href="die-quellen-des-dom-juan-von-moliere.html" title="Die Quellen des Dom Juan von Molière"><strong>Die Quellen des Dom Juan von Molière</strong> de SchrÖder, Theodor August Emil</a></li>
+                    
+                    <li><a href="l-enigme-de-l-age-la-riposte-de-don-juan.html" title="L&#8217;Enigme de l&#8217;âge&nbsp;: La riposte de Don Juan"><strong>L&#8217;Enigme de l&#8217;âge&nbsp;: La riposte de Don Juan</strong> de Schneider, Monique</a></li>
+                    
+                    <li><a href="la-statue-du-commandeur-dom-juan.html" title="La Statue du Commandeur [Dom Juan]"><strong>La Statue du Commandeur [Dom Juan]</strong> de SCHERER, Jacques</a></li>
+                    
+                    <li><a href="don-juan-notre-contemporain.html" title="Don Juan, notre contemporain"><strong>Don Juan, notre contemporain</strong> de SANDIER, Gilles</a></li>
+                    
+                    <li><a href="don-juan-et-les-metamorphoses-d-une-structure.html" title="Don Juan et les métamorphoses d&#8217;une structure"><strong>Don Juan et les métamorphoses d&#8217;une structure</strong> de Rousset, Jean</a></li>
+                    
+                    <li><a href="la-mise-en-scene-de-dom-juan.html" title="La mise en scène de Dom Juan."><strong>La mise en scène de Dom Juan.</strong> de ROUCHE, Jacques</a></li>
+                    
+                    <li><a href="dom-juan-the-subject-of-modernity.html" title="Dom Juan&nbsp;: The Subject of Modernity"><strong>Dom Juan&nbsp;: The Subject of Modernity</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="dom-juan-and-non-aristotelian-drama.html" title="Dom Juan and &#8217;Non-Aristotelian Drama&#8217;"><strong>Dom Juan and &#8217;Non-Aristotelian Drama&#8217;</strong> de Potts, D.C.</a></li>
+                    
+                    <li><a href="de-l-importance-de-sganarelle-dom-juan.html" title="De l&#8217;importance de Sganarelle [Dom Juan] "><strong>De l&#8217;importance de Sganarelle [Dom Juan] </strong> de PORTAL, Georges</a></li>
+                    
+                    <li><a href="dom-juan-ou-l-aventurier-de-l-eros.html" title="Dom Juan ou l&#8217;aventurier de l&#8217;Eros"><strong>Dom Juan ou l&#8217;aventurier de l&#8217;Eros</strong> de PLANSON, Claude</a></li>
+                    
+                    <li><a href="remarques-sur-le-dom-juan-de-moliere.html" title="Remarques sur le Dom Juan de Molière"><strong>Remarques sur le Dom Juan de Molière</strong> de PIZZORUSSO, Arnaldo</a></li>
+                    
+                    <li><a href="don-juan-mauvais-eleve.html" title="Don Juan &#8217;mauvais élève&#8217;"><strong>Don Juan &#8217;mauvais élève&#8217;</strong> de Pineau, Joseph</a></li>
+                    
+                    <li><a href="don-juan-ou-faire-de-la-philosophie.html" title="Don Juan ou faire de la philosophie"><strong>Don Juan ou faire de la philosophie</strong> de PENSOM, Roger</a></li>
+                    
+                    <li><a href="dom-juan-a-la-comedie-francaise.html" title="Dom Juan à la Comédie-Française"><strong>Dom Juan à la Comédie-Française</strong> de NORES, Dominique</a></li>
+                    
+                    <li><a href="moliere-drammatico-dom-juan.html" title="Molière drammatico [Dom Juan]"><strong>Molière drammatico [Dom Juan]</strong> de NERI, Fernando</a></li>
+                    
+                    <li><a href="un-mare-nelinistit-dom-juan.html" title="Un mare nelinistit. Dom Juan"><strong>Un mare nelinistit. Dom Juan</strong> de MUNTEANU, B.</a></li>
+                    
+                    <li><a href="dom-juan-ou-la-securalisation-de-l-impenitence.html" title="Dom Juan ou la sécuralisation de l&#8217;impénitence"><strong>Dom Juan ou la sécuralisation de l&#8217;impénitence</strong> de MCBRIDE, Robert</a></li>
+                    
+                    <li><a href="don-juan-et-la-mise-en-scene.html" title="Don Juan et la mise en scène"><strong>Don Juan et la mise en scène</strong> de Maulnier, Thierry</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-le-notre.html" title="Le Dom Juan de Molière et le nôtre"><strong>Le Dom Juan de Molière et le nôtre</strong> de MAULNIER, Th.</a></li>
+                    
+                    <li><a href="dom-juan-le-defi-de-la-parole.html" title="Dom Juan. Le défi de la parole"><strong>Dom Juan. Le défi de la parole</strong> de MATHIOT, Pascal</a></li>
+                    
+                    <li><a href="dom-juan-et-le-defi-metaphysique.html" title="Dom Juan et le défi métaphysique"><strong>Dom Juan et le défi métaphysique</strong> de MARTINOIR, Francine Ninane de</a></li>
+                    
+                    <li><a href="dire-et-seduire-dom-juan.html" title="Dire et séduire (Dom Juan)."><strong>Dire et séduire (Dom Juan).</strong> de Laffite, Maryse</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-une-liberation.html" title="Le Dom Juan de Molière&nbsp;: une libération"><strong>Le Dom Juan de Molière&nbsp;: une libération</strong> de Krauss, Janine</a></li>
+                    
+                    <li><a href="don-juan-ou-le-refus-de-la-dette.html" title="Don Juan ou le refus de la dette"><strong>Don Juan ou le refus de la dette</strong> de KOFMAN, Sarah&nbsp;; Masson, Jean-Yves</a></li>
+                    
+                    <li><a href="don-juan-dans-ses-meubles.html" title="Don Juan dans ses meubles"><strong>Don Juan dans ses meubles</strong> de Jurgens, M.</a></li>
+                    
+                    <li><a href="molieres-komodie-dom-juan.html" title="Molières Komodie Dom Juan"><strong>Molières Komodie Dom Juan</strong> de Hosle, Johannes</a></li>
+                    
+                    <li><a href="la-derniere-ruse-de-dom-juan.html" title="La dernière ruse de Dom Juan&nbsp;?"><strong>La dernière ruse de Dom Juan&nbsp;?</strong> de Hallyn, Fernand</a></li>
+                    
+                    <li><a href="don-juan-et-le-tabou-d-inceste.html" title="Don Juan et le tabou d&#8217;inceste "><strong>Don Juan et le tabou d&#8217;inceste </strong> de Gutwirth, Marcel</a></li>
+                    
+                    <li><a href="dom-juan-and-heaven-s-spokesman.html" title="Dom Juan and heaven&#8217;s spokesman "><strong>Dom Juan and heaven&#8217;s spokesman </strong> de Goode, William O.</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-les-autres.html" title="Le Dom Juan de Molière et les autres"><strong>Le Dom Juan de Molière et les autres</strong> de GAXOTTE, P.</a></li>
+                    
+                    <li><a href="dom-juan-et-les-paradoxes-de-la-reverie.html" title="Dom Juan et les paradoxes de la rêverie"><strong>Dom Juan et les paradoxes de la rêverie</strong> de GAINES, James F.</a></li>
+                    
+                    <li><a href="a-propos-du-dom-juan-de-moliere.html" title="A propos du Dom Juan de Molière"><strong>A propos du Dom Juan de Molière</strong> de FOURNIER, Ed.</a></li>
+                    
+                    <li><a href="dom-juan-et-l-economie-sociale.html" title="Dom Juan et l&#8217;économie sociale"><strong>Dom Juan et l&#8217;économie sociale</strong> de FARRELL, Michèle Longino</a></li>
+                    
+                    <li><a href="chasseur-chasse-don-juan.html" title="Chasseur chassé. Don Juan"><strong>Chasseur chassé. Don Juan</strong> de EstEve, Michel</a></li>
+                    
+                    <li><a href="de-moliere-a-beaumarchais-par-don-juan.html" title="De Molière à Beaumarchais par Don Juan"><strong>De Molière à Beaumarchais par Don Juan</strong> de EMILIAN, Alexandra</a></li>
+                    
+                    <li><a href="dom-juan-ou-le-festin-de-pierre,401238.html" title="Dom Juan ou le festin de pierre"><strong>Dom Juan ou le festin de pierre</strong> de DUFFES, E.</a></li>
+                    
+                    <li><a href="monsieur-de-queriolet-et-dom-juan.html" title="Monsieur de Queriolet et Dom Juan"><strong>Monsieur de Queriolet et Dom Juan</strong> de Dreano, M.</a></li>
+                    
+                    <li><a href="the-humanity-of-moliere-s-dom-juan.html" title="The Humanity of Molière&#8217;s Dom Juan"><strong>The Humanity of Molière&#8217;s Dom Juan</strong> de Doolittle, James</a></li>
+                    
+                    <li><a href="a-propos-du-dom-juan-de-moliere,401142.html" title="A propos du Dom Juan de Molière"><strong>A propos du Dom Juan de Molière</strong> de DI GIROLAMO, Giacomo</a></li>
+                    
+                    <li><a href="dom-juan-heroisme-et-desir.html" title="Dom Juan&nbsp;: Héroïsme et désir"><strong>Dom Juan&nbsp;: Héroïsme et désir</strong> de Dens, Jean-Pierre</a></li>
+                    
+                    <li><a href="dom-juan-et-le-theatre-a-machines.html" title="Dom Juan et le théâtre à machines"><strong>Dom Juan et le théâtre à machines</strong> de Delmas, Christian</a></li>
+                    
+                    <li><a href="dom-juan-ou-la-comedie-foudroyee.html" title="Dom Juan ou la comédie foudroyée"><strong>Dom Juan ou la comédie foudroyée</strong> de Defaux, G.</a></li>
+                    
+                    <li><a href="dom-juan-ou-le-defi-du-verbe.html" title="Dom Juan ou le défi du verbe"><strong>Dom Juan ou le défi du verbe</strong> de DAUPHINE, Claude</a></li>
+                    
+                    <li><a href="la-scena-del-povero-nel-dom-juan.html" title="La scena del povero nel Dom Juan"><strong>La scena del povero nel Dom Juan</strong> de CROCE, B.</a></li>
+                    
+                    <li><a href="aspects-du-dom-juan-de-moliere.html" title="Aspects du Dom Juan de Molière"><strong>Aspects du Dom Juan de Molière</strong> de CHAUFFETEAU, J. G.</a></li>
+                    
+                    <li><a href="don-juan-ou-la-promesse-d-amour.html" title="Don Juan ou la promesse d&#8217;amour"><strong>Don Juan ou la promesse d&#8217;amour</strong> de Cerlard, Jacques. Felman, Shoshana. Sollers, Philippe. Forester, Viviane. Schneider, Monique</a></li>
+                    
+                    <li><a href="don-juan-le-chagrin-de-l-amour.html" title="Don Juan&nbsp;: Le Chagrin de l&#8217;amour"><strong>Don Juan&nbsp;: Le Chagrin de l&#8217;amour</strong> de Bollon, Patrice</a></li>
+                    
+                    <li><a href="l-enigmatique-dom-juan-de-moliere.html" title="L&#8217; énigmatique Dom Juan de Molière"><strong>L&#8217; énigmatique Dom Juan de Molière</strong> de BAUMAL, F.</a></li>
+                    
+                    <li><a href="dom-juan-comedie-d-actualite.html" title="Dom Juan, comédie d&#8217; actualité"><strong>Dom Juan, comédie d&#8217; actualité</strong> de BAUMAL, F.</a></li>
+                    
+                    <li><a href="sur-quelques-elvire-dom-juan.html" title="Sur quelques Elvire [Dom Juan]"><strong>Sur quelques Elvire [Dom Juan]</strong> de Baron, Philippe</a></li>
+                    
+                    <li><a href="un-mythe-menace-dom-juan.html" title="Un mythe menace [Dom Juan]"><strong>Un mythe menace [Dom Juan]</strong> de ATTOUN, Lucien</a></li>
+                    
+                    <li><a href="l-or-et-le-feu-une-lecture-du-dom-juan-de-moliere.html" title="L&#8217;Or et le feu&nbsp;: Une Lecture du Dom Juan de Molière"><strong>L&#8217;Or et le feu&nbsp;: Une Lecture du Dom Juan de Molière</strong> de Apostolides, Jean-Marie</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-une-comedie.html" title="Dom Juan de Molière, une comédie&nbsp;?"><strong>Dom Juan de Molière, une comédie&nbsp;?</strong> de AMARAL, Maria Joao</a></li>
+                    
+                    <li><a href="dom-juan-contre-alceste.html" title="Dom Juan contre Alceste"><strong>Dom Juan contre Alceste</strong> de Abraham, Pierre</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere,405150.html" title="Dom Juan de Molière"><strong>Dom Juan de Molière</strong> de Fessier, Guy</a></li>
+                    
+                    <li><a href="translating-don-juan.html" title="&#171;&nbsp;Translating <I>Don Juan</I>&nbsp;&#187;."><strong>&#171;&nbsp;Translating <I>Don Juan</I>&nbsp;&#187;.</strong> de SLATER, Maya</a></li>
+                    
+                    <li><a href="dom-juan-by-moliere.html" title="&#171;&nbsp;Dom Juan&nbsp;&#187; by Moliere."><strong>&#171;&nbsp;Dom Juan&nbsp;&#187; by Moliere.</strong> de BORGSTROM, C. Henrik</a></li>
+                    
+                    <li><a href="moliere-dom-juan,404643.html" title="Molière, Dom Juan"><strong>Molière, Dom Juan</strong> de Whitton, David</a></li>
+                    
+                    <li><a href="dom-juan-in-bohemia.html" title="Dom Juan in Bohemia"><strong>Dom Juan in Bohemia</strong> de WHITTON, David</a></li>
+                    
+                    <li><a href="dom-juan-vu-par-les-lyceens.html" title="Dom Juan vu par les lycéens"><strong>Dom Juan vu par les lycéens</strong> de VILLIERS, A.</a></li>
+                    
+                    <li><a href="dom-juan-revisited.html" title="Dom Juan revisited"><strong>Dom Juan revisited</strong> de VILLIERS, A.</a></li>
+                    
+                    <li><a href="reprise-de-dom-juan.html" title="Reprise de Dom Juan"><strong>Reprise de Dom Juan</strong> de VIGUIER, A.</a></li>
+                    
+                    <li><a href="don-juan-ou-l-imposteur.html" title="Don Juan ou l&#8217;Imposteur "><strong>Don Juan ou l&#8217;Imposteur </strong> de Verdeil, Jean</a></li>
+                    
+                    <li><a href="molieres-dom-juan,404457.html" title="Molieres Dom Juan"><strong>Molieres Dom Juan</strong> de VAN HAMEL, A. G.</a></li>
+                    
+                    <li><a href="don-juan-a-la-foire.html" title="Don Juan à la Foire"><strong>Don Juan à la Foire</strong> de Spaziani, Marcello</a></li>
+                    
+                    <li><a href="puschkin-y-don-juan.html" title="Puschkin y Don Juan"><strong>Puschkin y Don Juan</strong> de Serrano Poncela, Segundo</a></li>
+                    
+                    <li><a href="l-honneur-de-dom-juan.html" title="L&#8217;honneur de Dom Juan"><strong>L&#8217;honneur de Dom Juan</strong> de SCHÜLER, Gerda</a></li>
+                    
+                    <li><a href="l-honneur-de-dom-juan,403976.html" title="L&#8217;Honneur de Dom Juan"><strong>L&#8217;Honneur de Dom Juan</strong> de Schuler, Gerda</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,403683.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de RHEINWALD, A.</a></li>
+                    
+                    <li><a href="don-juan-jouant.html" title="Don Juan jouant"><strong>Don Juan jouant</strong> de REICHLER, Claude</a></li>
+                    
+                    <li><a href="dom-juan-og-sganarelle.html" title="Dom Juan og Sganarelle"><strong>Dom Juan og Sganarelle</strong> de RASMUSSEN, Ole Wehner</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de PHOLIEN, G.</a></li>
+                    
+                    <li><a href="le-mystere-de-dom-juan.html" title="Le mystère de Dom Juan"><strong>Le mystère de Dom Juan</strong> de ONIMUS, Jean</a></li>
+                    
+                    <li><a href="de-l-unite-de-dom-juan.html" title="De l&#8217;unité de Dom Juan"><strong>De l&#8217;unité de Dom Juan</strong> de Obase, Takuzo</a></li>
+                    
+                    <li><a href="moliere-dom-juan.html" title="Molière, Dom Juan"><strong>Molière, Dom Juan</strong> de NERI, F.</a></li>
+                    
+                    <li><a href="don-juan-est-il-comique.html" title="Don Juan est-il comique&nbsp;? "><strong>Don Juan est-il comique&nbsp;? </strong> de Mourgues, Odette de</a></li>
+                    
+                    <li><a href="dom-juan-reconsidered.html" title="Dom Juan reconsidered"><strong>Dom Juan reconsidered</strong> de MOORE, Will. G.</a></li>
+                    
+                    <li><a href="zu-molieres-dom-juan.html" title="Zu Molieres Dom Juan"><strong>Zu Molieres Dom Juan</strong> de MARENHOLTZ, R.</a></li>
+                    
+                    <li><a href="dom-juan-di-moliere.html" title="Dom Juan di Molière "><strong>Dom Juan di Molière </strong> de MACCHIA, Giovanni</a></li>
+                    
+                    <li><a href="on-repete-dom-juan.html" title="On répète Dom Juan"><strong>On répète Dom Juan</strong> de LEPOUTRE, Raymond</a></li>
+                    
+                    <li><a href="dom-juan-et-la-verite.html" title="Dom Juan et la vérité"><strong>Dom Juan et la vérité</strong> de LEFEBVRE, J.</a></li>
+                    
+                    <li><a href="la-naissance-de-don-juan.html" title="La Naissance de Don Juan"><strong>La Naissance de Don Juan</strong> de Le Boulay, Jean-Claude</a></li>
+                    
+                    <li><a href="dom-juan-le-non-dit-souverain.html" title="Dom Juan. Le non-dit souverain"><strong>Dom Juan. Le non-dit souverain</strong> de Jaubert, Anna</a></li>
+                    
+                    <li><a href="le-veritable-dom-juan.html" title="Le véritable Dom Juan"><strong>Le véritable Dom Juan</strong> de HENRIOT, Em.</a></li>
+                    
+                    <li><a href="l-avenir-de-dom-juan.html" title="L&#8217;Avenir de Dom Juan"><strong>L&#8217;Avenir de Dom Juan</strong> de Han, Françoise</a></li>
+                    
+                    <li><a href="les-performances-de-dom-juan.html" title="Les Performances de Dom Juan"><strong>Les Performances de Dom Juan</strong> de Hamard, Marie-Thérèse</a></li>
+                    
+                    <li><a href="a-comic-dom-juan.html" title="A comic Dom Juan"><strong>A comic Dom Juan</strong> de HALL, H. G.</a></li>
+                    
+                    <li><a href="l-inhumain-dom-juan.html" title="L&#8217;inhumain Dom Juan"><strong>L&#8217;inhumain Dom Juan</strong> de GOUHIER, H.</a></li>
+                    
+                    <li><a href="la-legende-de-dom-juan.html" title="La Légende de Dom Juan"><strong>La Légende de Dom Juan</strong> de GENDARME DE BEVOTTE Georges</a></li>
+                    
+                    <li><a href="don-juan-et-le-probleme-du-mal.html" title="Don Juan et le problème du mal"><strong>Don Juan et le problème du mal</strong> de GAUDEFROY-DEMOMBYNES, J.</a></li>
+                    
+                    <li><a href="molieres-dom-juan.html" title="Molières Dom Juan "><strong>Molières Dom Juan </strong> de GASPARY A.</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,401595.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de GANDERAX, L.</a></li>
+                    
+                    <li><a href="moliere-don-juan.html" title="Molière, Don Juan"><strong>Molière, Don Juan</strong> de Gaiffe, Félix</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,401490.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de FOURNEL, V.</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere.html" title="Dom Juan de Molière"><strong>Dom Juan de Molière</strong> de FIORENTINO, Liberato</a></li>
+                    
+                    <li><a href="the-impotence-of-dom-juan.html" title="The Impotence of Dom Juan"><strong>The Impotence of Dom Juan</strong> de Dunmore, John</a></li>
+                    
+                    <li><a href="sur-un-decor-de-dom-juan.html" title="Sur un décor de Dom Juan"><strong>Sur un décor de Dom Juan</strong> de DELMAS, Christian</a></li>
+                    
+                    <li><a href="dom-juan-elvire-et-moi.html" title="Dom Juan, Elvire et moi"><strong>Dom Juan, Elvire et moi</strong> de Coudert, Marie-Louise</a></li>
+                    
+                    <li><a href="moartea-lui-dom-juan.html" title="Moartea lui Dom Juan"><strong>Moartea lui Dom Juan</strong> de Costache, Mihaela</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,40926.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de COQUELIN, C.</a></li>
+                    
+                    <li><a href="avatars-de-dom-juan.html" title="Avatars de Dom Juan"><strong>Avatars de Dom Juan</strong> de Collinet, Jean-Pierre</a></li>
+                    
+                    <li><a href="the-ambiguity-of-don-juan.html" title="The Ambiguity of Don Juan"><strong>The Ambiguity of Don Juan</strong> de Coe, Richard N.</a></li>
+                    
+                    <li><a href="dom-juan-le-theatre.html" title="Dom Juan. Le Théâtre"><strong>Dom Juan. Le Théâtre</strong> de CHABERT, Pierre</a></li>
+                    
+                    <li><a href="du-dom-juan-a-la-fanfarlo.html" title="Du Dom Juan à La Fanfarlo"><strong>Du Dom Juan à La Fanfarlo</strong> de CARAMASCHI, Enzo</a></li>
+                    
+                    <li><a href="dom-juan-et-les-moralistes.html" title="Dom Juan et les moralistes"><strong>Dom Juan et les moralistes</strong> de Bouvier, Michel</a></li>
+                    
+                    <li><a href="dom-juan-and-don-giovanni.html" title="Dom Juan and Don Giovanni"><strong>Dom Juan and Don Giovanni</strong> de Bloch, Adèle</a></li>
+                    
+                    <li><a href="gravite-de-don-juan.html" title="Gravité de Don Juan"><strong>Gravité de Don Juan</strong> de BLAIN, M.</a></li>
+                    
+                    <li><a href="die-blasphemie-in-dom-juan.html" title="Die Blasphemie in Dom Juan"><strong>Die Blasphemie in Dom Juan</strong> de BLAIKNER,Gabriele</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,40377.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de BERNARDIN, N.-M.</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere,40137.html" title="Le Dom Juan de Molière"><strong>Le Dom Juan de Molière</strong> de Arnavon, Jacques</a></li>
+                    
+                    <li><a href="dom-juan-alchimiste.html" title="Dom Juan alchimiste"><strong>Dom Juan alchimiste</strong> de Apostolides, Jean-Marie</a></li>
+                    
+                    <li><a href="dom-juan-a-reassessment-in-view-of-modern-existentialism.html" title="Dom Juan, A reassessment in View of Modern Existentialism"><strong>Dom Juan, A reassessment in View of Modern Existentialism</strong> de Wiingard, Jytte</a></li>
+                    
+                    <li><a href="les-antinomies-de-l-echange-dans-le-dom-juan-de-moliere.html" title="Les antinomies de l&#8217;échange dans le Dom Juan de Molière"><strong>Les antinomies de l&#8217;échange dans le Dom Juan de Molière</strong> de Villani, Arnaud</a></li>
+                    
+                    <li><a href="dom-juan-le-defi-comme-subversion-du-symbolique.html" title="Dom Juan, le défi comme subversion du symbolique"><strong>Dom Juan, le défi comme subversion du symbolique</strong> de VILLANI, Arnaud</a></li>
+                    
+                    <li><a href="moliere-dom-juan-acte-iii-scene-1-1665.html" title="Molière, Dom Juan (acte III, scène 1, 1665)"><strong>Molière, Dom Juan (acte III, scène 1, 1665)</strong> de Van Lier, Henri</a></li>
+                    
+                    <li><a href="dom-juan-ou-le-principe-du-plaisir-litterature-et-gastronomie.html" title="Dom Juan, ou le principe du plaisir, Littérature et gastronomie"><strong>Dom Juan, ou le principe du plaisir, Littérature et gastronomie</strong> de Tobin, Ronald W.</a></li>
+                    
+                    <li><a href="die-verlassene-done-elvire-in-molieres-dom-juan-1665.html" title="Die Verlassene&nbsp;? Done Elvire in Molières Dom Juan (1665)"><strong>Die Verlassene&nbsp;? Done Elvire in Molières Dom Juan (1665)</strong> de SZAROTA, Elida Maria</a></li>
+                    
+                    <li><a href="playing-with-signs-the-discourse-of-moliere-s-don-juan.html" title="Playing with Signs&nbsp;: The Discourse of Molière&#8217;s Don Juan"><strong>Playing with Signs&nbsp;: The Discourse of Molière&#8217;s Don Juan</strong> de Stanton, Domna C.</a></li>
+                    
+                    <li><a href="une-enigme-d-histoire-litteraire-l-elvire-de-dom-juan.html" title="Une énigme d&#8217;histoire littéraire. L&#8217;Elvire de Dom Juan"><strong>Une énigme d&#8217;histoire littéraire. L&#8217;Elvire de Dom Juan</strong> de SAUVAGE, Micheline</a></li>
+                    
+                    <li><a href="le-personnage-de-sganarelle-dans-la-comedie-de-dom-juan.html" title="Le personnage de Sganarelle dans la comédie de Dom Juan"><strong>Le personnage de Sganarelle dans la comédie de Dom Juan</strong> de RUCH, M.</a></li>
+                    
+                    <li><a href="marketing-power-the-seduction-of-rhetoric-in-dom-juan.html" title="Marketing power. The seduction of rhetoric in Dom Juan"><strong>Marketing power. The seduction of rhetoric in Dom Juan</strong> de ROTHBERG, Michael</a></li>
+                    
+                    <li><a href="le-role-du-langage-dans-le-dom-juan-de-moliere.html" title="Le Rôle du langage dans le Dom Juan de Molière"><strong>Le Rôle du langage dans le Dom Juan de Molière</strong> de Romanowski, S.</a></li>
+                    
+                    <li><a href="les-niveaux-d-ambiguite-des-structures-narratives-don-juan.html" title="Les niveaux d&#8217;ambiguïté des structures narratives [Don Juan]"><strong>Les niveaux d&#8217;ambiguïté des structures narratives [Don Juan]</strong> de RASTIER, François</a></li>
+                    
+                    <li><a href="la-notion-de-dette-dans-le-dom-juan-de-moliere.html" title="La notion de dette dans le Dom Juan de Molière"><strong>La notion de dette dans le Dom Juan de Molière</strong> de Pruner, Michel</a></li>
+                    
+                    <li><a href="temps-et-lieu-dans-le-dom-juan-de-moliere.html" title="Temps et lieu dans le Dom Juan de Molière"><strong>Temps et lieu dans le Dom Juan de Molière</strong> de PINTARD, René</a></li>
+                    
+                    <li><a href="propositions-pour-la-mise-en-scene-de-dom-juan.html" title="Propositions pour la mise en scène de Dom Juan"><strong>Propositions pour la mise en scène de Dom Juan</strong> de PHILIBERT, Michel</a></li>
+                    
+                    <li><a href="les-problemes-du-temps-dans-le-dom-juan-de-moliere.html" title="Les Problèmes du temps dans le Dom Juan de Molière"><strong>Les Problèmes du temps dans le Dom Juan de Molière</strong> de Pelous, J.-J.</a></li>
+                    
+                    <li><a href="a-propos-de-la-scene-du-pauvre-dans-dom-juan.html" title="A propos de la &#8217;scène du pauvre&#8217; dans Dom Juan"><strong>A propos de la &#8217;scène du pauvre&#8217; dans Dom Juan</strong> de Morel, Jacques</a></li>
+                    
+                    <li><a href="ideologie-et-langage-dans-le-dom-juan-de-moliere.html" title="Idéologie et langage dans le Dom Juan de Molière"><strong>Idéologie et langage dans le Dom Juan de Molière</strong> de MORAUD, Yves</a></li>
+                    
+                    <li><a href="moliere-s-exposition-of-a-courtly-character-in-dom-juan.html" title="Molière&#8217;s exposition of a courtly character in Dom Juan"><strong>Molière&#8217;s exposition of a courtly character in Dom Juan</strong> de MERRILL, Rob. Val.</a></li>
+                    
+                    <li><a href="pour-une-lecture-anthropologique-du-dom-juan-de-moliere.html" title="Pour une lecture &#8217;anthropologique&#8217; du Dom Juan de Molière"><strong>Pour une lecture &#8217;anthropologique&#8217; du Dom Juan de Molière</strong> de Mary, G.</a></li>
+                    
+                    <li><a href="de-l-inscription-du-dom-juan-dans-la-trilogie-de-la-verite.html" title="De l&#8217;inscription du Dom Juan dans la trilogie de la vérité"><strong>De l&#8217;inscription du Dom Juan dans la trilogie de la vérité</strong> de MARIE, Pierre-Antoine</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-au-theatre-national-de-marseille.html" title="Dom Juan de Molière au Théâtre National de Marseille"><strong>Dom Juan de Molière au Théâtre National de Marseille</strong> de MAMBRINO, Jean</a></li>
+                    
+                    <li><a href="algunas-puntualizaciones-acerca-del-dom-juan-de-moliere.html" title="Algunas puntualizaciones acerca del Dom Juan de Molière"><strong>Algunas puntualizaciones acerca del Dom Juan de Molière</strong> de Lopez Fanego, Otilia</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-au-theatre-jean-vilar.html" title="Dom Juan de Molière au théâtre Jean Vilar"><strong>Dom Juan de Molière au théâtre Jean Vilar</strong> de Leuris, Claire</a></li>
+                    
+                    <li><a href="le-libertinage-et-les-morales-traditionnelles-dans-dom-juan.html" title="Le libertinage et les morales traditionnelles dans Dom Juan"><strong>Le libertinage et les morales traditionnelles dans Dom Juan</strong> de LECOQ, Jean-François</a></li>
+                    
+                    <li><a href="dom-juan-and-the-manifest-god-moliere-s-antitragic-hero.html" title="Dom Juan and the Manifest God&nbsp;: Molière&#8217;s Antitragic Hero"><strong>Dom Juan and the Manifest God&nbsp;: Molière&#8217;s Antitragic Hero</strong> de Lawrence, Francis L.</a></li>
+                    
+                    <li><a href="une-forme-inattendue-dans-le-patois-de-dom-juan.html" title="Une forme inattendue dans le patois de Dom Juan"><strong>Une forme inattendue dans le patois de Dom Juan</strong> de LAGERQVIST, Hans Ake</a></li>
+                    
+                    <li><a href="molieres-don-juan-i-komediehuset-pa-kongens-nytorv.html" title="Molières Don Juan i komediehuset pa Kongens Nytorv"><strong>Molières Don Juan i komediehuset pa Kongens Nytorv</strong> de Krogh, Torben</a></li>
+                    
+                    <li><a href="les-mises-en-scene-contemporaines-du-dom-juan-de-moliere.html" title="Les mises en scène contemporaines du Dom Juan de Molière"><strong>Les mises en scène contemporaines du Dom Juan de Molière</strong> de JOULE, C.</a></li>
+                    
+                    <li><a href="the-flight-from-love-in-dom-juan-and-les-precieuses-ridicules.html" title="The flight from love in Dom Juan and Les Précieuses ridicules"><strong>The flight from love in Dom Juan and Les Précieuses ridicules</strong> de JONES, Dorothy F.</a></li>
+                    
+                    <li><a href="ambiguity-sexual-and-otherwise-of-palimpsest-in-moliere-s-don-juan.html" title="Ambiguity, sexual and otherwise of palimpsest in Molière&#8217;s Don Juan "><strong>Ambiguity, sexual and otherwise of palimpsest in Molière&#8217;s Don Juan </strong> de Johnson, Joe</a></li>
+                    
+                    <li><a href="donjuanisme-et-tartufferie-a-propos-du-don-juan-de-moliere.html" title="Donjuanisme et tartufferie. A propos du Don Juan de Molière"><strong>Donjuanisme et tartufferie. A propos du Don Juan de Molière</strong> de JAFFRÉ, Jean</a></li>
+                    
+                    <li><a href="dom-juan-reconsidered-a-defence-of-the-amsterdam-edition.html" title="Dom Juan reconsidered. A defence of the Amsterdam edition"><strong>Dom Juan reconsidered. A defence of the Amsterdam edition</strong> de HOWARTH, W. D.</a></li>
+                    
+                    <li><a href="la-coherence-des-denouements-de-tartuffe-de-dom-juan-et-du-misanthrope.html" title="La cohérence des dénouements de Tartuffe, de Dom Juan et du Misanthrope"><strong>La cohérence des dénouements de Tartuffe, de Dom Juan et du Misanthrope</strong> de HORVILLE Robert</a></li>
+                    
+                    <li><a href="dom-juan-personnage-europeen-du-xviie-siecle.html" title="Dom Juan, personnage européen du XVIIe siècle"><strong>Dom Juan, personnage européen du XVIIe siècle</strong> de Hall, H. Gaston</a></li>
+                    
+                    <li><a href="unentschieden-molieres-dom-juan-in-den-bochumer-kammerspielen.html" title="Unentschieden. Molières Dom Juan in den Bochumer Kammerspielen"><strong>Unentschieden. Molières Dom Juan in den Bochumer Kammerspielen</strong> de Grimm, Jürgen</a></li>
+                    
+                    <li><a href="une-parole-sous-condition-moliere-dom-juan-i-2.html" title="Une parole sous condition (Molière, Dom Juan, I, 2)"><strong>Une parole sous condition (Molière, Dom Juan, I, 2)</strong> de Gollut, Jean-Daniel</a></li>
+                    
+                    <li><a href="monsieur-de-keriolet-conti-et-le-dom-juan-de-moliere.html" title="Monsieur de Keriolet, Conti et le Dom Juan de Molière"><strong>Monsieur de Keriolet, Conti et le Dom Juan de Molière</strong> de Goichot, Emile</a></li>
+                    
+                    <li><a href="dom-juan-un-ou-multiple-l-unite-d-un-personnage-et-ses-enjeux.html" title="Dom Juan un ou multiple&nbsp;? L&#8217;unité d&#8217;un personnage et ses enjeux"><strong>Dom Juan un ou multiple&nbsp;? L&#8217;unité d&#8217;un personnage et ses enjeux</strong> de Godard de Donville, Louise</a></li>
+                    
+                    <li><a href="dom-juan-chez-moliere-ou-le-mythe-du-libertin.html" title="Dom Juan chez Molière, ou le mythe du libertin"><strong>Dom Juan chez Molière, ou le mythe du libertin</strong> de Godard de Donville, Louise</a></li>
+                    
+                    <li><a href="dom-juan-tenorio-nella-produzione-molieriana.html" title="Dom Juan Tenorio nella produzione molieriana"><strong>Dom Juan Tenorio nella produzione molieriana</strong> de GALOTTI, G.</a></li>
+                    
+                    <li><a href="whodunit-brecht-s-adaptation-of-moliere-s-don-juan.html" title="Whodunit&nbsp;: &#8217;Brecht&#8217;s&#8217; Adaptation of Molière&#8217;s Don Juan"><strong>Whodunit&nbsp;: &#8217;Brecht&#8217;s&#8217; Adaptation of Molière&#8217;s Don Juan</strong> de Fuegi, John</a></li>
+                    
+                    <li><a href="dom-juan-et-la-notion-d-honnetete-chez-moliere.html" title="Dom Juan et la notion d&#8217;honnêteté chez Molière"><strong>Dom Juan et la notion d&#8217;honnêteté chez Molière</strong> de Dubu, Jean</a></li>
+                    
+                    <li><a href="moliere-s-dom-juan-historisch-genetisch-neu-beleuchtet.html" title="Molière&#8217;s Dom Juan historisch-genetisch neu beleuchtet"><strong>Molière&#8217;s Dom Juan historisch-genetisch neu beleuchtet</strong> de DRAEGER Richard</a></li>
+                    
+                    <li><a href="le-mythe-de-dom-juan-chez-moliere-et-zorrilla.html" title="Le Mythe de Dom Juan chez Molière et Zorrilla"><strong>Le Mythe de Dom Juan chez Molière et Zorrilla</strong> de DOMINIGUEZ, Antonio</a></li>
+                    
+                    <li><a href="mise-en-scene-de-dom-juan-par-louis-jouvet.html" title="Mise en scène de Dom Juan par Louis Jouvet"><strong>Mise en scène de Dom Juan par Louis Jouvet</strong> de Delbo, Charlotte. Haft, Cynthia</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-la-tradition-de-l-eloge-paradoxal.html" title="Le Dom Juan de Molière et la tradition de l&#8217;éloge paradoxal"><strong>Le Dom Juan de Molière et la tradition de l&#8217;éloge paradoxal</strong> de Dandrey, Patrick</a></li>
+                    
+                    <li><a href="quelques-reflexions-sur-le-dom-juan-de-patrice-chereau.html" title="Quelques réflexions sur le Dom Juan de [Patrice] Chéreau"><strong>Quelques réflexions sur le Dom Juan de [Patrice] Chéreau</strong> de COPFERMANN, Emile</a></li>
+                    
+                    <li><a href="un-contresens-dans-les-editions-de-moliere-dom-juan-iii-2.html" title="Un contresens dans les éditions de Molière (Dom Juan, III, 2)"><strong>Un contresens dans les éditions de Molière (Dom Juan, III, 2)</strong> de CLEDAT, L.</a></li>
+                    
+                    <li><a href="o-dom-juan-de-moliere-na-adaptacao-do-berliner-ensemble.html" title="O Dom Juan de Molière na adaptacao do Berliner Ensemble"><strong>O Dom Juan de Molière na adaptacao do Berliner Ensemble</strong> de CHOLAKIAN, Renato</a></li>
+                    
+                    <li><a href="de-don-quichotte-a-dom-juan-les-etapes-d-une-inversion-ironique.html" title="De Don Quichotte à Dom Juan&nbsp;: Les étapes d&#8217;une inversion ironique"><strong>De Don Quichotte à Dom Juan&nbsp;: Les étapes d&#8217;une inversion ironique</strong> de Caldicott, Cédric</a></li>
+                    
+                    <li><a href="dom-juan-ou-la-force-de-la-parole-essai-sur-le-contrat.html" title="Dom Juan ou la force de la parole&nbsp;: Essai sur le contrat"><strong>Dom Juan ou la force de la parole&nbsp;: Essai sur le contrat</strong> de Brandt, Per Aage</a></li>
+                    
+                    <li><a href="polemique-et-strategies-dans-le-dom-juan-de-moliere.html" title="Polémique et stratégies dans le Dom Juan de Molière"><strong>Polémique et stratégies dans le Dom Juan de Molière</strong> de Bourqui, Claude</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-la-tradition-de-la-dramaturgie-baroque.html" title="Le Dom Juan de Molière et la tradition de la dramaturgie baroque"><strong>Le Dom Juan de Molière et la tradition de la dramaturgie baroque</strong> de Bluher, Karl A.</a></li>
+                    
+                    <li><a href="les-mises-en-scenes-francaises-du-dom-juan-de-moliere.html" title="Les mises en scènes françaises du Dom Juan de Molière"><strong>Les mises en scènes françaises du Dom Juan de Molière</strong> de BLAIN, Michel</a></li>
+                    
+                    <li><a href="tra-apparenza-e-astrazione-appunti-sul-dom-juan-di-moliere.html" title="Tra apparenza e astrazione. Appunti sul Dom Juan di Molière"><strong>Tra apparenza e astrazione. Appunti sul Dom Juan di Molière</strong> de BENEDICTS, Maurizio De</a></li>
+                    
+                    <li><a href="une-source-du-dom-juan-de-moliere-le-polyphile-de-sorel.html" title="Une source du Dom Juan de Molière&nbsp;? Le Polyphile de Sorel"><strong>Une source du Dom Juan de Molière&nbsp;? Le Polyphile de Sorel</strong> de BARKO Ivan</a></li>
+                    
+                    <li><a href="esthetique-et-transaction-dans-le-dom-juan-de-moliere.html" title="Esthétique et transaction dans le Dom Juan de Molière"><strong>Esthétique et transaction dans le Dom Juan de Molière</strong> de BAREAU, MichelL.</a></li>
+                    
+                    <li><a href="jacques-lassalle-et-sa-mise-en-scene-de-dom-juan.html" title="Jacques Lassalle et sa mise en scène de Dom Juan"><strong>Jacques Lassalle et sa mise en scène de Dom Juan</strong> de Bamforth, Stephen</a></li>
+                    
+                    <li><a href="moliere-s-dom-juan-form-meaning-audience.html" title="Molière&#8217;s Dom Juan&nbsp;: Form, Meaning, Audience"><strong>Molière&#8217;s Dom Juan&nbsp;: Form, Meaning, Audience</strong> de Ball, David. Ellis, Frank H.</a></li>
+                    
+                    <li><a href="de-tirso-de-molina-a-moliere-la-genese-de-dom-juan.html" title="De Tirso de Molina à Molière. La genèse de Dom Juan"><strong>De Tirso de Molina à Molière. La genèse de Dom Juan</strong> de BAFARO, Georges</a></li>
+                    
+                    <li><a href="le-dom-juan-de-tirso-de-molina-et-celui-de-moliere.html" title="Le Dom Juan de Tirso de Molina et celui de Molière"><strong>Le Dom Juan de Tirso de Molina et celui de Molière</strong> de AUBRUN, Ch.-V.</a></li>
+                    
+                    <li><a href="defi-et-perversion-dom-juan-saisi-par-la-psychanalyse.html" title="Défi et perversion. Dom Juan saisi par la psychanalyse"><strong>Défi et perversion. Dom Juan saisi par la psychanalyse</strong> de ASSOUN, Paul-Laurent</a></li>
+                    
+                    <li><a href="dynamisme-social-et-jeu-individuel-dans-dom-juan.html" title="Dynamisme social et jeu individuel dans Dom Juan"><strong>Dynamisme social et jeu individuel dans Dom Juan</strong> de Albanese, Ralph, Jr.</a></li>
+                    
+                    <li><a href="don-juan-als-heuchler-moliere-und-die-moralistik.html" title="Don Juan als Heuchler&nbsp;: Molière und die Moralistik"><strong>Don Juan als Heuchler&nbsp;: Molière und die Moralistik</strong> de Stackelberg, Jürgen von</a></li>
+                    
+                    <li><a href="dom-juan-ou-la-dramaturgie-comme-jeu-d-echecs.html" title="&#171;&nbsp;Dom Juan ou la dramaturgie comme jeu d&#8217;échecs&nbsp;&#187;."><strong>&#171;&nbsp;Dom Juan ou la dramaturgie comme jeu d&#8217;échecs&nbsp;&#187;.</strong> de Spielmann, Guy</a></li>
+                    
+                    <li><a href="dom-juan-s-equal-opportunity-rivalry.html" title="Dom Juan&#8217;s Equal Opportunity Rivalry"><strong>Dom Juan&#8217;s Equal Opportunity Rivalry</strong> de Koppisch, Michael-S.</a></li>
+                    
+                    <li><a href="the-discourse-of-disbelief-in-moliere-s-dom-juan.html" title="The Discourse of disbelief in Molière&#8217;s Dom Juan"><strong>The Discourse of disbelief in Molière&#8217;s Dom Juan</strong> de Woshinsky, Barbara</a></li>
+                    
+                    <li><a href="l-actuel-eternise-le-dom-juan-de-moliere.html" title="L&#8217;actuel éternisé&nbsp;: le Dom Juan de Molière"><strong>L&#8217;actuel éternisé&nbsp;: le Dom Juan de Molière</strong> de VIER, Jacques</a></li>
+                    
+                    <li><a href="moliere-theologien-dans-dom-juan.html" title="Molière théologien dans Dom Juan"><strong>Molière théologien dans Dom Juan</strong> de Truchet, Jacques</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-le-prince-de-conti.html" title="Le Dom Juan de Molière et le prince de Conti"><strong>Le Dom Juan de Molière et le prince de Conti</strong> de Troquet-Heine, Marie-Paule</a></li>
+                    
+                    <li><a href="moliere-s-dom-juan-charity-s-prodigal-son.html" title="Molière&#8217;s Dom Juan&nbsp;: Charity&#8217;s Prodigal Son"><strong>Molière&#8217;s Dom Juan&nbsp;: Charity&#8217;s Prodigal Son</strong> de Sylvester, Joy</a></li>
+                    
+                    <li><a href="dom-juan-le-rendez-vous-de-samarkande.html" title="Dom Juan, le rendez-vous de Samarkande"><strong>Dom Juan, le rendez-vous de Samarkande</strong> de Spencer, Catherine J.</a></li>
+                    
+                    <li><a href="un-grand-type-litteraire-don-juan.html" title="Un grand type littéraire, Don Juan"><strong>Un grand type littéraire, Don Juan</strong> de Sneyers, Germaine</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-ou-la-comedie-des-masques.html" title="Dom Juan de Molière ou la comédie des masques"><strong>Dom Juan de Molière ou la comédie des masques</strong> de SENECHAL, René</a></li>
+                    
+                    <li><a href="dom-juan-theatre-du-rond-point.html" title="Dom Juan (Théâtre du Rond-Point)"><strong>Dom Juan (Théâtre du Rond-Point)</strong> de &#8217;SENART, Philippe</a></li>
+                    
+                    <li><a href="paradoxes-de-la-promesse-l-exemple-de-dom-juan.html" title="Paradoxes de la promesse&nbsp;: L&#8217;exemple de Dom Juan"><strong>Paradoxes de la promesse&nbsp;: L&#8217;exemple de Dom Juan</strong> de Schuerewegen, Franc. Tasmowski-De Ryck, Liliane</a></li>
+                    
+                    <li><a href="un-dom-juan-dans-la-vraie-tradition.html" title="Un Dom Juan dans la vraie tradition"><strong>Un Dom Juan dans la vraie tradition</strong> de SANDIER, Gilles</a></li>
+                    
+                    <li><a href="ethics-debts-and-identity-in-dom-juan.html" title="Ethics, Debts, and Identity in Dom Juan"><strong>Ethics, Debts, and Identity in Dom Juan</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="moliere-in-the-theatre-two-different-views-of-dom-juan.html" title="Molière in the Théâtre&nbsp;: Two Different Views of Dom Juan"><strong>Molière in the Théâtre&nbsp;: Two Different Views of Dom Juan</strong> de Potts, D. C.</a></li>
+                    
+                    <li><a href="le-mythe-de-don-juan-et-la-comedie-de-moliere.html" title="Le Mythe de Don Juan et la comédie de Molière"><strong>Le Mythe de Don Juan et la comédie de Molière</strong> de Pizzari, Serafino</a></li>
+                    
+                    <li><a href="note-sur-une-source-du-dom-juan-de-moliere.html" title="Note sur une source du Dom Juan de Molière"><strong>Note sur une source du Dom Juan de Molière</strong> de PAGE, F.</a></li>
+                    
+                    <li><a href="theatrical-conversion-in-moliere-s-dom-juan.html" title="Theatrical conversion in Molière&#8217;s Dom Juan"><strong>Theatrical conversion in Molière&#8217;s Dom Juan</strong> de Muratore, Mary Jo.</a></li>
+                    
+                    <li><a href="role-and-rhythm-in-moliere-s-dom-juan.html" title="Role and Rhythm in Molière&#8217;s Dom Juan"><strong>Role and Rhythm in Molière&#8217;s Dom Juan</strong> de Mc Carthy, G. F.</a></li>
+                    
+                    <li><a href="characterisation-in-moliere-the-case-on-dom-juan.html" title="Characterisation in Molière&nbsp;: The Case on Dom Juan"><strong>Characterisation in Molière&nbsp;: The Case on Dom Juan</strong> de Mc Carthy, G. F.</a></li>
+                    
+                    <li><a href="le-carnaval-solitaire-de-dom-juan-de-moliere.html" title="Le Carnaval solitaire de Dom Juan de Molière "><strong>Le Carnaval solitaire de Dom Juan de Molière </strong> de Malachy, Thérèse</a></li>
+                    
+                    <li><a href="the-double-invitation-in-the-legends-of-dom-juan.html" title="The double invitation in the legends of Dom Juan."><strong>The double invitation in the legends of Dom Juan.</strong> de MAC KAY, D. E.</a></li>
+                    
+                    <li><a href="le-libertinage-de-moliere-et-la-portee-de-dom-juan.html" title="Le libertinage de Molière et la portée de Dom Juan"><strong>Le libertinage de Molière et la portée de Dom Juan</strong> de LESPIRE, R.</a></li>
+                    
+                    <li><a href="dom-juan-dans-la-bataille-de-tartuffe.html" title="Dom Juan dans la bataille de Tartuffe"><strong>Dom Juan dans la bataille de Tartuffe</strong> de Leclerc, Guy</a></li>
+                    
+                    <li><a href="the-ironic-commentator-in-moliere-s-don-juan.html" title="The Ironic Commentator in Molière&#8217;s Don Juan "><strong>The Ironic Commentator in Molière&#8217;s Don Juan </strong> de Lawrence, Francis L.</a></li>
+                    
+                    <li><a href="moliere-und-tellez-als-bearbeiter-des-dom-juan.html" title="Molière und Tellez als Bearbeiter des Dom Juan"><strong>Molière und Tellez als Bearbeiter des Dom Juan</strong> de LAUN, Adolf</a></li>
+                    
+                    <li><a href="le-comique-du-personnage-de-dom-juan-de-moliere.html" title="Le Comique du personnage de Dom Juan de Molière"><strong>Le Comique du personnage de Dom Juan de Molière</strong> de Laufer, Roger</a></li>
+                    
+                    <li><a href="tonnerre-sur-l-odeon-moliere-dom-juan.html" title="Tonnerre sur l&#8217;Odéon [Molière, Dom Juan&#8217;]"><strong>Tonnerre sur l&#8217;Odéon [Molière, Dom Juan&#8217;]</strong> de KEMPF, Yerri</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-une-dramaturgie-de-rupture.html" title="Dom Juan&#8217; de Molière&nbsp;: une dramaturgie de rupture "><strong>Dom Juan&#8217; de Molière&nbsp;: une dramaturgie de rupture </strong> de Horville, Robert</a></li>
+                    
+                    <li><a href="le-don-juan-de-brecht-une-adaptation-de-moliere.html" title="Le Don Juan de Brecht, une adaptation de Molière"><strong>Le Don Juan de Brecht, une adaptation de Molière</strong> de HORN, Dieter</a></li>
+                    
+                    <li><a href="influencia-del-tema-de-dom-juan-bibliografia.html" title="Influencia del tema de Dom Juan [bibliografia]"><strong>Influencia del tema de Dom Juan [bibliografia]</strong> de HESSE, E. W.</a></li>
+                    
+                    <li><a href="the-scenery-for-the-original-production-of-dom-juan.html" title="The Scenery for the Original Production of Dom Juan"><strong>The Scenery for the Original Production of Dom Juan</strong> de Herzel, Roger</a></li>
+                    
+                    <li><a href="le-jeu-du-desir-imaginaire-et-histoire-dom-juan.html" title="Le jeu du désir. Imaginaire et histoire [Dom Juan]"><strong>Le jeu du désir. Imaginaire et histoire [Dom Juan]</strong> de HERMINE, Micheline</a></li>
+                    
+                    <li><a href="moliere-dom-juan-la-scene-du-pauvre.html" title="Molière&nbsp;: Dom Juan, &#8217;La scène du pauvre&#8217;"><strong>Molière&nbsp;: Dom Juan, &#8217;La scène du pauvre&#8217;</strong> de Hall, H. Gaston</a></li>
+                    
+                    <li><a href="moliere-juriste-dans-dom-juan.html" title="Molière juriste dans Dom Juan"><strong>Molière juriste dans Dom Juan</strong> de Guitton, Edouard</a></li>
+                    
+                    <li><a href="dom-juan-vu-par-un-bibliophile-charles-nodier.html" title="Dom Juan vu par un bibliophile, Charles Nodier"><strong>Dom Juan vu par un bibliophile, Charles Nodier</strong> de GUIBERT, Noelle</a></li>
+                    
+                    <li><a href="the-dialectic-of-obligation-in-moliere-s-dom-juan.html" title="The dialectic of obligation in Molière&#8217;s Dom Juan"><strong>The dialectic of obligation in Molière&#8217;s Dom Juan</strong> de GROSS, Nathan</a></li>
+                    
+                    <li><a href="moliere-pour-ou-contre-dom-juan.html" title="Molière pour ou contre Dom Juan&nbsp;?"><strong>Molière pour ou contre Dom Juan&nbsp;?</strong> de GARAPON, Robert</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-et-les-machines-de-la-tragedie.html" title="Le Dom Juan de Molière et les machines de la tragédie"><strong>Le Dom Juan de Molière et les machines de la tragédie</strong> de Gambelli, Delia</a></li>
+                    
+                    <li><a href="dom-juan-acte-ii-2-la-scene-du-pauvre.html" title="Dom Juan, Acte II, 2 (la scène du Pauvre)"><strong>Dom Juan, Acte II, 2 (la scène du Pauvre)</strong> de FRÉMY, Pierre</a></li>
+                    
+                    <li><a href="virtuosissimo-linguistico-des-dom-juan-di-moliere.html" title="Virtuosissimo linguistico des Dom Juan di Molière"><strong>Virtuosissimo linguistico des Dom Juan di Molière</strong> de FORTI-LEWIS, Angelica</a></li>
+                    
+                    <li><a href="dom-juan-moliere-corneille-et-les-autres.html" title="Dom Juan, Molière, Corneille et les autres"><strong>Dom Juan, Molière, Corneille et les autres</strong> de ETIENNE, Pierre</a></li>
+                    
+                    <li><a href="dom-juan-moliere-s-comedy-of-revolt.html" title="Dom Juan. Molière&#8217;s comedy of revolt"><strong>Dom Juan. Molière&#8217;s comedy of revolt</strong> de DONOHOE jr., Joseph I.</a></li>
+                    
+                    <li><a href="dom-juan-ou-la-critique-de-la-raison-comique.html" title="Dom Juan ou la critique de la raison comique"><strong>Dom Juan ou la critique de la raison comique</strong> de DANDREY, Patrick</a></li>
+                    
+                    <li><a href="la-premiere-de-dom-juan-a-la-comedie-francaise.html" title="La Première de Dom Juan à la Comédie-Française"><strong>La Première de Dom Juan à la Comédie-Française</strong> de CHEVALLEY, Sylvie</a></li>
+                    
+                    <li><a href="le-don-juan-de-moliere-est-il-un-personnage-coherent.html" title="Le Don Juan de Molière est-il un personnage cohérent&nbsp;?"><strong>Le Don Juan de Molière est-il un personnage cohérent&nbsp;?</strong> de Brabant, Roger</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-un-cavalier-de-l-entendement.html" title="Le Dom Juan de Molière&nbsp;: Un cavalier de l&#8217;entendement"><strong>Le Dom Juan de Molière&nbsp;: Un cavalier de l&#8217;entendement</strong> de Bellet, Roger</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-relu-par-camus.html" title="Le Dom Juan de Molière relu par Camus"><strong>Le Dom Juan de Molière relu par Camus</strong> de Bartoli-Anglard, Véronique</a></li>
+                    
+                    <li><a href="don-juan-la-mise-en-pages-d-un-mythe.html" title="Don Juan, la mise en pages d&#8217;un mythe&nbsp;?"><strong>Don Juan, la mise en pages d&#8217;un mythe&nbsp;?</strong> de Bargallo, Juan</a></li>
+                    
+                    <li><a href="les-enjeux-philosophiques-du-dom-juan-de-moliere.html" title="Les enjeux philosophiques du Dom Juan de Molière"><strong>Les enjeux philosophiques du Dom Juan de Molière</strong> de ASSOUN, Paul-Laurent</a></li>
+                    
+                    <li><a href="le-pauvre-entre-don-juan-et-l-eveque.html" title="Le pauvre entre Don Juan et l&#8217;évêque"><strong>Le pauvre entre Don Juan et l&#8217;évêque</strong> de ANATOLE, Christian</a></li>
+                    
+                    <li><a href="hypocrisie-et-dramaturgie-dans-dom-juan.html" title="Hypocrisie et dramaturgie dans Dom Juan"><strong>Hypocrisie et dramaturgie dans Dom Juan</strong> de Albanese, Ralph Jr.</a></li>
+                    
+                    <li><a href="la-seduction-de-dom-juan-jeu-de-pouvoir-discursif-chez-moliere-ou-la-tragedie-de-la-noblesse.html" title="La Séduction de Dom Juan, jeu de pouvoir discursif chez Molière, ou la tragédie de la noblesse"><strong>La Séduction de Dom Juan, jeu de pouvoir discursif chez Molière, ou la tragédie de la noblesse</strong> de Bonn, Charles</a></li>
+                    
+                    <li><a href="entre-passe-et-present-la-nuit-de-valognes-variation-sur-le-mythe-de-don-juan.html" title="Entre passé et présent&nbsp;: La Nuit de Valognes&nbsp;: Variation sur le mythe de Don Juan"><strong>Entre passé et présent&nbsp;: La Nuit de Valognes&nbsp;: Variation sur le mythe de Don Juan</strong> de Calargé, Carla A</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-comedie-burlesque-studies-in-honor-of-ronald-w-tobin.html" title="Dom Juan de Moliere-comedie burlesque&nbsp;?
+Studies in Honor of Ronald W. Tobin"><strong>Dom Juan de Moliere-comedie burlesque&nbsp;?
+Studies in Honor of Ronald W. Tobin</strong> de Dotoli, Giovanni</a></li>
+                    
+                    <li><a href="moliere-lecteur-d-etienne-pasquier-reflexions-autour-du-libertinage-de-dom-juan.html" title="&#171;&nbsp;Molière lecteur d&#8217;Étienne Pasquier&nbsp;? Réflexions autour du libertinage de <I>Dom Juan</I>.&nbsp;&#187;"><strong>&#171;&nbsp;Molière lecteur d&#8217;Étienne Pasquier&nbsp;? Réflexions autour du libertinage de <I>Dom Juan</I>.&nbsp;&#187;</strong> de ROUGET, François</a></li>
+                    
+                    <li><a href="don-juan-de-moliere-des-mots-et-objets-mis-en-texte-a-la-mise-en-scene-du-sens.html" title="Don Juan de Molière&nbsp;: Des mots et objets &#8217;mis en texte&#8217; à la mise en scène du sens"><strong>Don Juan de Molière&nbsp;: Des mots et objets &#8217;mis en texte&#8217; à la mise en scène du sens</strong> de Thuel, Francoise</a></li>
+                    
+                    <li><a href="quelques-observations-sur-la-fonction-de-la-statue-du-commandeur-dans-dom-juan-de-moliere.html" title="Quelques observations sur la fonction de la statue du commandeur dans Dom Juan de Molière"><strong>Quelques observations sur la fonction de la statue du commandeur dans Dom Juan de Molière</strong> de TAN, H.G.</a></li>
+                    
+                    <li><a href="de-la-domination-a-la-desillusion-heros-et-lecteur-dans-don-juan-et-les-liaisons-dangereuses.html" title="De la domination à la désillusion&nbsp;: Héros et lecteur dans Don Juan et Les Liaisons dangereuses"><strong>De la domination à la désillusion&nbsp;: Héros et lecteur dans Don Juan et Les Liaisons dangereuses</strong> de Tamareille, Catherine</a></li>
+                    
+                    <li><a href="the-actor-and-the-statue-space-time-and-court-performance-in-moliere-s-dom-juan.html" title="The actor and the statue&nbsp;? Space, time, and court performance in Molière&#8217;s Dom Juan"><strong>The actor and the statue&nbsp;? Space, time, and court performance in Molière&#8217;s Dom Juan</strong> de SPINGLER, Michael</a></li>
+                    
+                    <li><a href="a-propos-du-dom-juan-de-moliere-deux-lettres-inedites-de-charles-nodier.html" title="A propos du Dom Juan de Molière. Deux lettres inédites de Charles Nodier"><strong>A propos du Dom Juan de Molière. Deux lettres inédites de Charles Nodier</strong> de SETBON, Raymond</a></li>
+                    
+                    <li><a href="notice-sur-la-tragicomedie-de-gabriel-tellez-el-burlador-de-sevilla-et-sur-le-dom-juan-de-moliere.html" title="Notice sur la tragicomédie de Gabriel Tellez, El Burlador de Sevilla, et sur le Dom Juan de Molière"><strong>Notice sur la tragicomédie de Gabriel Tellez, El Burlador de Sevilla, et sur le Dom Juan de Molière</strong> de MOLINIER, Victor</a></li>
+                    
+                    <li><a href="the-shadow-of-the-burlador-don-juan-on-the-continent-and-in-angleterre-comedy-from-shakespeare-to-sheridan.html" title="The Shadow of the Burlador&nbsp;: Don Juan on the Continent and in Angleterre, Comedy from Shakespeare to Sheridan "><strong>The Shadow of the Burlador&nbsp;: Don Juan on the Continent and in Angleterre, Comedy from Shakespeare to Sheridan </strong> de Kaufman, Anthony</a></li>
+                    
+                    <li><a href="die-offnung-des-typus-in-richtung-auf-reflexion-in-molieres-dom-juan-ou-le-festin-de-pierre.html" title="Die Öffnung des Typus in richtung auf Reflexion in Molières Dom Juan ou le festin de pierre"><strong>Die Öffnung des Typus in richtung auf Reflexion in Molières Dom Juan ou le festin de pierre</strong> de JACOBS, Hans J.</a></li>
+                    
+                    <li><a href="a-propos-du-dom-juan-de-moliere-pour-une-lecture-plurielle-de-l-oeuvre-theatrale.html" title="A propos du &#8217;Dom Juan&#8217; de Molière&nbsp;: Pour une lecture plurielle de l&#8217;oeuvre theatrale "><strong>A propos du &#8217;Dom Juan&#8217; de Molière&nbsp;: Pour une lecture plurielle de l&#8217;oeuvre theatrale </strong> de Horville, Robert</a></li>
+                    
+                    <li><a href="quasi-objet-et-echange-symbolique-de-l-alidor-de-corneille-au-don-juan-de-moliere.html" title="Quasi-Objet et échange symbolique&nbsp;: De l&#8217;Alidor de Corneille au Don Juan de Molière"><strong>Quasi-Objet et échange symbolique&nbsp;: De l&#8217;Alidor de Corneille au Don Juan de Molière</strong> de Dupuy, Jean-Pierre</a></li>
+                    
+                    <li><a href="the-trilogy-of-guerin-de-bouscal-a-phase-in-the-progression-from-dom-quixote-to-moliere-s-dom-juan.html" title="The Trilogy of Guérin de Bouscal&nbsp;: A phase in the progression from Dom Quixote to Molière&#8217;s Dom Juan"><strong>The Trilogy of Guérin de Bouscal&nbsp;: A phase in the progression from Dom Quixote to Molière&#8217;s Dom Juan</strong> de CALDICOTT, C. E. J.</a></li>
+                    
+                    <li><a href="etude-critique-esthetique-sur-le-festin-de-pierre-ou-dom-juan-comedie-de-moliere.html" title="Etude critique-esthétique sur Le Festin de pierre (ou Dom Juan), comédie de Molière "><strong>Etude critique-esthétique sur Le Festin de pierre (ou Dom Juan), comédie de Molière </strong> de BURGTORF, C.</a></li>
+                    
+                    <li><a href="don-juan-le-diable-et-dieu-au-theatre-du-huitieme-a-lyon-puis-a-sartrouville.html" title="Don Juan, le diable et dieu [Au théâtre du Huitième, à Lyon, puis à Sartrouville]"><strong>Don Juan, le diable et dieu [Au théâtre du Huitième, à Lyon, puis à Sartrouville]</strong> de ABIRACHED, Robert</a></li>
+                    
+                    <li><a href="les-mises-en-scene-de-dom-juan-de-moliere-en-france-depuis-1947.html" title="&#171;&nbsp;Les mises en scène de Dom Juan de Molière en France depuis 1947.&nbsp;&#187;"><strong>&#171;&nbsp;Les mises en scène de Dom Juan de Molière en France depuis 1947.&nbsp;&#187;</strong> de Fagon-Guépratte, Elise</a></li>
+                    
+                    <li><a href="the-name-of-the-game-is-in-the-signifier-moliere-s-dom-juan-and-the-binding-power-of-words.html" title="The Name of the Game Is in the Signifier&nbsp;: Moliere&#8217;s Dom Juan and the Binding.  Power of Words"><strong>The Name of the Game Is in the Signifier&nbsp;: Moliere&#8217;s Dom Juan and the Binding.  Power of Words</strong> de Gala, Candelas</a></li>
+                    
+                    <li><a href="the-scandal-of-the-speaking-body-don-juan-with-j-l-austin-or-seduction-in-two-languages.html" title="The Scandal of the speaking Body&nbsp;: Don Juan with J. L. Austin, or Seduction in two Languages"><strong>The Scandal of the speaking Body&nbsp;: Don Juan with J. L. Austin, or Seduction in two Languages</strong> de FELMAN, Shoshana</a></li>
+                    
+                    <li><a href="le-tambour-du-petit-colin-les-noms-propres-dans-dom-juan.html" title="&#171;&nbsp;&#8217;Le tambour du petit Colin&#8217;. Les noms propres dans Dom Juan.&nbsp;&#187;"><strong>&#171;&nbsp;&#8217;Le tambour du petit Colin&#8217;. Les noms propres dans Dom Juan.&nbsp;&#187;</strong> de CAGNAT-DEB&#8217;UF, Constance</a></li>
+                    
+                    <li><a href="parodying-the-pleasure-principle-dom-juan-a-festival-play-for-parisians.html" title="Parodying the Pleasure Principle&nbsp;: Dom Juan, a Festival Play for Parisians"><strong>Parodying the Pleasure Principle&nbsp;: Dom Juan, a Festival Play for Parisians</strong> de Woodrough, Elizabeth</a></li>
+                    
+                    <li><a href="tirso-moliere-and-byron-the-emergence-of-don-juan-as-romantic-hero.html" title="Tirso, Molière, and Byron&nbsp;: The Emergence of Don Juan as Romantic Hero"><strong>Tirso, Molière, and Byron&nbsp;: The Emergence of Don Juan as Romantic Hero</strong> de Wilson, James D.</a></li>
+                    
+                    <li><a href="promesses-du-corps-textuel-dom-juan-cet-obscur-objet-du-desir.html" title="Promesses du corps textuel&nbsp;: Dom Juan, &#8217;cet obscur objet du désir&#8217;"><strong>Promesses du corps textuel&nbsp;: Dom Juan, &#8217;cet obscur objet du désir&#8217;</strong> de Spencer, Catherine</a></li>
+                    
+                    <li><a href="etudes-du-corps-ideo-logique-et-temporel-du-dom-juan-de-moliere.html" title="Etudes du corps (idéo) logique et temporel du Dom Juan de Molière"><strong>Etudes du corps (idéo) logique et temporel du Dom Juan de Molière</strong> de SOARES SILVA, Filomena et MOTA, Maria José</a></li>
+                    
+                    <li><a href="la-seduction-donjuanesque-ou-le-plaisir-de-la-specularite-dom-juan-acte-i-scene-2.html" title="La séduction donjuanesque ou le plaisir de la spécularité [Dom Juan, acte I, scène 2]"><strong>La séduction donjuanesque ou le plaisir de la spécularité [Dom Juan, acte I, scène 2]</strong> de SENECHAL, René</a></li>
+                    
+                    <li><a href="dom-juan-par-roger-planchon-a-l-odeon-moliere-et-le-parti-devot.html" title="Dom Juan par Roger Planchon à l&#8217;Odéon. Molière et le parti dévot"><strong>Dom Juan par Roger Planchon à l&#8217;Odéon. Molière et le parti dévot</strong> de SENART, Philippe</a></li>
+                    
+                    <li><a href="transports-of-love-desire-image-and-the-object-in-moliere-s-dom-juan.html" title="Transports of Love&nbsp;: Desire, Image, and the Object in Molière&#8217;s Dom Juan"><strong>Transports of Love&nbsp;: Desire, Image, and the Object in Molière&#8217;s Dom Juan</strong> de Schlossman, Beryl</a></li>
+                    
+                    <li><a href="don-juan-de-moliere-par-le-theatre-du-huitieme-compagnie-du-cothurne-a-sartrouville.html" title="Don Juan de Molière par le théâtre du Huitième (Compagnie du Cothurne) à Sartrouville"><strong>Don Juan de Molière par le théâtre du Huitième (Compagnie du Cothurne) à Sartrouville</strong> de SAUREL, Renée</a></li>
+                    
+                    <li><a href="un-entretien-avec-jose-maria-flotats-acteur-dom-juan.html" title="Un entretien avec José-Maria Flotats [acteur, Dom Juan]"><strong>Un entretien avec José-Maria Flotats [acteur, Dom Juan]</strong> de ROSBO, Patrick de</a></li>
+                    
+                    <li><a href="une-difficulte-du-texte-de-dom-juan-acte-iv-scenes-4-5-correction-ou-interpretation.html" title="Une difficulté du texte de Dom Juan (acte IV, scènes 4-5). Correction ou interprétation&nbsp;?"><strong>Une difficulté du texte de Dom Juan (acte IV, scènes 4-5). Correction ou interprétation&nbsp;?</strong> de ROQUES, Mario</a></li>
+                    
+                    <li><a href="dom-juan-ou-les-perils-de-la-liberte-pour-une-critique-dramatique-integrale.html" title="Dom Juan ou les périls de la liberté&nbsp;: Pour une critique dramatique intégrale"><strong>Dom Juan ou les périls de la liberté&nbsp;: Pour une critique dramatique intégrale</strong> de Romero, Laurent</a></li>
+                    
+                    <li><a href="dom-juan-and-harpagon-moliere-s-symbiotic-twin-archetypes-of-modernity.html" title="Dom Juan and Harpagon&nbsp;: Molière&#8217;s Symbiotic Twin Archetypes, of Modernity"><strong>Dom Juan and Harpagon&nbsp;: Molière&#8217;s Symbiotic Twin Archetypes, of Modernity</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="dom-juan-and-harpagon-moliere-s-symbiotic-twin-archetypes-of-modernity,403704.html" title="Dom Juan and Harpagon. Molière&#8217;s symbiotic twin archetypes of modernity"><strong>Dom Juan and Harpagon. Molière&#8217;s symbiotic twin archetypes of modernity</strong> de RIGGS, Larry W</a></li>
+                    
+                    <li><a href="trois-images-de-dom-juan-de-tirso-a-zamora-en-passant-par-moliere.html" title="Trois images de Dom Juan&nbsp;: de Tirso à Zamora, en passant par Molière"><strong>Trois images de Dom Juan&nbsp;: de Tirso à Zamora, en passant par Molière</strong> de MERIMEE, P.</a></li>
+                    
+                    <li><a href="dom-juan-ou-le-libertin-martyr-le-role-de-la-statue-et-la-fin-symbolique-du-heros.html" title="Dom Juan ou le libertin martyr. Le rôle de la statue et la fin symbolique du héros"><strong>Dom Juan ou le libertin martyr. Le rôle de la statue et la fin symbolique du héros</strong> de MAZAHERI, Homayoun</a></li>
+                    
+                    <li><a href="la-perruque-de-dom-juan-ou-du-bon-usage-des-enigmes-dans-la-literature-de-l-age-classique.html" title="La perruque de Dom Juan ou Du bon usage des enigmes dans la literature de l&#8217;âge classique"><strong>La perruque de Dom Juan ou Du bon usage des enigmes dans la literature de l&#8217;âge classique</strong> de May, Georges</a></li>
+                    
+                    <li><a href="modes-of-theatricality-in-moliere-s-comedies-dom-juan-and-le-bourgeois-gentilhomme.html" title="Modes of Theatricality in Molière&#8217;s Comedies (Dom Juan and Le Bourgeois Gentilhomme) "><strong>Modes of Theatricality in Molière&#8217;s Comedies (Dom Juan and Le Bourgeois Gentilhomme) </strong> de Matzat, Wolfgang</a></li>
+                    
+                    <li><a href="tartuffe-dom-juan-le-misanthrope-l-itineraire-spirituel-de-moliere-un-point-de-vie.html" title="Tartuffe, Dom Juan, Le Misanthrope, l&#8217;itinéraire spirituel de Molière. Un point de vie"><strong>Tartuffe, Dom Juan, Le Misanthrope, l&#8217;itinéraire spirituel de Molière. Un point de vie</strong> de MARTIN, Jacques</a></li>
+                    
+                    <li><a href="dom-juan-de-moliere-au-theatre-renaud-barrault-et-aux-bouffes-du-nord.html" title="Dom Juan de Molière (au théâtre Renaud-Barrault et aux Bouffes du Nord), "><strong>Dom Juan de Molière (au théâtre Renaud-Barrault et aux Bouffes du Nord), </strong> de MAMBRINO, Jean</a></li>
+                    
+                    <li><a href="le-heros-de-moliere-don-juan-tenorio-ou-le-seducteur-traque-par-dieu.html" title="Le Héros de Molière, Don Juan Tenorio, ou le séducteur traqué par Dieu"><strong>Le Héros de Molière, Don Juan Tenorio, ou le séducteur traqué par Dieu</strong> de Georges, André</a></li>
+                    
+                    <li><a href="la-creation-de-dom-juan-ou-le-festin-de-pierreau-theatre-du-palais-royal.html" title="La création de Dom Juan ou le Festin de Pierreau théâtre du Palais Royal"><strong>La création de Dom Juan ou le Festin de Pierreau théâtre du Palais Royal</strong> de CHEVALLEY, Sylvie</a></li>
+                    
+                    <li><a href="le-caractere-symbolique-de-la-scene-theatrale-dans-le-dom-juan-de-moliere.html" title="Le caractère symbolique de la scène théâtrale dans le Dom Juan de Molière"><strong>Le caractère symbolique de la scène théâtrale dans le Dom Juan de Molière</strong> de Campion, Pierre</a></li>
+                    
+                    <li><a href="attitudes-to-belief-in-dorimon-s-festin-de-pierre-and-moliere-s-dom-juan.html" title="Attitudes to belief in Dorimon&#8217;s &#8217;Festin de pierre&#8217; and Molière&#8217;s &#8217;Dom Juan&#8217;"><strong>Attitudes to belief in Dorimon&#8217;s &#8217;Festin de pierre&#8217; and Molière&#8217;s &#8217;Dom Juan&#8217;</strong> de Calder, Andrew</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-sur-la-scene-romantique-drame-fantaisie-et-revolution.html" title="Le Dom Juan de Molière sur la scène romantique. Drame, fantaisie, et révolution"><strong>Le Dom Juan de Molière sur la scène romantique. Drame, fantaisie, et révolution</strong> de BROOKS, Franklin</a></li>
+                    
+                    <li><a href="concibio-moliere-su-dom-juan-como-un-anti-quijote-dramatizado.html" title="Concibio Molière su Dom Juan como un anti-Quijote dramatizado&nbsp;?"><strong>Concibio Molière su Dom Juan como un anti-Quijote dramatizado&nbsp;?</strong> de BIHLER, Heinrich</a></li>
+                    
+                    <li><a href="hat-moliere-seinen-dom-juan-als-dramatisierten-anti-quijote-konzipiert.html" title="Hat Molière seinen Dom Juan als dramatisierten Anti-Quijote konzipiert&nbsp;?"><strong>Hat Molière seinen Dom Juan als dramatisierten Anti-Quijote konzipiert&nbsp;?</strong> de BIHLER Heinrich</a></li>
+                    
+                    <li><a href="dom-juan-mise-en-scene-philippe-caubere-theatre-du-soleil.html" title="Dom Juan Mise en scène&nbsp;: Philippe Caubère. Théâtre du Soleil"><strong>Dom Juan Mise en scène&nbsp;: Philippe Caubère. Théâtre du Soleil</strong> de ATTOUN, Lucien</a></li>
+                    
+                    <li><a href="aesthetics-quantification-and-the-erasure-of-ethics-in-moliere-s-dom-juan.html" title="Aesthetics, Quantification, and the Erasure of Ethics in Molière&#8217;s Dom Juan"><strong>Aesthetics, Quantification, and the Erasure of Ethics in Molière&#8217;s Dom Juan</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="serving-don-juan-decorum-in-tirso-de-molina-and-moliere.html" title="Serving Don Juan&nbsp;: Decorum in Tirso de Molina and Molière"><strong>Serving Don Juan&nbsp;: Decorum in Tirso de Molina and Molière</strong> de Bayliss, Robert</a></li>
+                    
+                    <li><a href="a-fascinating-case-of-intertextuality-tartuffe-and-the-legend-of-don-juan.html" title="A Fascinating Case of Intertextuality&nbsp;: Tartuffe and the Legend of Don Juan   "><strong>A Fascinating Case of Intertextuality&nbsp;: Tartuffe and the Legend of Don Juan   </strong> de Taylor-Woodrough, Elizabeth</a></li>
+                    
+                    <li><a href="de-la-traduction-a-l-original-la-resurrection-de-dom-juan-au-xixe-siecle.html" title="&#171;&nbsp;De la &#171;&nbsp;traduction&nbsp;&#187; à l&#8217;original. La &#171;&nbsp;résurrection&nbsp;&#187; de Dom Juan au XIXe siècle.&nbsp;&#187;"><strong>&#171;&nbsp;De la &#171;&nbsp;traduction&nbsp;&#187; à l&#8217;original. La &#171;&nbsp;résurrection&nbsp;&#187; de Dom Juan au XIXe siècle.&nbsp;&#187;</strong> de GUELLOUZ, Suzanne</a></li>
+                    
+                    <li><a href="la-mise-en-scene-en-france-depuis-1960-le-cas-dom-juan.html" title="La mise en scène en France depuis 1960. Le cas Dom Juan"><strong>La mise en scène en France depuis 1960. Le cas Dom Juan</strong> de WHITTON, David</a></li>
+                    
+                    <li><a href="moliere-s-dom-juan-and-the-space-of-the-commedia-dell-arte.html" title="Molière&#8217;s Dom Juan and the space of the Commedia dell&#8217;arte"><strong>Molière&#8217;s Dom Juan and the space of the Commedia dell&#8217;arte</strong> de Tonelli, Franco</a></li>
+                    
+                    <li><a href="adelskritik-und-atheismusproblematik-zur-widerspruchlichen-einheit-von-molieres-dom-juan.html" title="Adelskritik und Atheismusproblematik. Zur widersprüchlichen Einheit von Molières Dom Juan"><strong>Adelskritik und Atheismusproblematik. Zur widersprüchlichen Einheit von Molières Dom Juan</strong> de STENZEL, Hartmut</a></li>
+                    
+                    <li><a href="les-dom-juan-celebres-l-influence-de-l-italie-sur-le-theatre-de-moliere.html" title="Les Dom Juan célèbres. L&#8217;influence de l&#8217;Italie sur le théâtre de Molière."><strong>Les Dom Juan célèbres. L&#8217;influence de l&#8217;Italie sur le théâtre de Molière.</strong> de SICCARDI, Vesta</a></li>
+                    
+                    <li><a href="egoism-and-society-a-secular-interpretation-of-moliere-s-dom-juan.html" title="Egoism and Society&nbsp;: A Secular Interpretation of Molière&#8217;s Dom Juan"><strong>Egoism and Society&nbsp;: A Secular Interpretation of Molière&#8217;s Dom Juan</strong> de Shaw, David</a></li>
+                    
+                    <li><a href="disappearing-acts-style-seduction-and-performance-in-dom-juan.html" title="Disappearing Acts&nbsp;: Style, Seduction, and Performance in Dom Juan"><strong>Disappearing Acts&nbsp;: Style, Seduction, and Performance in Dom Juan</strong> de Schlossman, Beryl</a></li>
+                    
+                    <li><a href="la-seduction-face-au-ciel-dans-dom-juan-de-moliere.html" title="La Séduction face au ciel dans Dom Juan de Molière"><strong>La Séduction face au ciel dans Dom Juan de Molière</strong> de Schapira, Charlotte</a></li>
+                    
+                    <li><a href="der-kluge-heuchler-heuchelt-mit-molieres-dom-juan-in-frankfurt.html" title="Der kluge Heuchler heuchelt mit. Molières Dom Juan in Frankfurt"><strong>Der kluge Heuchler heuchelt mit. Molières Dom Juan in Frankfurt</strong> de ROHDE, Gerhard</a></li>
+                    
+                    <li><a href="the-issues-of-nobility-and-identity-in-dom-juan-and-le-bourgeois-gentilhomme.html" title="The issues of nobility and identity in Dom Juan and Le Bourgeois gentilhomme"><strong>The issues of nobility and identity in Dom Juan and Le Bourgeois gentilhomme</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="la-promesse-de-mariage-le-cid-andromaque-dom-juan-une-analyse-sociodiscursive.html" title="La Promesse de mariage&nbsp;: Le Cid, Andromaque, Dom Juan&nbsp;: Une analyse sociodiscursive"><strong>La Promesse de mariage&nbsp;: Le Cid, Andromaque, Dom Juan&nbsp;: Une analyse sociodiscursive</strong> de Revaz, Gilles</a></li>
+                    
+                    <li><a href="moliere-s-dom-juan-and-the-trickster-a-coherent-theatrical-reading.html" title="Molière&#8217;s Dom Juan and the trickster. A coherent theatrical reading."><strong>Molière&#8217;s Dom Juan and the trickster. A coherent theatrical reading.</strong> de Potts, D.C</a></li>
+                    
+                    <li><a href="dom-juan-veut-il-defier-le-ciel-en-invitant-le-commandeur.html" title="Dom Juan veut-il défier le ciel en invitant le Commandeur&nbsp;?"><strong>Dom Juan veut-il défier le ciel en invitant le Commandeur&nbsp;?</strong> de Pommier, René</a></li>
+                    
+                    <li><a href="family-relations-in-dom-juan-a-coherent-comic-perspective.html" title="Family relations in Dom Juan, a coherent comic perspective"><strong>Family relations in Dom Juan, a coherent comic perspective</strong> de PEACOCK, N.A</a></li>
+                    
+                    <li><a href="de-moliere-au-theatre-de-musset-variations-sur-le-theme-de-don-juan.html" title="De Molière au théâtre de Musset&nbsp;: Variations sur le thème de don Juan"><strong>De Molière au théâtre de Musset&nbsp;: Variations sur le thème de don Juan</strong> de Neiss, Benoit</a></li>
+                    
+                    <li><a href="a-propos-de-athalie-et-dom-juan-mis-en-scene-par-roger-planchon.html" title="A propos de Athalie et Dom Juan mis en scène par Roger Planchon"><strong>A propos de Athalie et Dom Juan mis en scène par Roger Planchon</strong> de MAMBRINO, Jean</a></li>
+                    
+                    <li><a href="regions-mentales-de-frontieres-dans-le-dom-juan-de-moliere.html" title="Régions mentales de frontières dans le Dom Juan de Molière"><strong>Régions mentales de frontières dans le Dom Juan de Molière</strong> de MAJORANO, Matteo</a></li>
+                    
+                    <li><a href="moliere-et-thomas-corneille-dom-juan-et-le-festin-de-pierre.html" title="Molière et Thomas Corneille. Dom Juan et Le Festin de Pierre"><strong>Molière et Thomas Corneille. Dom Juan et Le Festin de Pierre</strong> de LONGHURST, J.</a></li>
+                    
+                    <li><a href="conversations-sur-dom-juan-sixieme-conversation-samedi-2-oct-paris.html" title="Conversations sur Dom Juan. Sixième conversation, samedi 2 oct., Paris"><strong>Conversations sur Dom Juan. Sixième conversation, samedi 2 oct., Paris</strong> de LASSALLE, Jacques&nbsp;; RiviEre, Jean-Loup</a></li>
+                    
+                    <li><a href="die-symbolik-des-ortes-zur-dramaturgischen-topographie-in-molieres-dom-juan.html" title="Die Symbolik des Ortes. Zur dramaturgischen Topographie in Molières Dom Juan"><strong>Die Symbolik des Ortes. Zur dramaturgischen Topographie in Molières Dom Juan</strong> de Keck, Thomas A.</a></li>
+                    
+                    <li><a href="le-denouement-du-dom-juan-de-moliere-un-probleme-de-mise-en-scene.html" title="Le Dénouement du Dom Juan de Molière&nbsp;: Un Problème de mise en scène"><strong>Le Dénouement du Dom Juan de Molière&nbsp;: Un Problème de mise en scène</strong> de Helling, William</a></li>
+                    
+                    <li><a href="einige-uberlegungen-zur-schuldfrage-und-struktur-von-moliere-s-dom-juan.html" title="Einige Überlegungen zur Schuldfrage und Struktur von Molière&#8217;s Dom Juan"><strong>Einige Überlegungen zur Schuldfrage und Struktur von Molière&#8217;s Dom Juan</strong> de GUTJAHR, Marcel</a></li>
+                    
+                    <li><a href="moliere-une-aventure-theatrale-tartuffe-dom-juan-le-misanthrope.html" title="Molière&nbsp;: une aventure théâtrale, Tartuffe, Dom Juan, le Misanthrope"><strong>Molière&nbsp;: une aventure théâtrale, Tartuffe, Dom Juan, le Misanthrope</strong> de Guicharnaud, Jacques</a></li>
+                    
+                    <li><a href="frierkegaard-and-the-don-juan-legend-1-krierkegaaard-as-a-critic-of-moliere.html" title="Frierkegaard and the Don Juan legend. 1&nbsp;: Krierkegaaard as a critic of Molière"><strong>Frierkegaard and the Don Juan legend. 1&nbsp;: Krierkegaaard as a critic of Molière</strong> de GRIMSLEY, Ronald</a></li>
+                    
+                    <li><a href="dom-juan-par-le-centre-dramatique-de-bourgogne-festival-de-la-meuse.html" title="Dom Juan, par le Centre dramatique de Bourgogne, Festival de la Meuse"><strong>Dom Juan, par le Centre dramatique de Bourgogne, Festival de la Meuse</strong> de GALEY, Matthieu</a></li>
+                    
+                    <li><a href="le-menteur-and-dom-juan-a-case-of-theatrical-and-literary-adaptation.html" title="Le Menteur and Dom Juan&nbsp;: A case of theatrical and literary adaptation"><strong>Le Menteur and Dom Juan&nbsp;: A case of theatrical and literary adaptation</strong> de GAINES James F.</a></li>
+                    
+                    <li><a href="the-literary-speech-act-don-juan-with-j-l-austin-or-seduction-in-two-languages.html" title="The Literary Speech Act&nbsp;: Don Juan with J. L. Austin, or Seduction in Two Languages"><strong>The Literary Speech Act&nbsp;: Don Juan with J. L. Austin, or Seduction in Two Languages</strong> de Felman, Shoshana, Porter, Catherine (tr.)</a></li>
+                    
+                    <li><a href="une-unite-scenique-la-remontrance-dans-le-dom-juan-de-moliere.html" title="Une Unité scénique&nbsp;: &#8217;La Remontrance&#8217; dans le Dom Juan de Molière "><strong>Une Unité scénique&nbsp;: &#8217;La Remontrance&#8217; dans le Dom Juan de Molière </strong> de Defrenne, Madeleine</a></li>
+                    
+                    <li><a href="el-dom-juan-de-tirso-y-el-de-moliere-como-personajes-barroccos.html" title="El Dom Juan de Tirso y el de Molière, como personajes barroccos"><strong>El Dom Juan de Tirso y el de Molière, como personajes barroccos</strong> de CASTRO, Am.</a></li>
+                    
+                    <li><a href="a-structural-approach-to-moliere-s-dom-juan-libertinage-and-the-art-of-writing.html" title="A Structural Approach to Molière&#8217;s Dom Juan, Libertinage and the Art of Writing"><strong>A Structural Approach to Molière&#8217;s Dom Juan, Libertinage and the Art of Writing</strong> de Cairncross, John</a></li>
+                    
+                    <li><a href="dom-juan-et-le-misanthrope-ou-l-esthetique-de-l-individualisme-chez-moliere.html" title="Dom Juan et le Misanthrope ou l&#8217;esthétique de l&#8217;individualisme chez Molière"><strong>Dom Juan et le Misanthrope ou l&#8217;esthétique de l&#8217;individualisme chez Molière</strong> de BRODY Jules</a></li>
+                    
+                    <li><a href="du-roman-de-renart-a-dom-juan-le-deracinement-des-roles-sociaux.html" title="Du Roman de Renart à Dom Juan. Le déracinement des rôles sociaux"><strong>Du Roman de Renart à Dom Juan. Le déracinement des rôles sociaux</strong> de Batany, Jean</a></li>
+                    
+                    <li><a href="moliere-dom-juan-scene-du-pauvre-ii-malade-imaginaire-iii-10.html" title="Molière, Dom Juan, Scène du Pauvre (II).&nbsp;? Malade imaginaire (III, 10)"><strong>Molière, Dom Juan, Scène du Pauvre (II).&nbsp;? Malade imaginaire (III, 10)</strong> de Barny, Roger</a></li>
+                    
+                    <li><a href="stratifications-du-discours-sganarelien-dans-le-dom-juan-de-moliere.html" title="Stratifications du discours sganarélien dans le Dom Juan de Molière"><strong>Stratifications du discours sganarélien dans le Dom Juan de Molière</strong> de Bareau, Michel L.</a></li>
+                    
+                    <li><a href="les-defis-de-dom-juan-chez-tirso-de-molina-et-moliere.html" title="Les défis de Dom Juan chez Tirso de Molina et Molière"><strong>Les défis de Dom Juan chez Tirso de Molina et Molière</strong> de BAFARO, Georges</a></li>
+                    
+                    <li><a href="klassische-einheit-und-komische-reduktion-im-dom-juan-von-moliere.html" title="Klassische Einheit und komische Reduktion im Dom Juan von Molière"><strong>Klassische Einheit und komische Reduktion im Dom Juan von Molière</strong> de BAADER, Renate</a></li>
+                    
+                    <li><a href="l-itineraire-de-dom-juan-six-decors-pour-une-piece-a-machines.html" title="L&#8217;itinéraire de Dom Juan. Six décors pour une pièce à machines"><strong>L&#8217;itinéraire de Dom Juan. Six décors pour une pièce à machines</strong> de Albert-Galtier, Alexandre</a></li>
+                    
+                    <li><a href="commentaire-sur-l-article-de-j-m-apostolides-l-or-et-le-feu-une-lecture-du-dom-juan-de-moliere.html" title="Commentaire sur l&#8217;article de J. M.&nbsp;Apostolides&nbsp;: &#8217;L&#8217;Or et le feu&nbsp;: Une Lecture, du Dom Juan de Molière&#8217;"><strong>Commentaire sur l&#8217;article de J. M.&nbsp;Apostolides&nbsp;: &#8217;L&#8217;Or et le feu&nbsp;: Une Lecture, du Dom Juan de Molière&#8217;</strong> de Albanese, Ralph</a></li>
+                    
+                    <li><a href="dom-juan-ou-les-voyages-du-sens-quelques-perspectives-sur-deux-mises-en-scene-de-daniel-mesguich.html" title="&#171;&nbsp;Dom Juan ou les voyages du sens&nbsp;: quelques perspectives sur deux mises en scène de Daniel Mesguich.&nbsp;&#187;"><strong>&#171;&nbsp;Dom Juan ou les voyages du sens&nbsp;: quelques perspectives sur deux mises en scène de Daniel Mesguich.&nbsp;&#187;</strong> de GUIDICELLI, Carole</a></li>
+                    
+                    <li><a href="de-la-comedie-a-la-morale-le-don-juan-francais-du-dix-septieme-siecle-et-sa-transformation-dans-le-theatre-neerlandais.html" title="De la comédie à la morale&nbsp;: Le Don Juan francais du dix-septieme siecle et sa transformation dans le théâtre neerlandais"><strong>De la comédie à la morale&nbsp;: Le Don Juan francais du dix-septieme siecle et sa transformation dans le théâtre neerlandais</strong> de Kuhn, Rose Marie</a></li>
+                    
+                    <li><a href="tartuffe-et-ses-avatars-de-montufar-a-dom-juan-histoire-des-relations-de-moliere-avec-la-cabale-des-devots.html" title="Tartuffe et ses avatars, de Montufar à Dom Juan. Histoire des relations de Molière avec la cabale des dévots"><strong>Tartuffe et ses avatars, de Montufar à Dom Juan. Histoire des relations de Molière avec la cabale des dévots</strong> de Baumal, Francis</a></li>
+                    
+                    <li><a href="le-dynamisme-de-la-peur-chez-moliere-une-analyse-sociostructurelle-de-dom-juan-tartuffe-et-l-ecole-des-femmes.html" title="Le Dynamisme de la peur chez Molière&nbsp;: une analyse sociostructurelle de Dom Juan, Tartuffe et L&#8217;Ecole des femmes"><strong>Le Dynamisme de la peur chez Molière&nbsp;: une analyse sociostructurelle de Dom Juan, Tartuffe et L&#8217;Ecole des femmes</strong> de ALBANESE Jr., Ralph</a></li>
+                    
+                    <li><a href="in-defense-of-don-juan-deceit-and-hypocrisy-in-tirso-de-molina-moliere-mozart-and-g-b-shaw.html" title="In Defense of Don Juan&nbsp;: Deceit and Hypocrisy in Tirso de Molina, Molière, Mozart, and G. B. Shaw"><strong>In Defense of Don Juan&nbsp;: Deceit and Hypocrisy in Tirso de Molina, Molière, Mozart, and G. B. Shaw</strong> de Weinreb, Ruth Plaut</a></li>
+                    
+                    <li><a href="die-dramatischen-bearbeitungen-der-don-juan-sage-in-spanien-italien-und-frankreich-bis-auf-moliere-einschliesslich.html" title="Die dramatischen Bearbeitungen der Don-Juan-Sage in Spanien, Italien und Frankreich bis auf Molière einschliesslich"><strong>Die dramatischen Bearbeitungen der Don-Juan-Sage in Spanien, Italien und Frankreich bis auf Molière einschliesslich</strong> de SchrÖder, Theodor August Emil</a></li>
+                    
+                    <li><a href="dom-juan-and-amphitryon-a-comparative-note-on-their-treatment-of-power-identity-and-social-cohesiveness.html" title="Dom Juan and Amphitryon&nbsp;: A Comparative Note on their Treatment of Power, Identity and Social Cohesiveness"><strong>Dom Juan and Amphitryon&nbsp;: A Comparative Note on their Treatment of Power, Identity and Social Cohesiveness</strong> de Riggs, Larry W.</a></li>
+                    
+                    <li><a href="l-ecole-des-femmes-le-tartuffe-dom-juan-le-misanthrope-de-moliere-a-l-athenee-louis-jouvet.html" title="L&#8217;Ecole des Femmes, Le Tartuffe, Dom Juan, Le Misanthrope de Molière à l&#8217;Athénée/Louis Jouvet"><strong>L&#8217;Ecole des Femmes, Le Tartuffe, Dom Juan, Le Misanthrope de Molière à l&#8217;Athénée/Louis Jouvet</strong> de MAMBRINO, Jean</a></li>
+                    
+                    <li><a href="athalie-de-racine-et-dom-juan-de-moliere-mise-en-scene-de-roger-planchon-au-t-n-p-de-villeurbanne.html" title="Athalie de Racine et Dom Juan de Molière mise en scène de Roger Planchon au T.N.P de Villeurbanne"><strong>Athalie de Racine et Dom Juan de Molière mise en scène de Roger Planchon au T.N.P de Villeurbanne</strong> de MAMBRINO, Jean</a></li>
+                    
+                    <li><a href="don-juan-tirso-moliere-pouchkine-lenau-analyses-et-syntheses-sur-un-mythe-litteraire.html" title="Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau&nbsp;: Analyses et, synthèses sur un mythe littéraire"><strong>Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau&nbsp;: Analyses et, synthèses sur un mythe littéraire</strong> de Losada-Goya, Jose-Manuel (ed.). Brunel, Pierre (ed.)</a></li>
+                    
+                    <li><a href="le-scandale-du-corps-parlant-dom-juan-avec-austin-ou-la-seduction-en-deux-langues.html" title="Le scandale du corps parlant. Dom Juan avec Austin ou la séduction en deux langues"><strong>Le scandale du corps parlant. Dom Juan avec Austin ou la séduction en deux langues</strong> de FELMAN, Sohshana</a></li>
+                    
+                    <li><a href="the-classical-treatment-of-don-juan-in-tirso-moliere-and-mozart-what-cultural-work-does-it-perform.html" title="The Classical Treatment of Don Juan in Tirso, Molière, and Mozart&nbsp;: What Cultural Work does It perform&nbsp;?"><strong>The Classical Treatment of Don Juan in Tirso, Molière, and Mozart&nbsp;: What Cultural Work does It perform&nbsp;?</strong> de Canfield, J. Douglas</a></li>
+                    
+                    <li><a href="don-juan-tirso-moliere-pouchkine-lenau-analyses-et-syntheses-sur-un-mythe-litteraire,40574.html" title="Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau&nbsp;: analyses et synthèses sur un mythe littéraire"><strong>Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau&nbsp;: analyses et synthèses sur un mythe littéraire</strong> de Brunel, Pierre, Losada-Goya, José-Manuel</a></li>
+                    
+                    <li><a href="don-juan-voies-de-la-quete-et-devoiements-de-la-conquete-une-etude-comparative-des-oeuvres-de-tirso-de-molina-moliere-pouchkine-et-lenau.html" title="Don Juan. Voies de la quête et dévoiements de la conquête. Une étude comparative des oeuvres de Tirso de Molina, Molière, Pouchkine et Lenau"><strong>Don Juan. Voies de la quête et dévoiements de la conquête. Une étude comparative des oeuvres de Tirso de Molina, Molière, Pouchkine et Lenau</strong> de Griolet, Patrick</a></li>
+                    
+                    <li><a href="comment-faut-il-prononcer-jesquions-interpretation-phonetique-d-une-forme-du-patois-de-la-comedie-de-moliere-dom-juan.html" title="Comment faut-il prononcer jesquions&nbsp;? Interprétation phonétique d&#8217;une forme du patois de la comédie de Molière Dom Juan"><strong>Comment faut-il prononcer jesquions&nbsp;? Interprétation phonétique d&#8217;une forme du patois de la comédie de Molière Dom Juan</strong> de Lagerquist, Hans</a></li>
+                    
+                    <li><a href="gottes-zorn-in-der-ddr-die-zweifelhafte-wandlung-des-dom-juan-von-moliere-in-der-bearbeitung-bertold-brechtd-und-fes-berliner-ensembles.html" title="Gottes Zorn in der DDR. Die Zweifelhafte Wandlung des Dom Juan von Molière in der Bearbeitung Bertold Brechtd und fes Berliner Ensembles"><strong>Gottes Zorn in der DDR. Die Zweifelhafte Wandlung des Dom Juan von Molière in der Bearbeitung Bertold Brechtd und fes Berliner Ensembles</strong> de Keck, Thomas</a></li>
+                    
+                    <li><a href="don-juan-oder-die-liebe-zur-philosophie-benjamin-korn-inszeniert-molieres-komodie-theater-in-krankfurt.html" title="Don Juan oder Die Liebe zur Philosophie. Benjamin Korn inszeniert Molières Komödie. Theater in Krankfurt"><strong>Don Juan oder Die Liebe zur Philosophie. Benjamin Korn inszeniert Molières Komödie. Theater in Krankfurt</strong> de HEINRICHS, Benjamin</a></li>
+                    
+                    <li><a href="moliere-dom-juan-ou-le-festin-de-pierre-mise-en-scene-de-jacques-lassalle-avec-la-troupe-de-la-comedie-francaise-avignon-et-paris.html" title="Molière, Dom Juan ou le festin de Pierre. Mise en scène de Jacques Lassalle avec la troupe de la Comédie-Française, Avignon et Paris&nbsp;?"><strong>Molière, Dom Juan ou le festin de Pierre. Mise en scène de Jacques Lassalle avec la troupe de la Comédie-Française, Avignon et Paris&nbsp;?</strong> de Spaas, Lieve</a></li>
+                    
+                    <li><a href="the-tragedy-of-language-an-application-of-artaud-s-criticism-of-the-dramatic-text-to-shakespeare-s-coriolanus-moliere-s-dom-juan-and-calderon-s-la-vida-es-sueno.html" title="The tragedy of language&nbsp;: an application of Artaud&#8217;s criticism of the dramatic text to Shakespeare&#8217;s &#8217;Coriolanus,&#8217; Moliere&#8217;s &#8217;Dom Juan,&#8217; and Calderon&#8217;s &#8217;La Vida es sueno&#8217;"><strong>The tragedy of language&nbsp;: an application of Artaud&#8217;s criticism of the dramatic text to Shakespeare&#8217;s &#8217;Coriolanus,&#8217; Moliere&#8217;s &#8217;Dom Juan,&#8217; and Calderon&#8217;s &#8217;La Vida es sueno&#8217;</strong> de Duvert, Dominique .</a></li>
+                    
+                    <li><a href="morte-e-commedia-di-don-juan-intorno-a-una-commedia-di-moliere.html" title="Morte e commedia di Don Juan, intorno a una commedia di Molière"><strong>Morte e commedia di Don Juan, intorno a una commedia di Molière</strong> de Maranini, Lorenza</a></li>
+                    
+                    <li><a href="mesure-et-demesure-dans-dom-juan-de-moliere.html" title=" &quot;Mesure et démesure dans Dom Juan de Molière&quot;"><strong> &quot;Mesure et démesure dans Dom Juan de Molière&quot;</strong> de MOURAD, François -Marie</a></li>
+                    
+                    <li><a href="dom-juan-figure-du-terrorisme-culturel-de-l-occident.html" title="&quot;Dom Juan, figure du terrorisme culturel de l&#8217;occident&quot;"><strong>&quot;Dom Juan, figure du terrorisme culturel de l&#8217;occident&quot;</strong> de SPEE Bernard</a></li>
+                    
+                    <li><a href="lectures-de-don-juan-de-moliere-theme-le-defi.html" title="Lectures de &quot; Don Juan &quot; de Molière&nbsp;: thème, le défi"><strong>Lectures de &quot; Don Juan &quot; de Molière&nbsp;: thème, le défi</strong> de S. N.</a></li>
+                    
+                    <li><a href="le-dom-juan-de-moliere-un-probleme-de-mise-en-scene.html" title="Le &quot;Dom Juan&quot; de Molière, un problème de mise en scène"><strong>Le &quot;Dom Juan&quot; de Molière, un problème de mise en scène</strong> de Villiers, André (pseud. de André Bonnichon)</a></li>
+                    
+                    <li><a href="explication-de-texte-la-scene-du-pauvre-la-2e-scene-de-l-acte-iii-du-dom-juan.html" title="Explication de texte. La scène du Pauvre (la 2è scène de l&#8217;acte III du Dom Juan)"><strong>Explication de texte. La scène du Pauvre (la 2è scène de l&#8217;acte III du Dom Juan)</strong> de ROUGIER, P.</a></li>
+                    
+                    <li><a href="langage-dramatique-et-langage-symbolique-dans-le-dom-juan-de-moliere.html" title="Langage dramatique et langage symbolique dans le Dom Juan de Molière."><strong>Langage dramatique et langage symbolique dans le Dom Juan de Molière.</strong> de Forestier, Georges</a></li>
+                    
+                    <li><a href="constance-et-instabilite-dans-dom-juan-de-moliere-machines-desirantes-de-la-machine-celibataire-a-la-machine-infernale.html" title="Constance et instabilité dans Dom Juan de Molière&nbsp;: &#8217;Machines, désirantes&#8217; (de la &#8217;machine célibataire&#8217; a la &#8217;machine infernale&#8217;)"><strong>Constance et instabilité dans Dom Juan de Molière&nbsp;: &#8217;Machines, désirantes&#8217; (de la &#8217;machine célibataire&#8217; a la &#8217;machine infernale&#8217;)</strong> de Dubois, Claude-Gilbert</a></li>
+                    
+                    <li><a href="the-supernatural-presence-in-moliere-s-dom-juan-a-problem-of-belief-or-a-problem-of-language.html" title="The Supernatural Presence in Molière&#8217;s Dom Juan&nbsp;: A Problem of Belief or a Problem of Language&nbsp;?"><strong>The Supernatural Presence in Molière&#8217;s Dom Juan&nbsp;: A Problem of Belief or a Problem of Language&nbsp;?</strong> de Wolfe, Kathryn Willis</a></li>
+                    
+                    <li><a href="moliere-chez-moliere-dom-juan-a-la-comedie-francaise-1952-1982.html" title="Molière chez Molière. Dom Juan à la Comédie-Française 1952-1982"><strong>Molière chez Molière. Dom Juan à la Comédie-Française 1952-1982</strong> de WHITTON, David</a></li>
+                    
+                    <li><a href="un-monument-baroque-pour-athalie-et-pour-dom-juan-roger-planchon.html" title="Un monument baroque pour Athalie et pour Dom Juan [Roger Planchon]"><strong>Un monument baroque pour Athalie et pour Dom Juan [Roger Planchon]</strong> de FLORENNE, Yves</a></li>
+                    
+                    <li><a href="figure-masquee-figure-mythique-don-juan-tirso-moliere-pouchkine-lenau.html" title="Figure masquée, figure mythique, Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau"><strong>Figure masquée, figure mythique, Don Juan&nbsp;: Tirso, Molière, Pouchkine, Lenau</strong> de Backes, Jean-Louis</a></li>
+                    
+                    <li><a href="a-peoples-s-festival-moliere-s-parody-of-royal-ceremonial-and-religious-ritual-in-dom-juan.html" title="&quot;A peoples&#8217;s festival. Moliere&#8217;s parody of royal ceremonial and religious ritual in &quot;Dom Juan&quot;"><strong>&quot;A peoples&#8217;s festival. Moliere&#8217;s parody of royal ceremonial and religious ritual in &quot;Dom Juan&quot;</strong> de TAYLOR-WOODROUGH, Elizabeth</a></li>
+                    
+                    <li><a href="zganarel-kao-sluga-dvaju-gospodara-i-don-zuan-kao-razoplicitelj-licemerja-sganarelle-en-tant-que-valet-de-deux-maitres-et-don-juan-en-tant-que-l-homme-qui-demasque-l-hypocrisie.html" title="Zganarel kao sluga dvaju gospodara i Don Zuan kao razoplicitelj licemerja [Sganarelle en tant que valet de deux maîtres et Don Juan en tant que l&#8217;homme qui démasque l&#8217;hypocrisie]"><strong>Zganarel kao sluga dvaju gospodara i Don Zuan kao razoplicitelj licemerja [Sganarelle en tant que valet de deux maîtres et Don Juan en tant que l&#8217;homme qui démasque l&#8217;hypocrisie]</strong> de KLAJN, H.</a></li>
+                    
+                    <li><a href="zu-don-juan-von-moliere-wie-soll-man-moliere-spielen.html" title="Zu Don Juan von Molière [Wie soll man Molière spielen&nbsp;?]"><strong>Zu Don Juan von Molière [Wie soll man Molière spielen&nbsp;?]</strong> de BRECHT, Bertolt</a></li>
+                    
+                    <li><a href="faire-dire-e-s-t-dire-faire-dans-dom-juan-et-georges-dandin-paroles-gelees.html" title="Faire&nbsp;: &#8217;dire&#8217; e(s)t&nbsp;? dire&nbsp;: &#8217;faire&#8217; dans Dom Juan et Georges Dandin, Paroles Gelees"><strong>Faire&nbsp;: &#8217;dire&#8217; e(s)t&nbsp;? dire&nbsp;: &#8217;faire&#8217; dans Dom Juan et Georges Dandin, Paroles Gelees</strong> de Showrai, Atiyeh</a></li>
+                    
+                    <li><a href="sur-le-dom-juan-de-moliere.html" title="Sur le &quot;Dom Juan&quot; de Molière"><strong>Sur le &quot;Dom Juan&quot; de Molière</strong> de Scherer, Jacques</a></li>
+                    
+                    <li><a href="efros-and-moliere-a-study-of-anatoly-efros-s-productions-of-bulgakov-s-moliere-and-of-moliere-s-dom-juan-tartuffe-and-the-misanthrope.html" title="<I>Efros and Moliere. A study of Anatoly Efros&#8217;s productions of Bulgakov&#8217;s &#171;&nbsp;Molière&nbsp;&#187; and of Moliere&#8217;s &#171;&nbsp;Dom Juan&nbsp;&#187;, &#171;&nbsp;Tartuffe&nbsp;&#187; and &#171;&nbsp;The Misanthrope&nbsp;&#187;.</I>"><strong><I>Efros and Moliere. A study of Anatoly Efros&#8217;s productions of Bulgakov&#8217;s &#171;&nbsp;Molière&nbsp;&#187; and of Moliere&#8217;s &#171;&nbsp;Dom Juan&nbsp;&#187;, &#171;&nbsp;Tartuffe&nbsp;&#187; and &#171;&nbsp;The Misanthrope&nbsp;&#187;.</I></strong> de DIXON, R. S.</a></li>
+                    
+                    <li><a href="dom-juan-by-moliere-comedie-francaise-brooklyn-acad-of-music-2-avr-1996-la-double-inconstance-by-marivaux-comedie-francaise-brooklyn-acad-of-music-11-avr-1996.html" title="Dom Juan by Molière. Comédie-Française. Brooklyn Acad. Of Music. 2 avr. 1996 &#8217; La Double Inconstance by Marivaux. Comédie-Française. Brooklyn Acad. Of Music. 11 avr. 1996"><strong>Dom Juan by Molière. Comédie-Française. Brooklyn Acad. Of Music. 2 avr. 1996 &#8217; La Double Inconstance by Marivaux. Comédie-Française. Brooklyn Acad. Of Music. 11 avr. 1996</strong> de Pelizzari, David</a></li>
+                    
+            	</ul>
+            
+                </div>
+            </div>
+            	<div class="listearticlesmedia">
+            	
+                </div>
+            </div>
+        </div>
+
+		</div> <!-- End #wrapper -->
+
+<!-- content to show if javascript is disabled -->
+<noscript>
+	<style type="text/css">
+		#mcs4_container .customScrollBox{overflow:auto;}
+		#mcs4_container .dragger_container{display:none;}
+	</style>
+</noscript>
+
+<script>
+$(window).load(function() {
+	$("#mcs4_container").mCustomScrollbar("vertical",250,"easeOutCirc",1.25,"fixed","yes","no",0); 
+});
+</script>
+<script src="http://www.toutmoliere.net/js/jquery.mCustomScrollbar.js"></script></body>
+
+</html>
