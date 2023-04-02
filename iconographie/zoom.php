@@ -31,12 +31,12 @@ window.resizeTo(50+decale,160);
 <BODY MARGINWIDTH=0 MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0>
 <SCRIPT>
 if (fromsite==-1)
-document.write ("<TABLE CELLPADDING=5><TR><TD BGCOLOR='#000000' VALIGN=top ALIGN=center><IMG SRC='../images/moliere.jpg' BORDER=0 WIDTH=90 HEIGHT=109 ALT='Moli�re en trag�dien' VSPACE=10><BR><SPAN CLASS=site>www.toutmoliere.net</SPAN><BR><SPAN CLASS=externe>ICONOGRAPHIE</SPAN><BR><HR WIDTH=80%><BR><BR><BR><DIV CLASS=jump>Cette page est tir�e du site <A HREF='http://www.toutmoliere.net' TARGET=_blank CLASS=jump>www.toutmoliere.net</A><BR><BR>Le site de r�f�rence sur l'oeuvre de Moli�re<BR><BR>Actualit�s, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</DIV></TD><TD>");
+document.write ("<TABLE CELLPADDING=5><TR><TD BGCOLOR='#000000' VALIGN=top ALIGN=center><img SRC='../images/moliere.jpg' BORDER=0 WIDTH=90 HEIGHT=109 ALT='Moli�re en trag�dien' VSPACE=10><BR><SPAN CLASS=site>www.toutmoliere.net</SPAN><BR><SPAN CLASS=externe>ICONOGRAPHIE</SPAN><BR><HR WIDTH=80%><BR><BR><BR><DIV CLASS=jump>Cette page est tir�e du site <A HREF='http://www.toutmoliere.net' TARGET=_blank CLASS=jump>www.toutmoliere.net</A><BR><BR>Le site de r�f�rence sur l'oeuvre de Moli�re<BR><BR>Actualit�s, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</DIV></TD><TD>");
 else document.write ("<BR>");
 </SCRIPT>
 <DIV ALIGN=CENTER>
 <SPAN CLASS=legende></SPAN><BR><BR>
-<IMG SRC="images/"  BORDER=1><BR><BR>
+<img SRC="images/"  BORDER=1><BR><BR>
 <FORM><INPUT TYPE=button VALUE="Fermer cette fen�tre" onClick="javascript:window.close()" CLASS=bouton></FORM>
 </DIV>
 <SCRIPT>

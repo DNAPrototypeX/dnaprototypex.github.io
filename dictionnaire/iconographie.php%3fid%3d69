@@ -25,7 +25,7 @@ window.resizeTo(width,height);
 <BODY CLASS=Corps>
 <P ALIGN="center" CLASS=titre><I>Psych�</I>, Frontispice de l'�dition de 1682, par P. Brissart, gr. par J. Sauv�.</P>
 <DIV ALIGN=CENTER>
-<IMG SRC="../iconographie/images/079.jpg" width="277" height="475" STYLE="border-color: #336600"><BR><BR>
+<img SRC="../iconographie/images/079.jpg" width="277" height="475" STYLE="border-color: #336600"><BR><BR>
 <FORM ACTION=""><INPUT TYPE=button VALUE="Fermer cette fen�tre" onClick="javascript:window.close()" CLASS=bouton></FORM>
 </DIV>
 </BODY>

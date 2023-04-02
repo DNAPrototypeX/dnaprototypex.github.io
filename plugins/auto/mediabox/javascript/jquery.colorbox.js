@@ -534,7 +534,7 @@
 		
 		$loadingBay.hide();
 		
-		// floating the IMG removes the bottom line-height and fixed a problem where IE miscalculates the width of the parent element as 100% of the document width.
+		// floating the img removes the bottom line-height and fixed a problem where IE miscalculates the width of the parent element as 100% of the document width.
 		$('#' + prefix + 'Photo').css({cssFloat: 'none', marginLeft: 'auto', marginRight: 'auto'});
 		
 		// Hides SELECT elements in IE6 because they would otherwise sit on top of the overlay.

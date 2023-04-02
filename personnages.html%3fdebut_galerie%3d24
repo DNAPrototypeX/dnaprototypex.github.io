@@ -218,49 +218,49 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/048-3.jpg" class="mediabox" alt="Scaramouche" title="Scaramouche">
+                <a href="img/jpg/048-3.jpg" class="mediabox" alt="Scaramouche" title="Scaramouche">
                 <img src='local/cache-gd2/48d6086726be0585e37baec1cb0a2030.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Scaramouche</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/052-3.jpg" class="mediabox" alt="Lulli" title="Lulli">
+                <a href="img/jpg/052-3.jpg" class="mediabox" alt="Lulli" title="Lulli">
                 <img src='local/cache-gd2/e1029c7b6e99128ad13912dda6c017d7.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Lulli</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/085-3.jpg" class="mediabox" alt="Gros-Guillaume et Gaultier-Garguille" title="Gros-Guillaume et Gaultier-Garguille">
+                <a href="img/jpg/085-3.jpg" class="mediabox" alt="Gros-Guillaume et Gaultier-Garguille" title="Gros-Guillaume et Gaultier-Garguille">
                 <img src='local/cache-gd2/5b0d64f2b88e40742a6947d0f3c54072.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Gros-Guillaume..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/086-3.jpg" class="mediabox" alt="Louis XIV en campagne" title="Louis XIV en campagne">
+                <a href="img/jpg/086-3.jpg" class="mediabox" alt="Louis XIV en campagne" title="Louis XIV en campagne">
                 <img src='local/cache-gd2/085424ad7e36c20e3fd3467f2f02862e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Louis XIV en campagn</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/087-3.jpg" class="mediabox" alt="Molière en Arnolphe" title="Molière en Arnolphe">
+                <a href="img/jpg/087-3.jpg" class="mediabox" alt="Molière en Arnolphe" title="Molière en Arnolphe">
                 <img src='local/cache-gd2/47f968982ba1483fae8ef4b6f4fec0d5.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Molière en Arnolphe</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/088-3.jpg" class="mediabox" alt="Racine" title="Racine">
+                <a href="img/jpg/088-3.jpg" class="mediabox" alt="Racine" title="Racine">
                 <img src='local/cache-gd2/2d3899674cbd831aba4fde2b66791e54.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Racine</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/089-3.jpg" class="mediabox" alt="Marquise Du Parc" title="Marquise Du Parc">
+                <a href="img/jpg/089-3.jpg" class="mediabox" alt="Marquise Du Parc" title="Marquise Du Parc">
                 <img src='local/cache-gd2/b169475440a6ee026dbc7dfa84ea9a1c.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Marquise Du Parc</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/090-3.jpg" class="mediabox" alt="Nicolas Boileau" title="Nicolas Boileau">
+                <a href="img/jpg/090-3.jpg" class="mediabox" alt="Nicolas Boileau" title="Nicolas Boileau">
                 <img src='local/cache-gd2/bed08991fb3cc2248880bb769ba215e1.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Nicolas Boileau</span>
                 </div>

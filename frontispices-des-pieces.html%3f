@@ -218,73 +218,73 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/004.jpg" class="mediabox" alt="Le Tartuffe" title="Le Tartuffe">
+                <a href="img/jpg/004.jpg" class="mediabox" alt="Le Tartuffe" title="Le Tartuffe">
                 <img src='local/cache-gd2/c32eb4753dc0e1b84e05e53b15d18cb9.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Tartuffe</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/044-3.jpg" class="mediabox" alt="Le Misanthrope" title="Le Misanthrope">
+                <a href="img/jpg/044-3.jpg" class="mediabox" alt="Le Misanthrope" title="Le Misanthrope">
                 <img src='local/cache-gd2/27afb603c6089198549137376b9c9768.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Misanthrope</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/053.jpg" class="mediabox" alt="Les Amants magnifiques" title="Les Amants magnifiques">
+                <a href="img/jpg/053.jpg" class="mediabox" alt="Les Amants magnifiques" title="Les Amants magnifiques">
                 <img src='local/cache-gd2/d75e5335b7ae499d2e25bff14f6b07c4.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les Amants magnifiqu</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/054-3.jpg" class="mediabox" alt="L&#8217;Avare" title="L&#8217;Avare">
+                <a href="img/jpg/054-3.jpg" class="mediabox" alt="L&#8217;Avare" title="L&#8217;Avare">
                 <img src='local/cache-gd2/5a9d3784046f0a38c8bce7f979f641fe.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’Avare</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/055-3.jpg" class="mediabox" alt="Amphitryon" title="Amphitryon">
+                <a href="img/jpg/055-3.jpg" class="mediabox" alt="Amphitryon" title="Amphitryon">
                 <img src='local/cache-gd2/39fd75c9886f4d2309f071049894a76b.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Amphitryon</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/056-3.jpg" class="mediabox" alt="Le Bourgeois gentilhomme" title="Le Bourgeois gentilhomme">
+                <a href="img/jpg/056-3.jpg" class="mediabox" alt="Le Bourgeois gentilhomme" title="Le Bourgeois gentilhomme">
                 <img src='local/cache-gd2/07bd187b4fd958a4536cc9735998b00d.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Bourgeois gentilh</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/057-3.jpg" class="mediabox" alt="La Critique de l&#8217;école des femmes" title="La Critique de l&#8217;école des femmes">
+                <a href="img/jpg/057-3.jpg" class="mediabox" alt="La Critique de l&#8217;école des femmes" title="La Critique de l&#8217;école des femmes">
                 <img src='local/cache-gd2/9eac1218d36f0d771145d67800240011.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">La Critique de..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/058-3.jpg" class="mediabox" alt="Le Dépit amoureux" title="Le Dépit amoureux">
+                <a href="img/jpg/058-3.jpg" class="mediabox" alt="Le Dépit amoureux" title="Le Dépit amoureux">
                 <img src='local/cache-gd2/3f1f49dfa2142f485a272f569e49f06c.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Dépit amoureux</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/059-3.jpg" class="mediabox" alt="Dom Garcie de Navarre" title="Dom Garcie de Navarre">
+                <a href="img/jpg/059-3.jpg" class="mediabox" alt="Dom Garcie de Navarre" title="Dom Garcie de Navarre">
                 <img src='local/cache-gd2/5b3ec016c51bb58751defdba4501cb9c.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Dom Garcie de Navarr</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/060-3.jpg" class="mediabox" alt="Dom Juan" title="Dom Juan">
+                <a href="img/jpg/060-3.jpg" class="mediabox" alt="Dom Juan" title="Dom Juan">
                 <img src='local/cache-gd2/2c03294840dd716fa078df3c97b552b2.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Dom Juan</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/061-3.jpg" class="mediabox" alt="L&#8217;Ecole des femmes" title="L&#8217;Ecole des femmes">
+                <a href="img/jpg/061-3.jpg" class="mediabox" alt="L&#8217;Ecole des femmes" title="L&#8217;Ecole des femmes">
                 <img src='local/cache-gd2/56314eb90ef00c0c85082465ca1e7ff4.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’Ecole des femmes</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/062-3.jpg" class="mediabox" alt="L&#8217;Ecole des maris" title="L&#8217;Ecole des maris">
+                <a href="img/jpg/062-3.jpg" class="mediabox" alt="L&#8217;Ecole des maris" title="L&#8217;Ecole des maris">
                 <img src='local/cache-gd2/be0a6fc9737fdb8e423e47e378a01e4e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’Ecole des maris</span>
                 </div>

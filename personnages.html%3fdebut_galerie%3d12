@@ -229,73 +229,73 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/025-3.jpg" class="mediabox" alt="Gassendi" title="Gassendi">
+                <a href="img/jpg/025-3.jpg" class="mediabox" alt="Gassendi" title="Gassendi">
                 <img src='local/cache-gd2/b2a4b4ad46b8fbb8591df454793dda6a.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Gassendi</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/027-3.jpg" class="mediabox" alt="Turlupin" title="Turlupin">
+                <a href="img/jpg/027-3.jpg" class="mediabox" alt="Turlupin" title="Turlupin">
                 <img src='local/cache-gd2/efceb251a68d72a3b251fd6f00370e16.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Turlupin</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/029-3.jpg" class="mediabox" alt="Scarron" title="Scarron">
+                <a href="img/jpg/029-3.jpg" class="mediabox" alt="Scarron" title="Scarron">
                 <img src='local/cache-gd2/877c3030922fcf7d72bf02db78c07fcf.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Scarron</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/030-3.jpg" class="mediabox" alt="Julien Bedeau, dit Jodelet." title="Julien Bedeau, dit Jodelet.">
+                <a href="img/jpg/030-3.jpg" class="mediabox" alt="Julien Bedeau, dit Jodelet." title="Julien Bedeau, dit Jodelet.">
                 <img src='local/cache-gd2/c6643b912d3443d222cf26c35b786e2a.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Julien Bedeau,..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/033-3.jpg" class="mediabox" alt="La Fontaine" title="La Fontaine">
+                <a href="img/jpg/033-3.jpg" class="mediabox" alt="La Fontaine" title="La Fontaine">
                 <img src='local/cache-gd2/697da57538c03a1e4c208973680348a2.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">La Fontaine</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/034-3.jpg" class="mediabox" alt="Scaramouche" title="Scaramouche">
+                <a href="img/jpg/034-3.jpg" class="mediabox" alt="Scaramouche" title="Scaramouche">
                 <img src='local/cache-gd2/12b8a2a9f3b9339e527f4762f6717f64.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Scaramouche</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/036-3.jpg" class="mediabox" alt="Comédiens italiens" title="Comédiens italiens">
+                <a href="img/jpg/036-3.jpg" class="mediabox" alt="Comédiens italiens" title="Comédiens italiens">
                 <img src='local/cache-gd2/e05016b5f2748f200761845fa1adca08.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Comédiens italiens</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/038-3.jpg" class="mediabox" alt="Montfleury" title="Montfleury">
+                <a href="img/jpg/038-3.jpg" class="mediabox" alt="Montfleury" title="Montfleury">
                 <img src='local/cache-gd2/100ebf7b316affc7423f8157e31a7d83.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Montfleury</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/039-3.jpg" class="mediabox" alt="Sganarelle" title="Sganarelle">
+                <a href="img/jpg/039-3.jpg" class="mediabox" alt="Sganarelle" title="Sganarelle">
                 <img src='local/cache-gd2/997060041f12b71f064ef400cc9e08cc.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Sganarelle</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/040-3.jpg" class="mediabox" alt="Louis XIV en Apollon" title="Louis XIV en Apollon">
+                <a href="img/jpg/040-3.jpg" class="mediabox" alt="Louis XIV en Apollon" title="Louis XIV en Apollon">
                 <img src='local/cache-gd2/9da33bf8707a2e9b7872936a198b719c.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Louis XIV en Apollon</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/045-3.jpg" class="mediabox" alt="L&#8217;abbé Cotin" title="L&#8217;abbé Cotin">
+                <a href="img/jpg/045-3.jpg" class="mediabox" alt="L&#8217;abbé Cotin" title="L&#8217;abbé Cotin">
                 <img src='local/cache-gd2/e686c1e1290c0e1876d9f1f3c49ce7dd.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’abbé Cotin</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/046-3.jpg" class="mediabox" alt="La Reynie" title="La Reynie">
+                <a href="img/jpg/046-3.jpg" class="mediabox" alt="La Reynie" title="La Reynie">
                 <img src='local/cache-gd2/22d87165b4eb51a370687ec6cf5bc7bf.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">La Reynie</span>
                 </div>

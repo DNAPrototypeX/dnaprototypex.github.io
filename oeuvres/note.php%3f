@@ -19,7 +19,7 @@ Ce site, con�u dans un esprit de rigueur scientifique, est destin� � un pu
 </HEAD>
 <BODY>
 
-<TABLE WIDTH='100%'><TR><TD CLASS=dico><IMG SRC="../images/marky.gif" BORDER=0 WIDTH=9 HEIGHT=9> NOTE</TD></TR><TR><TD CLASS=note></TD></TR></TABLE><DIV ALIGN="center">
+<TABLE WIDTH='100%'><TR><TD CLASS=dico><img SRC="../images/marky.gif" BORDER=0 WIDTH=9 HEIGHT=9> NOTE</TD></TR><TR><TD CLASS=note></TD></TR></TABLE><DIV ALIGN="center">
 <FORM>
 <INPUT TYPE=button VALUE="Fermer cette fen�tre" OnClick="javascript:window.close()" CLASS=bouton>
 </FORM>

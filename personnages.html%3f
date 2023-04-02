@@ -228,73 +228,73 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/002-3.jpg" class="mediabox" alt="A. Béjart" title="A. Béjart">
+                <a href="img/jpg/002-3.jpg" class="mediabox" alt="A. Béjart" title="A. Béjart">
                 <img src='local/cache-gd2/3608dcbfee9b166b53ced47bf930fae7.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">A. Béjart</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/003-3.jpg" class="mediabox" alt="Jodelet" title="Jodelet">
+                <a href="img/jpg/003-3.jpg" class="mediabox" alt="Jodelet" title="Jodelet">
                 <img src='local/cache-gd2/c1826c113444e0910c282a1daa5762ee.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Jodelet</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/005-3.jpg" class="mediabox" alt="Louis XIV" title="Louis XIV">
+                <a href="img/jpg/005-3.jpg" class="mediabox" alt="Louis XIV" title="Louis XIV">
                 <img src='local/cache-gd2/fe9023074c1d34027f5feead71adc25e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Louis XIV</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/006-3.jpg" class="mediabox" alt="Jean de Rotrou" title="Jean de Rotrou">
+                <a href="img/jpg/006-3.jpg" class="mediabox" alt="Jean de Rotrou" title="Jean de Rotrou">
                 <img src='local/cache-gd2/0d662d4694f22634fc5f8754cee3d029.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Jean de Rotrou</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/008-3.jpg" class="mediabox" alt="Matamore" title="Matamore">
+                <a href="img/jpg/008-3.jpg" class="mediabox" alt="Matamore" title="Matamore">
                 <img src='local/cache-gd2/bf6405079f29acf60010db1957b7916b.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Matamore</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/009-3.jpg" class="mediabox" alt="Pierre Corneille" title="Pierre Corneille">
+                <a href="img/jpg/009-3.jpg" class="mediabox" alt="Pierre Corneille" title="Pierre Corneille">
                 <img src='local/cache-gd2/45b79f0b273a1d285a3a3dc6d1f4053e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Pierre Corneille</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/012-3.jpg" class="mediabox" alt="Scapin" title="Scapin">
+                <a href="img/jpg/012-3.jpg" class="mediabox" alt="Scapin" title="Scapin">
                 <img src='local/cache-gd2/716b1def512408f7359945a94742843f.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Scapin</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/014-3.jpg" class="mediabox" alt="Farceurs dansants" title="Farceurs dansants">
+                <a href="img/jpg/014-3.jpg" class="mediabox" alt="Farceurs dansants" title="Farceurs dansants">
                 <img src='local/cache-gd2/3539bd4349b9404f441c9e85b44b8166.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Farceurs dansants</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/018-3.jpg" class="mediabox" alt="Tartuffe" title="Tartuffe">
+                <a href="img/jpg/018-3.jpg" class="mediabox" alt="Tartuffe" title="Tartuffe">
                 <img src='local/cache-gd2/8e3b7395e8dcc9dfc58d8a919d4e8701.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Tartuffe</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/019-3.jpg" class="mediabox" alt="Molière écrivant" title="Molière écrivant">
+                <a href="img/jpg/019-3.jpg" class="mediabox" alt="Molière écrivant" title="Molière écrivant">
                 <img src='local/cache-gd2/1f9c1fe64427473cfb0b8ccf9b4bf352.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Molière écrivant</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/020-3.jpg" class="mediabox" alt="Tallemant des Réaux" title="Tallemant des Réaux">
+                <a href="img/jpg/020-3.jpg" class="mediabox" alt="Tallemant des Réaux" title="Tallemant des Réaux">
                 <img src='local/cache-gd2/f230372a30f4ff1f04aeaf4e8a89b50a.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Tallemant des Réaux</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/021-3.jpg" class="mediabox" alt="Pierre Mignard" title="Pierre Mignard">
+                <a href="img/jpg/021-3.jpg" class="mediabox" alt="Pierre Mignard" title="Pierre Mignard">
                 <img src='local/cache-gd2/c7679172b75cbee622a935985884e853.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Pierre Mignard</span>
                 </div>

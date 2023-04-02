@@ -228,25 +228,25 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/078-3.jpg" class="mediabox" alt="Les Précieuses ridicules" title="Les Précieuses ridicules">
+                <a href="img/jpg/078-3.jpg" class="mediabox" alt="Les Précieuses ridicules" title="Les Précieuses ridicules">
                 <img src='local/cache-gd2/7d6ecc6f99039a368001ed19bb6b80c9.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les Précieuses ridicu</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/079-3.jpg" class="mediabox" alt="Psyché" title="Psyché">
+                <a href="img/jpg/079-3.jpg" class="mediabox" alt="Psyché" title="Psyché">
                 <img src='local/cache-gd2/51dab37e6e0a141db32cc513df2f4d80.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Psyché</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/080-3.jpg" class="mediabox" alt="Les Fourberies de Scapin" title="Les Fourberies de Scapin">
+                <a href="img/jpg/080-3.jpg" class="mediabox" alt="Les Fourberies de Scapin" title="Les Fourberies de Scapin">
                 <img src='local/cache-gd2/0a14c93be13dfd6d087a65a842502835.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les Fourberies..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/081-3.jpg" class="mediabox" alt="Sganarelle" title="Sganarelle">
+                <a href="img/jpg/081-3.jpg" class="mediabox" alt="Sganarelle" title="Sganarelle">
                 <img src='local/cache-gd2/1e8602f5d99d25a175b6fa5b8b95f64d.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Sganarelle</span>
                 </div>

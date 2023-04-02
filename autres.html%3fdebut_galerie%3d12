@@ -227,37 +227,37 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/037-2.jpg" class="mediabox" alt="Salle du Petit-Bourbon" title="Salle du Petit-Bourbon">
+                <a href="img/jpg/037-2.jpg" class="mediabox" alt="Salle du Petit-Bourbon" title="Salle du Petit-Bourbon">
                 <img src='local/cache-gd2/747a73d6d19dd56e1dbb580d143b9eda.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Salle du Petit-Bourb</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/041-2.jpg" class="mediabox" alt="Les plaisirs de l&#8217;ile enchantée. Parade" title="Les plaisirs de l&#8217;ile enchantée. Parade">
+                <a href="img/jpg/041-2.jpg" class="mediabox" alt="Les plaisirs de l&#8217;ile enchantée. Parade" title="Les plaisirs de l&#8217;ile enchantée. Parade">
                 <img src='local/cache-gd2/f443869cffb764a4486bd0d5af7f47c6.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les plaisirs de..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/043-2.jpg" class="mediabox" alt="Le Cardinal Chigi" title="Le Cardinal Chigi">
+                <a href="img/jpg/043-2.jpg" class="mediabox" alt="Le Cardinal Chigi" title="Le Cardinal Chigi">
                 <img src='local/cache-gd2/d45ca8ccbe89d445ab96e080dd3cf515.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Cardinal Chigi</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/049-2.jpg" class="mediabox" alt="Comédie-française" title="Comédie-française">
+                <a href="img/jpg/049-2.jpg" class="mediabox" alt="Comédie-française" title="Comédie-française">
                 <img src='local/cache-gd2/cd1e65300f63baea56f9a78722d9dc15.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Comédie-française..</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/051-2.jpg" class="mediabox" alt="Les remèdes à tous les maux" title="Les remèdes à tous les maux">
+                <a href="img/jpg/051-2.jpg" class="mediabox" alt="Les remèdes à tous les maux" title="Les remèdes à tous les maux">
                 <img src='local/cache-gd2/1b8335403c956de2b97e429a4826fb95.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les remèdes à tous</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/084-2.jpg" class="mediabox" alt="Andromède" title="Andromède">
+                <a href="img/jpg/084-2.jpg" class="mediabox" alt="Andromède" title="Andromède">
                 <img src='local/cache-gd2/3e0ff61e4e8500d93e2e9acd9737e353.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Andromède</span>
                 </div>

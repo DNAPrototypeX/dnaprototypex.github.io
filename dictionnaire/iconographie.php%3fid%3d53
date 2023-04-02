@@ -54,7 +54,7 @@ window.resizeTo(width,height);
 
 <DIV ALIGN=CENTER>
 
-<IMG SRC="../iconographie/images/060.jpg" width="269" height="469" STYLE="border-color: #336600"><BR><BR>
+<img SRC="../iconographie/images/060.jpg" width="269" height="469" STYLE="border-color: #336600"><BR><BR>
 
 <FORM ACTION=""><INPUT TYPE=button VALUE="Fermer cette fen�tre" onClick="javascript:window.close()" CLASS=bouton></FORM>
 

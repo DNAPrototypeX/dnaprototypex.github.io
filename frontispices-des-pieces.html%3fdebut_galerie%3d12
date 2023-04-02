@@ -229,73 +229,73 @@ if (window.jQuery) (jQuery(function(){ if(typeof onAjaxLoad == "function") onAja
             <div class="portfolio">
              
                 <div class="gal">
-                <a href="IMG/jpg/063-3.jpg" class="mediabox" alt="La Comtesse d&#8217;Escarbagnas" title="La Comtesse d&#8217;Escarbagnas">
+                <a href="img/jpg/063-3.jpg" class="mediabox" alt="La Comtesse d&#8217;Escarbagnas" title="La Comtesse d&#8217;Escarbagnas">
                 <img src='local/cache-gd2/9769017e634d028949a36ea0a6286ba7.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">La Comtesse d’Escarba</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/064.jpg" class="mediabox" alt="Les Fâcheux" title="Les Fâcheux">
+                <a href="img/jpg/064.jpg" class="mediabox" alt="Les Fâcheux" title="Les Fâcheux">
                 <img src='local/cache-gd2/88b108d551f06f52b81c5d76bed80b16.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les Fâcheux</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/065.jpg" class="mediabox" alt="Les Femmes savantes" title="Les Femmes savantes">
+                <a href="img/jpg/065.jpg" class="mediabox" alt="Les Femmes savantes" title="Les Femmes savantes">
                 <img src='local/cache-gd2/587714eb0c2933703bef5b9fda46619e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Les Femmes savantes</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/066-3.jpg" class="mediabox" alt="Georges Dandin" title="Georges Dandin">
+                <a href="img/jpg/066-3.jpg" class="mediabox" alt="Georges Dandin" title="Georges Dandin">
                 <img src='local/cache-gd2/4130d340e249eaf7f2ac390b300a64a4.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Georges Dandin</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/068-3.jpg" class="mediabox" alt="Le Sicilien" title="Le Sicilien">
+                <a href="img/jpg/068-3.jpg" class="mediabox" alt="Le Sicilien" title="Le Sicilien">
                 <img src='local/cache-gd2/c4709068771a2d067621e611e1dcf61e.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Sicilien</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/069-3.jpg" class="mediabox" alt="L&#8217;Amour médecin" title="L&#8217;Amour médecin">
+                <a href="img/jpg/069-3.jpg" class="mediabox" alt="L&#8217;Amour médecin" title="L&#8217;Amour médecin">
                 <img src='local/cache-gd2/7a9293183762524c67a01fc3255d0516.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’Amour médecin</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/070-3.jpg" class="mediabox" alt="L&#8217;Etourdi" title="L&#8217;Etourdi">
+                <a href="img/jpg/070-3.jpg" class="mediabox" alt="L&#8217;Etourdi" title="L&#8217;Etourdi">
                 <img src='local/cache-gd2/f653b9f0c5b7c84a1106dd135ddc9c6a.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">L’Etourdi</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/072-3.jpg" class="mediabox" alt="Le Malade imaginaire" title="Le Malade imaginaire">
+                <a href="img/jpg/072-3.jpg" class="mediabox" alt="Le Malade imaginaire" title="Le Malade imaginaire">
                 <img src='local/cache-gd2/0cfd384c9bc91321272548733250ca79.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Malade imaginaire</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/073-3.jpg" class="mediabox" alt="Le Mariage forcé" title="Le Mariage forcé">
+                <a href="img/jpg/073-3.jpg" class="mediabox" alt="Le Mariage forcé" title="Le Mariage forcé">
                 <img src='local/cache-gd2/17679549a1bf4b20071045a0d462cefd.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Mariage forcé</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/074-3.jpg" class="mediabox" alt="Le Médecin malgré lui" title="Le Médecin malgré lui">
+                <a href="img/jpg/074-3.jpg" class="mediabox" alt="Le Médecin malgré lui" title="Le Médecin malgré lui">
                 <img src='local/cache-gd2/6c0d4ebcdbc08fdac46480853064c66b.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Le Médecin malgré</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/075-3.jpg" class="mediabox" alt="Mélicerte" title="Mélicerte">
+                <a href="img/jpg/075-3.jpg" class="mediabox" alt="Mélicerte" title="Mélicerte">
                 <img src='local/cache-gd2/8573d02cde0cb88612d07c323d12b63a.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">Mélicerte</span>
                 </div>
                  
                 <div class="gal">
-                <a href="IMG/jpg/077-3.jpg" class="mediabox" alt="M.&nbsp;de Pourceaugnac" title="M.&nbsp;de Pourceaugnac">
+                <a href="img/jpg/077-3.jpg" class="mediabox" alt="M.&nbsp;de Pourceaugnac" title="M.&nbsp;de Pourceaugnac">
                 <img src='local/cache-gd2/bc394fd905502005e9c0e9c278d9abf4.jpg' width='137' height='88' style='height:88px;width:137px;' /></a>
                 <span class="galtitre">M. de Pourceaugnac</span>
                 </div>
