@@ -4,14 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <TITLE>Molière : Bibliographie La référence sur l'oeuvre de Molière - Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie</TITLE>
 <META NAME="description" lang="fr" CONTENT="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné �  un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs �  Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent �  notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
-<META NAME="keywords" lang="fr" CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, �"uvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
+Ce site, conçu dans un esprit de rigueur scientifique, est destiné �  un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs �  Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent �  notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<META NAME="keywords" lang="fr" CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, �"uvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
 <meta name="abstract" content="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné �  un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs �  Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent �  notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+Ce site, conçu dans un esprit de rigueur scientifique, est destiné �  un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs �  Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent �  notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
 <meta name="reply-to" content="webmaster@toutmoliere.net">
 <meta name="category" content="literature">
 <meta name="revisit-after" content="30 days">
-<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="identifier-url" content="">
 <meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
 <META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
@@ -25,7 +25,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné �  un publi
 <noframes> 
 <BODY>
 <h1>Bibliographie exhaustive</h1>
-<h2>plus de 5000 articles et manuels, recherche par nom d'auteur, titre, ann�e de parution.</h2>
+<h2>plus de 5000 articles et manuels, recherche par nom d'auteur, titre, ann�e de parution.</h2>
 <h2>La bibliographie</h2>
 
 <br />

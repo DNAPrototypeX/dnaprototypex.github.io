@@ -11,7 +11,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un publi
 <meta name="reply-to" content="webmaster@toutmoliere.net">
 <meta name="category" content="literature">
 <meta name="revisit-after" content="30 days">
-<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="identifier-url" content="">
 <meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
 <META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">

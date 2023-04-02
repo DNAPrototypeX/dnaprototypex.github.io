@@ -11,7 +11,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un publi
 <meta name="reply-to" content="webmaster@toutmoliere.net">
 <meta name="category" content="literature">
 <meta name="revisit-after" content="30 days">
-<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="identifier-url" content="">
 <meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
 <META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
@@ -26,7 +26,7 @@ if (top.location.href.indexOf("index") == -1)
 </HEAD>
 <body>
 <div class="filmographie_menu">
-<A HREF="http://www.toutmoliere.net/2008/accueil.html" title="Accueil - ToutMoliere" TARGET="_top">Accueil</A>::<a href="http://www.toutmoliere.net/2008/dictionnaire/index.html" title="Dictionnaire - ToutMoliere" TARGET="_top">Dictionnaire</a>::<a href="http://www.toutmoliere.net/2008/oeuvres/index.html" title="Å’uvre - ToutMoliere" TARGET="_top">&OElig;uvre</a>::<a href="http://www.toutmoliere.net/2008/actualite/index.php" TARGET="_top">Actualités</a>::<a href="http://www.toutmoliere.net/2008/chronologie/index.html"title="Chronologie - ToutMoliere" TARGET="_top">Chronologie</a>::<a href="http://www.toutmoliere.net/2008/iconographie/index.php" title="Iconographie - ToutMoliere" TARGET="_top">Iconographie</a>::<a href="http://www.toutmoliere.net/2008/bibliographie/index.php" title="Bibiliographie - ToutMoliere" TARGET="_top">Bibliographie</a>::<a href="http://www.toutmoliere.net/2008/filmographie/index.php" title="Filmographie - ToutMoliere" TARGET="_top">Filmographie</a>::<a href="http://www.toutmoliere.net/2008/liens/index.html" title="Liens - ToutMoliere" TARGET="_top">Liens</a>
+<A HREF="2008/accueil.html" title="Accueil - ToutMoliere" TARGET="_top">Accueil</A>::<a href="2008/dictionnaire/index.html" title="Dictionnaire - ToutMoliere" TARGET="_top">Dictionnaire</a>::<a href="2008/oeuvres/index.html" title="Å’uvre - ToutMoliere" TARGET="_top">&OElig;uvre</a>::<a href="2008/actualite/index.php" TARGET="_top">Actualités</a>::<a href="2008/chronologie/index.html"title="Chronologie - ToutMoliere" TARGET="_top">Chronologie</a>::<a href="2008/iconographie/index.php" title="Iconographie - ToutMoliere" TARGET="_top">Iconographie</a>::<a href="2008/bibliographie/index.php" title="Bibiliographie - ToutMoliere" TARGET="_top">Bibliographie</a>::<a href="2008/filmographie/index.php" title="Filmographie - ToutMoliere" TARGET="_top">Filmographie</a>::<a href="2008/liens/index.html" title="Liens - ToutMoliere" TARGET="_top">Liens</a>
 </div>
 <div class="header">
     <div class="img2"></div>
