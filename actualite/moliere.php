@@ -3,18 +3,18 @@
 <HEAD>
 <META http-equiv="Content-Type"content="text/html; charset=iso-8859-1">
 <TITLE>Moliere</TITLE>
-<META NAME="description"lang="fr"CONTENT="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
-<META NAME="keywords"lang="fr"CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, œuvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
-<meta name="abstract"content="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<META NAME="description"lang="fr"CONTENT="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<META NAME="keywords"lang="fr"CONTENT="Moliï¿½re, Moliere, Jean-Baptiste Poquelin, thï¿½ï¿½tre, XVIIï¿½ siï¿½cle, Louis XIV, illustre thï¿½atre, comï¿½diens, oeuvres, ï¿½uvres, textes, piï¿½ces, comï¿½die, tragï¿½die, oeuvres de Moliere, dramaturgie, thï¿½ï¿½tre franï¿½ais, littï¿½rature classique, livre, reprï¿½sentation, comï¿½die franï¿½aise, vie de Moliï¿½re, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scï¿½ne, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, thï¿½ï¿½tre moliï¿½re, scapin, Moliï¿½re Biographie, comï¿½die franï¿½aise, Dom Juan, actualite thï¿½ï¿½tre, comedia del arte, commedia dell'arte, spectacle,bac franï¿½ais, theatre, theatre prose, lettres, preparation bac franï¿½ais">
+<meta name="abstract"content="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
 <meta name="reply-to"content="webmaster@toutmoliere.net">
 <meta name="category"content="literature">
 <meta name="revisit-after"content="30 days">
 <meta name="identifier-url"content="http: //www.toutmoliere.net/">
 <meta name="robots"content="index, follow">
 <meta name="distribution"content="global">
-<META NAME="Author"CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
+<META NAME="Author"CONTENT="PHENIX Ingï¿½nierie Informatique - PEZENAS">
 <link href="../styles/actualites.css"rel="StyleSheet"type="text/css">
 <SCRIPT LANGUAGE="JavaScript">
 <!--
@@ -25,10 +25,10 @@ if (top.location.href.indexOf("index") == -1)
 </HEAD>
 <BODY CLASS=Corps MARGINHEIGHT=20 MARGINWIDTH=20>
 <A NAME=top></A>
-<DIV CLASS=intro>ACTUALITÉS THÉATRALES<BR> ET LITTÉRAIRES</DIV>
+<DIV CLASS=intro>ACTUALITï¿½S THï¿½ATRALES<BR> ET LITTï¿½RAIRES</DIV>
 <HR WIDTH="80%"ALIGN=center>
 <BR>
-<div align="center"><INPUT TYPE="button" VALUE="Voir le reste des actualités" onClick="document.location='actualites.php'"></div>
+<div align="center"><INPUT TYPE="button" VALUE="Voir le reste des actualitï¿½s" onClick="document.location='actualites.php'"></div>
 <SCRIPT language="Javascript" type="text/javascript">
 function ouvrir(l,h,url) 
 {
@@ -54,7 +54,7 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
 </style>
 <table width="800" border="0" align="center">
   <tr>
-    <td height="113" colspan="3"><div align="center"><p class="intro">Initiation au théâtre baroque</p></div>
+    <td height="113" colspan="3"><div align="center"><p class="intro">Initiation au thï¿½ï¿½tre baroque</p></div>
       <p class="message2">Du 22 au 31 mai 2009 &agrave; Saint F&eacute;lix de Palli&egrave;res (C&eacute;vennes) propos&eacute; par La Fabrique &agrave; th&eacute;&acirc;tre</p>
       <br />
       <p class="coltitre">Direction de stage Jean-Denis Monory</p>
@@ -164,7 +164,7 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
       <p class="Style2">La com&eacute;die de Moli&egrave;re&nbsp;: 
     les nuances d&rsquo;un mod&egrave;le</p></td>
     <td width="300"><a name="nouveau_molieriste" id="nouveau_molieriste"></a>
-    <div align="right"><a href="#nouveau_molieriste" onclick="ouvrir(500,710,'http://www.toutmoliere.net/actualite/images/nouveau_molieriste_z.jpg')"><img src="http://www.toutmoliere.net/actualite/images/nouveau_molieriste_m.jpg" alt="" width="204" height="295" border="0" /></a></div></td>
+    <div align="right"><a href="#nouveau_molieriste" onclick="ouvrir(500,710,'actualite/images/nouveau_molieriste_z.jpg')"><img src="actualite/images/nouveau_molieriste_m.jpg" alt="" width="204" height="295" border="0" /></a></div></td>
   </tr>  
 </table>
 <table width="800" border="0" align="center">
@@ -173,7 +173,7 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
   </tr>
   <tr>
     <td width="300"><p align="left" class="Style1">No&euml;l  Peacock</p>    </td>
-    <td width="450"><div align="left">La comédie de Molière : les nuances d’un modèle</div></td>    
+    <td width="450"><div align="left">La comï¿½die de Moliï¿½re : les nuances dï¿½un modï¿½le</div></td>    
     <td width="50"><div align="right">1</div></td>
   </tr>    <tr>
     <td width="300"><p align="left" class="Style1">Patrick  Dandrey</p>    </td>
@@ -210,6 +210,6 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
     <td colspan="3"><p align="left" class="Style1">&nbsp;</p></td>
   </tr>  
 </table>
-<div align="center"><INPUT TYPE="button" VALUE="Voir le reste des actualités" onClick="document.location='actualites.php'"></div>
-<script type="text/javascript" src="http://www.toutmoliere.net/stats/php-stats.js.php"></script><noscript><img src="http://www.toutmoliere.net/stats/php-stats.php" border="0" alt=""></noscript></body>
+<div align="center"><INPUT TYPE="button" VALUE="Voir le reste des actualitï¿½s" onClick="document.location='actualites.php'"></div>
+<script type="text/javascript" src="stats/php-stats.js.php"></script><noscript><img src="stats/php-stats.php" border="0" alt=""></noscript></body>
 </HTML>
