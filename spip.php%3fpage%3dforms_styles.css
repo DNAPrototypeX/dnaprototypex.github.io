@@ -298,10 +298,10 @@ div.liste { clear:both;width:auto; }
 	margin:0px;
 	height:34px;
 }
-.donnees th.neutre {padding-left: 0px;background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/header.png") repeat-x left bottom;	}
-.donnees th.header {padding-left: 15px;background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/header-bg.png") no-repeat left bottom;	}
-.donnees th.headerSortUp {padding-left: 15px;background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/header-asc.png") no-repeat left bottom;	}
-.donnees th.headerSortDown {padding-left: 15px;background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/header-desc.png") no-repeat left bottom;}
+.donnees th.neutre {padding-left: 0px;background: url("plugins/auto/forms_et_tables_2_0/img_pack/header.png") repeat-x left bottom;	}
+.donnees th.header {padding-left: 15px;background: url("plugins/auto/forms_et_tables_2_0/img_pack/header-bg.png") no-repeat left bottom;	}
+.donnees th.headerSortUp {padding-left: 15px;background: url("plugins/auto/forms_et_tables_2_0/img_pack/header-asc.png") no-repeat left bottom;	}
+.donnees th.headerSortDown {padding-left: 15px;background: url("plugins/auto/forms_et_tables_2_0/img_pack/header-desc.png") no-repeat left bottom;}
 
 .donnees td .numerique {width:100%; text-align:right;display:block;}
 #sorting div {
@@ -333,7 +333,7 @@ div.liste { clear:both;width:auto; }
 	width: 20px;
 	height: 16px;
 	text-align: center;
-	background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/filter.gif") no-repeat center left; 
+	background: url("plugins/auto/forms_et_tables_2_0/filter.gif") no-repeat center left; 
 	float: right;
 	cursor: pointer;
 }
@@ -383,7 +383,7 @@ a.date-picker {
 	float: left;
 	overflow: hidden;
 	cursor: pointer;
-	background: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/select_day_26.gif") no-repeat; 
+	background: url("plugins/auto/forms_et_tables_2_0/img_pack/select_day_26.gif") no-repeat; 
 }
 a.date-picker span {
 	margin: 0 0 0 -2000px;
@@ -506,7 +506,7 @@ Author : Cody Lindley
 /* ---------->>> jtip <<<---------------------------------------------------------------*/
 
 #JT_arrow_left{
-	background-image: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/arrow_left.gif");
+	background-image: url("plugins/auto/forms_et_tables_2_0/img_pack/arrow_left.gif");
 	background-repeat: no-repeat;
 	background-position: left top;
 	position: absolute;
@@ -518,7 +518,7 @@ Author : Cody Lindley
 }
 
 #JT_arrow_right{
-	background-image: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/arrow_right.gif");
+	background-image: url("plugins/auto/forms_et_tables_2_0/img_pack/arrow_right.gif");
 	background-repeat: no-repeat;
 	background-position: left top;
 	position: absolute;
@@ -541,7 +541,7 @@ Author : Cody Lindley
 }
 
 .JT_loader{
-	background-image: url("http://www.toutmoliere.net/plugins/auto/forms_et_tables_2_0/img_pack/loader.gif");
+	background-image: url("plugins/auto/forms_et_tables_2_0/img_pack/loader.gif");
 	background-repeat: no-repeat;
 	background-position: center center;
 	width:100%;

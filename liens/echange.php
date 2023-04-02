@@ -6,17 +6,17 @@
 
 <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<TITLE>Molière : Liens - La référence sur l'oeuvre de Molière - Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</TITLE>
+<TITLE>Moliï¿½re : Liens - La rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re - Actualitï¿½s, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</TITLE>
 
-<META NAME="description" lang="fr" CONTENT="Le site de référence sur l'oeuvre de Molière
+<META NAME="description" lang="fr" CONTENT="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
 
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
 
-<META NAME="keywords" lang="fr" CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, œuvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
+<META NAME="keywords" lang="fr" CONTENT="Moliï¿½re, Moliere, Jean-Baptiste Poquelin, thï¿½ï¿½tre, XVIIï¿½ siï¿½cle, Louis XIV, illustre thï¿½atre, comï¿½diens, oeuvres, ï¿½uvres, textes, piï¿½ces, comï¿½die, tragï¿½die, oeuvres de Moliere, dramaturgie, thï¿½ï¿½tre franï¿½ais, littï¿½rature classique, livre, reprï¿½sentation, comï¿½die franï¿½aise, vie de Moliï¿½re, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scï¿½ne, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, thï¿½ï¿½tre moliï¿½re, scapin, Moliï¿½re Biographie, comï¿½die franï¿½aise, Dom Juan, actualite thï¿½ï¿½tre, comedia del arte, commedia dell'arte, spectacle,bac franï¿½ais, theatre, theatre prose, lettres, preparation bac franï¿½ais">
 
-<meta name="abstract" content="Le site de référence sur l'oeuvre de Molière
+<meta name="abstract" content="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
 
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
 
 <meta name="reply-to" content="webmaster@toutmoliere.net">
 
@@ -24,13 +24,13 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public l
 
 <meta name="revisit-after" content="30 days">
 
-<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="identifier-url" content="">
 
 <meta name="robots" content="index, follow">
 
 <meta name="distribution" content="global">
 
-<META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
+<META NAME="Author" CONTENT="PHENIX Ingï¿½nierie Informatique - PEZENAS">
 
 <link href="../styles/styles.css" rel="StyleSheet" type="text/css">
 
@@ -41,7 +41,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public l
 
 <BODY CLASS=Corps>
 
-<P CLASS=message2>Vous souhaitez proposer un site en rapport avec Molière, le théatre ou la littérature du XVII° siècle,...<BR><BR>Remplissez le formulaire ci-dessous</P>
+<P CLASS=message2>Vous souhaitez proposer un site en rapport avec Moliï¿½re, le thï¿½atre ou la littï¿½rature du XVIIï¿½ siï¿½cle,...<BR><BR>Remplissez le formulaire ci-dessous</P>
 
 <FORM ACTION=soumission.php>
 
@@ -59,7 +59,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public l
 
 	<TR HEIGHT=30>
 
-		<TD CLASS=coltitre>Prénom :</TD>
+		<TD CLASS=coltitre>Prï¿½nom :</TD>
 
 		<TD><INPUT TYPE=text NAME=prenom SIZE=20 MAXLENGTH=40 CLASS=zoneinfo></TD>
 
@@ -117,7 +117,7 @@ Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public l
 
 </FORM>
 
-<script type="text/javascript" src="http://www.toutmoliere.net/stats/php-stats.js.php"></script><noscript><img src="http://www.toutmoliere.net/stats/php-stats.php" border="0" alt=""></noscript></body>
+<script type="text/javascript" src="stats/php-stats.js.php"></script><noscript><img src="stats/php-stats.php" border="0" alt=""></noscript></body>
 
 </HTML>
 

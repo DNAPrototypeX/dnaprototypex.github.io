@@ -14,4 +14,4 @@ Disallow: /squelettes-dist/
 Disallow: /squelettes/
 
 
-Sitemap: http://www.toutmoliere.net/sitemap.xml
+Sitemap: sitemap.xml

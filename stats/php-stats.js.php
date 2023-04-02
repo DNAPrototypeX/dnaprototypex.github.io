@@ -17,5 +17,5 @@ if(browser!="Netscape") c=screen.colorDepth; else c=screen.pixelDepth;
 NS_url=document.URL;
 NS_url=escape(NS_url);
 NS_url=NS_url.replace(/&/g,'%A7%A7');
-var sc1="<img src='http://www.toutmoliere.net/stats/php-stats.php?w="+w+"&amp;h="+h +"&amp;c="+c+"&amp;f="+f+"&amp;NS_url="+NS_url+"&amp;t="+t+"' border='0' alt='' width='1' height='1'>";
+var sc1="<img src='stats/php-stats.php?w="+w+"&amp;h="+h +"&amp;c="+c+"&amp;f="+f+"&amp;NS_url="+NS_url+"&amp;t="+t+"' border='0' alt='' width='1' height='1'>";
 document.write(sc1);

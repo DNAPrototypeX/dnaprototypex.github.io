@@ -7,7 +7,7 @@ version="1.0" encoding="utf-8"?>
 
 <channel xml:lang="fr">
 	<title>Tout Moli&#232;re</title>
-	<link>http://www.toutmoliere.net/</link>
+	<link></link>
 	
 	<language>fr</language>
 	<generator>SPIP - www.spip.net</generator>
@@ -17,8 +17,8 @@ version="1.0" encoding="utf-8"?>
 
 <item xml:lang="fr">
 		<title>Mentions l&#233;gales</title>
-		<link>http://www.toutmoliere.net/mentions-legales.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/mentions-legales.html</guid>
+		<link>mentions-legales.html</link>
+		<guid isPermaLink="true">mentions-legales.html</guid>
 		<dc:date>2011-02-07T14:15:24Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -29,7 +29,7 @@ version="1.0" encoding="utf-8"?>
 		<description>Publication Le site toutmoliere.net est &#233;dit&#233; par l'Office de Tourisme de P&#233;zenas Val d'H&#233;rault. Directeur de la publication : Christine Personnaz H&#233;bergement Le site toutmoliere.net est h&#233;berg&#233; par la soci&#233;t&#233; OVH, 140 Quai du Sartel - 59100 Roubaix - France (www.ovh.com). Propri&#233;t&#233; intellectuelle L'ensemble des contenus du site toutmoliere.net (images, textes, vid&#233;os&#8230;) est soumis &#224; la l&#233;gislation fran&#231;aise et internationale en vigueur en mati&#232;re de propri&#233;t&#233; intellectuelle (droit d'auteur, droit des (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/contact.html" rel="directory"&gt;5. Contact&lt;/a&gt;
+&lt;a href="contact.html" rel="directory"&gt;5. Contact&lt;/a&gt;
 
 
 		</description>
@@ -41,8 +41,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Moli&#232;re, &#338;uvres compl&#232;tes : Nouvelle &#233;dition</title>
-		<link>http://www.toutmoliere.net/moliere-oeuvres-completes-nouvelle-edition.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/moliere-oeuvres-completes-nouvelle-edition.html</guid>
+		<link>moliere-oeuvres-completes-nouvelle-edition.html</link>
+		<guid isPermaLink="true">moliere-oeuvres-completes-nouvelle-edition.html</guid>
 		<dc:date>2011-02-07T10:32:14Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -53,7 +53,7 @@ version="1.0" encoding="utf-8"?>
 		<description>&#201;dition publi&#233;e sous la direction de Georges Forestier avec Claude Bourqui.
 
 -
-&lt;a href="http://www.toutmoliere.net/actualites.html" rel="directory"&gt;3. Actualit&#233;s&lt;/a&gt;
+&lt;a href="actualites.html" rel="directory"&gt;3. Actualit&#233;s&lt;/a&gt;
 
 
 		</description>
@@ -65,8 +65,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Acte 1</title>
-		<link>http://www.toutmoliere.net/acte-1,405502.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/acte-1,405502.html</guid>
+		<link>acte-1,405502.html</link>
+		<guid isPermaLink="true">acte-1,405502.html</guid>
 		<dc:date>2011-01-10T16:39:02Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -77,7 +77,7 @@ version="1.0" encoding="utf-8"?>
 		<description>Digne fruit de vingt ans de travaux somptueux , Auguste b&#226;timent, temple majestueux, Dont le d&#244;me superbe, &#233;lev&#233; dans la nue, Pare du grand Paris la magnifique vue, 5 Et parmi tant d'objets sem&#233;s de toutes parts , Du voyageur surpris prend les premiers regards. Fais briller &#224; jamais, dans ta noble richesse, La splendeur du saint v&#339;u d'une grande Princesse ; Et porte un t&#233;moignage &#224; la post&#233;rit&#233; 10 De sa magnificence et de sa pi&#233;t&#233;. Conserve &#224; nos neveux une montre fid&#232;le (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
+&lt;a href="la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
 
 
 		</description>
@@ -89,8 +89,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Notice</title>
-		<link>http://www.toutmoliere.net/notice,405501.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/notice,405501.html</guid>
+		<link>notice,405501.html</link>
+		<guid isPermaLink="true">notice,405501.html</guid>
 		<dc:date>2011-01-10T16:38:59Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -101,7 +101,7 @@ version="1.0" encoding="utf-8"?>
 		<description>LA GLOIRE DU D&#212;ME DU VAL-DE-GR&#194;CE PO&#202;ME SUR LA PEINTURE DE M. MIGNARD PAR M. MOLI&#200;RE EN L'ANN&#201;E 1669. En d&#233;cembre 1657 en Avignon, Moli&#232;re et Madeleine B&#233;jart se lient avec le peintre Pierre Mignard, de retour d'Italie. Une profonde sympathie na&#238;t entre eux et, devenu un ami proche du po&#232;te, Mignard en fera plusieurs portraits, veillera &#224; l'ex&#233;cution des derni&#232;res volont&#233;s de Madeleine B&#233;jart, et prendra soin, &#224; la mort du po&#232;te, de sa fille Madeleine-Esprit. Moli&#232;re lui d&#233;die, pour sa part, un long po&#232;me (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
+&lt;a href="la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
 
 
 		</description>
@@ -113,8 +113,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Note</title>
-		<link>http://www.toutmoliere.net/note,405500.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/note,405500.html</guid>
+		<link>note,405500.html</link>
+		<guid isPermaLink="true">note,405500.html</guid>
 		<dc:date>2011-01-10T16:38:57Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -125,7 +125,7 @@ version="1.0" encoding="utf-8"?>
 		<description>Nous avons &#233;tabli ce texte d'apr&#232;s celui de sa premi&#232;re &#233;dition, parue du vivant de Moli&#232;re, et conserv&#233;e &#224; la Biblioth&#232;que Nationale de France. Notre r&#232;gle d'or a &#233;t&#233; la fid&#233;lit&#233; rigoureuse au texte original ; nous n'avons corrig&#233; des fautes &#233;videntes que dans quelques cas extr&#234;mement rares, et que nous mentionnons en note. Nous avons scrupuleusement conserv&#233; la ponctuation originale, m&#234;me lorsque l'usage ancien peut surprendre le lecteur moderne ; d'une part, parce qu'elle est porteuse d'effets de th&#233;&#226;tre (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
+&lt;a href="la-gloire-du-val-de-grace.html" rel="directory"&gt;La Gloire du Val-de-Gr&#226;ce&lt;/a&gt;
 
 
 		</description>
@@ -137,8 +137,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Acte 1</title>
-		<link>http://www.toutmoliere.net/acte-1,405499.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/acte-1,405499.html</guid>
+		<link>acte-1,405499.html</link>
+		<guid isPermaLink="true">acte-1,405499.html</guid>
 		<dc:date>2011-01-10T16:35:30Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -149,7 +149,7 @@ version="1.0" encoding="utf-8"?>
 		<description>Com&#233;die ACTEURS ADRASTE, gentilhomme fran&#231;ais, amant d'Isidore. DOM P&#200;DRE, Sicilien, amant d'Isidore. ISIDORE, Grecque, esclave de Dom P&#232;dre. CLIM&#200;NE, s&#339;ur d'Adraste. HALI, valet d'Adraste. LE S&#201;NATEUR. LES MUSICIENS. TROUPE D'ESCLAVES. TROUPE DE MAURES. DEUX LAQUAIS. SC&#200;NE PREMI&#200;RE HALI, MUSICIENS. HALI, aux musiciens.- Chut... N'avancez pas davantage, et demeurez dans cet endroit, jusqu'&#224; ce que je vous appelle. Il fait noir comme dans un four ; le ciel s'est habill&#233;, ce soir, en (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
+&lt;a href="le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
 
 
 		</description>
@@ -161,8 +161,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Notice</title>
-		<link>http://www.toutmoliere.net/notice,405498.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/notice,405498.html</guid>
+		<link>notice,405498.html</link>
+		<guid isPermaLink="true">notice,405498.html</guid>
 		<dc:date>2011-01-10T16:35:28Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -173,7 +173,7 @@ version="1.0" encoding="utf-8"?>
 		<description>LE SICILIEN OU L'AMOUR PEINTRE COM&#201;DIEPar I.-B. P. de MOLI&#200;RE Repr&#233;sent&#233;e pour la premi&#232;re fois &#224; Saint-Germain-en-Laye, par Ordre de Sa Majest&#233;, au mois de f&#233;vrier 1667, et donn&#233;e depuis au public sur le Th&#233;&#226;tre du Palais-Royal, le 10e du mois de juin de la m&#234;me ann&#233;e 1667 par la Troupe du Roi. Le Sicilien ou l'Amour peintre est jou&#233; &#224; Saint-Germain le 14 f&#233;vrier 1667, dans le Ballet des Muses, dont il constitue la 14e et derni&#232;re entr&#233;e, puis deux ou trois fois, les jours suivants, jusqu'au 20 (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
+&lt;a href="le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
 
 
 		</description>
@@ -185,8 +185,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Note</title>
-		<link>http://www.toutmoliere.net/note,405497.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/note,405497.html</guid>
+		<link>note,405497.html</link>
+		<guid isPermaLink="true">note,405497.html</guid>
 		<dc:date>2011-01-10T16:35:26Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -197,7 +197,7 @@ version="1.0" encoding="utf-8"?>
 		<description>Nous avons &#233;tabli ce texte d'apr&#232;s celui de sa premi&#232;re &#233;dition, parue du vivant de Moli&#232;re, et conserv&#233;e &#224; la Biblioth&#232;que Nationale de France. Pour le texte m&#234;me, dans les cas de faute manifeste, nous nous sommes r&#233;f&#233;r&#233; &#224; l'&#233;dition de 1682, dont nous donnons toutes les variantes. Nous ne nous sommes r&#233;f&#233;r&#233; que de mani&#232;re exceptionnelle &#224; l'&#233;dition de 1734, dans les cas o&#249; ses didascalies pouvaient &#233;clairer un jeu de sc&#232;ne particulier. Notre r&#232;gle d'or a &#233;t&#233; la fid&#233;lit&#233; rigoureuse au texte original ; nous (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
+&lt;a href="le-sicilien-ou-l-amour-peintre.html" rel="directory"&gt;22. Le Sicilien ou l'Amour peintre&lt;/a&gt;
 
 
 		</description>
@@ -209,8 +209,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Acte 1</title>
-		<link>http://www.toutmoliere.net/acte-1,405496.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/acte-1,405496.html</guid>
+		<link>acte-1,405496.html</link>
+		<guid isPermaLink="true">acte-1,405496.html</guid>
 		<dc:date>2011-01-10T16:33:58Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -221,7 +221,7 @@ version="1.0" encoding="utf-8"?>
 		<description>SGANARELLE OU LE COCU IMAGINAIRE Com&#233;die ACTEURS GORGIBUS, bourgeois de Paris. C&#201;LIE, sa fille. L&#201;LIE, amant de C&#233;lie. GROS-REN&#201;, valet de L&#233;lie. SGANARELLE, bourgeois de Paris, et cocu imaginaire. SA FEMME. VILLEBREQUIN, p&#232;re de Val&#232;re. LA SUIVANTE de C&#233;lie. UN PARENT de Sganarelle. La sc&#232;ne est &#224; Paris. SC&#200;NE PREMI&#200;RE GORGIBUS, C&#201;LIE, SA SUIVANTE. C&#201;LIE, sortant toute &#233;plor&#233;e et son p&#232;re la suivant. Ah ! n'esp&#233;rez jamais que mon c&#339;ur y consente. GORGIBUS Que marmottez-vous l&#224; (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/sganarelle-ou-le-cocu-imaginaire,24.html" rel="directory"&gt;6. Sganarelle ou le Cocu imaginaire&lt;/a&gt;
+&lt;a href="sganarelle-ou-le-cocu-imaginaire,24.html" rel="directory"&gt;6. Sganarelle ou le Cocu imaginaire&lt;/a&gt;
 
 
 		</description>
@@ -233,8 +233,8 @@ version="1.0" encoding="utf-8"?>
 	</item>
 <item xml:lang="fr">
 		<title>Notice</title>
-		<link>http://www.toutmoliere.net/notice,405495.html</link>
-		<guid isPermaLink="true">http://www.toutmoliere.net/notice,405495.html</guid>
+		<link>notice,405495.html</link>
+		<guid isPermaLink="true">notice,405495.html</guid>
 		<dc:date>2011-01-10T16:33:55Z</dc:date>
 		<dc:format>text/html</dc:format>
 		<dc:language>fr</dc:language>
@@ -245,7 +245,7 @@ version="1.0" encoding="utf-8"?>
 		<description>COM&#201;DIE repr&#233;sent&#233;e pour la premi&#232;re fois sur le Th&#233;&#226;tre du Petit-Bourbon, le 28e jour de mai 1660, par la Troupe de Monsieur, Fr&#232;re Unique du Roi. Le 28 mai 1660, Moli&#232;re repr&#233;sente, apr&#232;s le Venceslas de Rotrou, une com&#233;die en un acte et en vers, Sganarelle ou le Cocu imaginaire, qui obtient un grand succ&#232;s. Cette petite pi&#232;ce sera donn&#233;e trente fois avant la fin de l'ann&#233;e, et sera l'&#339;uvre la plus repr&#233;sent&#233;e du vivant de son auteur . Une miniature tomb&#233;e des mains d'une malheureuse &#233;plor&#233;e va (...)
 
 -
-&lt;a href="http://www.toutmoliere.net/sganarelle-ou-le-cocu-imaginaire,24.html" rel="directory"&gt;6. Sganarelle ou le Cocu imaginaire&lt;/a&gt;
+&lt;a href="sganarelle-ou-le-cocu-imaginaire,24.html" rel="directory"&gt;6. Sganarelle ou le Cocu imaginaire&lt;/a&gt;
 
 
 		</description>

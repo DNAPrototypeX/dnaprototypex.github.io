@@ -2,19 +2,19 @@
 <HTML>
 <HEAD>
 <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<TITLE>Molière : Iconographie - La référence sur l'oeuvre de Molière - Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</TITLE>
-<META NAME="description" lang="fr" CONTENT="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
-<META NAME="keywords" lang="fr" CONTENT="Molière, Moliere, Jean-Baptiste Poquelin, théâtre, XVII° siècle, Louis XIV, illustre théatre, comédiens, oeuvres, œuvres, textes, pièces, comédie, tragédie, oeuvres de Moliere, dramaturgie, théâtre français, littérature classique, livre, représentation, comédie française, vie de Molière, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scène, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, théâtre molière, scapin, Molière Biographie, comédie française, Dom Juan, actualite théâtre, comedia del arte, commedia dell'arte, spectacle,bac français, theatre, theatre prose, lettres, preparation bac français">
-<meta name="abstract" content="Le site de référence sur l'oeuvre de Molière
-Ce site, conçu dans un esprit de rigueur scientifique, est destiné à un public large. Aux étudiants ou lycéens qui recherchent des éléments d'information relatifs à Molière ; aux curieux et aux amateurs de théâtre qui s'intéressent à notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<TITLE>Moliï¿½re : Iconographie - La rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re - Actualitï¿½s, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</TITLE>
+<META NAME="description" lang="fr" CONTENT="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
+<META NAME="keywords" lang="fr" CONTENT="Moliï¿½re, Moliere, Jean-Baptiste Poquelin, thï¿½ï¿½tre, XVIIï¿½ siï¿½cle, Louis XIV, illustre thï¿½atre, comï¿½diens, oeuvres, ï¿½uvres, textes, piï¿½ces, comï¿½die, tragï¿½die, oeuvres de Moliere, dramaturgie, thï¿½ï¿½tre franï¿½ais, littï¿½rature classique, livre, reprï¿½sentation, comï¿½die franï¿½aise, vie de Moliï¿½re, chronologie, biographie, auteur, acteur, troupe, compagnie, mise en scï¿½ne, portrait, bibliogaphie, filmographie, dictionnaire, avare, theatre, tartuffe, fourberies de scapin, ecrivain, poesie, bourgeois gentilhomme, thï¿½ï¿½tre moliï¿½re, scapin, Moliï¿½re Biographie, comï¿½die franï¿½aise, Dom Juan, actualite thï¿½ï¿½tre, comedia del arte, commedia dell'arte, spectacle,bac franï¿½ais, theatre, theatre prose, lettres, preparation bac franï¿½ais">
+<meta name="abstract" content="Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re
+Ce site, conï¿½u dans un esprit de rigueur scientifique, est destinï¿½ ï¿½ un public large. Aux ï¿½tudiants ou lycï¿½ens qui recherchent des ï¿½lï¿½ments d'information relatifs ï¿½ Moliï¿½re ; aux curieux et aux amateurs de thï¿½ï¿½tre qui s'intï¿½ressent ï¿½ notre dramaturge, et aux chercheurs qui y trouveront un certain nombre d'outils de travail commodes.">
 <meta name="reply-to" content="webmaster@toutmoliere.net">
 <meta name="category" content="literature">
 <meta name="revisit-after" content="30 days">
-<meta name="identifier-url" content="http://www.toutmoliere.net/">
+<meta name="identifier-url" content="">
 <meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
-<META NAME="Author" CONTENT="PHENIX Ingénierie Informatique - PEZENAS">
+<META NAME="Author" CONTENT="PHENIX Ingï¿½nierie Informatique - PEZENAS">
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
 <link  href="../styles/styles.css" rel="StyleSheet" type="text/css">
 <link  href="../styles/iconographie.css" rel="StyleSheet" type="text/css">
@@ -31,13 +31,13 @@ window.resizeTo(50+decale,160);
 <BODY MARGINWIDTH=0 MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0>
 <SCRIPT>
 if (fromsite==-1)
-document.write ("<TABLE CELLPADDING=5><TR><TD BGCOLOR='#000000' VALIGN=top ALIGN=center><IMG SRC='../images/moliere.jpg' BORDER=0 WIDTH=90 HEIGHT=109 ALT='Molière en tragédien' VSPACE=10><BR><SPAN CLASS=site>www.toutmoliere.net</SPAN><BR><SPAN CLASS=externe>ICONOGRAPHIE</SPAN><BR><HR WIDTH=80%><BR><BR><BR><DIV CLASS=jump>Cette page est tirée du site <A HREF='http://www.toutmoliere.net' TARGET=_blank CLASS=jump>www.toutmoliere.net</A><BR><BR>Le site de référence sur l'oeuvre de Molière<BR><BR>Actualités, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</DIV></TD><TD>");
+document.write ("<TABLE CELLPADDING=5><TR><TD BGCOLOR='#000000' VALIGN=top ALIGN=center><IMG SRC='../images/moliere.jpg' BORDER=0 WIDTH=90 HEIGHT=109 ALT='Moliï¿½re en tragï¿½dien' VSPACE=10><BR><SPAN CLASS=site>www.toutmoliere.net</SPAN><BR><SPAN CLASS=externe>ICONOGRAPHIE</SPAN><BR><HR WIDTH=80%><BR><BR><BR><DIV CLASS=jump>Cette page est tirï¿½e du site <A HREF='http://www.toutmoliere.net' TARGET=_blank CLASS=jump>www.toutmoliere.net</A><BR><BR>Le site de rï¿½fï¿½rence sur l'oeuvre de Moliï¿½re<BR><BR>Actualitï¿½s, Chronologie, Dictionnaire, Oeuvres, Bibliographie, Filmographie</DIV></TD><TD>");
 else document.write ("<BR>");
 </SCRIPT>
 <DIV ALIGN=CENTER>
 <SPAN CLASS=legende></SPAN><BR><BR>
 <IMG SRC="images/"  BORDER=1><BR><BR>
-<FORM><INPUT TYPE=button VALUE="Fermer cette fenêtre" onClick="javascript:window.close()" CLASS=bouton></FORM>
+<FORM><INPUT TYPE=button VALUE="Fermer cette fenï¿½tre" onClick="javascript:window.close()" CLASS=bouton></FORM>
 </DIV>
 <SCRIPT>
 if (fromsite==-1)

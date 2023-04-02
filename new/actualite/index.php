@@ -13,57 +13,57 @@ if (top.location.href.indexOf("index") == -1)
 </head>
 <table width="996" border="0" cellpadding="0" cellspacing="0" align="center" cols="14">
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_01.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_02.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_03.gif" width="49" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_04.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_05.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_06.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_07.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_08.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_09.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_10.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_11.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_12.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_13.gif" width="63" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_14.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_01.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_02.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_03.gif" width="49" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_04.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_05.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_06.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_07.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_08.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_09.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_10.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_11.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_12.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_13.gif" width="63" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_14.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_15.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_16.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_17.gif" width="49" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_18.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_19.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_20.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_21.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_22.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_23.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_24.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_25.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_26.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_27.gif" width="63" height="53" /></td>
-    <td><img src="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_28.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_15.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_16.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_17.gif" width="49" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_18.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_19.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_20.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_21.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_22.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_23.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_24.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_25.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_26.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_27.gif" width="63" height="53" /></td>
+    <td><img src="new/images/maquette_tout_moliere_t2_28.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_29.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_30.gif" width="34" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_31.gif" width="49" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_32.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_33.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_34.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_35.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_36.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_37.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_38.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_39.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_40.gif" width="83" height="20" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_41.gif" width="63" height="20" /></td>
-    <td><img src="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_42.gif" width="21" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_29.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_30.gif" width="34" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_31.gif" width="49" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_32.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_33.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_34.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_35.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_36.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_37.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_38.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_39.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_40.gif" width="83" height="20" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_41.gif" width="63" height="20" /></td>
+    <td><img src="new/images/maquette_tout_moliere_t2_42.gif" width="21" height="20" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_43.gif" width="83" height="33" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_44.gif" width="34" height="33" /></td>
-    <td colspan="11" rowspan="11" background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_45.gif" width="842" height="562"><div id="content">
+    <td background="new/images/maquette_tout_moliere_t2_43.gif" width="83" height="33" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_44.gif" width="34" height="33" /></td>
+    <td colspan="11" rowspan="11" background="new/images/maquette_tout_moliere_t2_45.gif" width="842" height="562"><div id="content">
       <A NAME=top></A>
 <DIV CLASS=intro>ACTUALITÉS THÉATRALES<BR> ET LITTÉRAIRES</DIV>
 <HR WIDTH="80%"ALIGN=center>
@@ -185,7 +185,7 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
       <p class="Style2">La com&eacute;die de Moli&egrave;re&nbsp;: 
     les nuances d&rsquo;un mod&egrave;le</p></td>
     <td width="300"><a name="nouveau_molieriste" id="nouveau_molieriste"></a>
-    <div align="right"><a href="#nouveau_molieriste" onclick="ouvrir(500,710,'http://www.toutmoliere.net/actualite/images/nouveau_molieriste_z.jpg')"><img src="http://www.toutmoliere.net/actualite/images/nouveau_molieriste_m.jpg" alt="" width="204" height="295" border="0" /></a></div></td>
+    <div align="right"><a href="#nouveau_molieriste" onclick="ouvrir(500,710,'actualite/images/nouveau_molieriste_z.jpg')"><img src="actualite/images/nouveau_molieriste_m.jpg" alt="" width="204" height="295" border="0" /></a></div></td>
   </tr>  
 </table>
 <table width="800" border="0" align="center">
@@ -194,7 +194,7 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
   </tr>
   <tr>
     <td width="300"><p align="left" class="Style1">No&euml;l  Peacock</p>    </td>
-    <td width="450"><div align="left">La com�die de Moli�re : les nuances d�un mod�le</div></td>    
+    <td width="450"><div align="left">La com�die de Moli�re : les nuances d�un mod�le</div></td>    
     <td width="50"><div align="right">1</div></td>
   </tr>    <tr>
     <td width="300"><p align="left" class="Style1">Patrick  Dandrey</p>    </td>
@@ -232,76 +232,76 @@ window.open(url, "site", "toolbar=0,location=0,directories=0,status=0, scrollbar
   </tr>  
 </table>
 <div align="center"><INPUT TYPE="button" VALUE="Voir le reste des actualités" onClick="document.location='actualites.php'"></div>
-<script type="text/javascript" src="http://www.toutmoliere.net/stats/php-stats.js.php"></script><noscript><img src="http://www.toutmoliere.net/stats/php-stats.php" border="0" alt=""></noscript></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_46.gif" width="21" height="33" /></td>
+<script type="text/javascript" src="stats/php-stats.js.php"></script><noscript><img src="stats/php-stats.php" border="0" alt=""></noscript></td>
+    <td background="new/images/maquette_tout_moliere_t2_46.gif" width="21" height="33" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_48.gif" width="83" height="54" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_49.gif" width="34" height="54" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_50.gif" width="21" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_48.gif" width="83" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_49.gif" width="34" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_50.gif" width="21" height="54" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_51.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_52.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_53.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_51.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_52.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_53.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_54.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_55.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_56.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_54.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_55.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_56.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_57.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_58.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_59.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_57.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_58.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_59.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_60.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_61.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_62.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_60.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_61.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_62.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_63.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_64.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_65.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_63.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_64.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_65.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_66.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_67.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_68.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_66.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_67.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_68.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_69.gif" width="83" height="54" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_70.gif" width="34" height="54" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_71.gif" width="21" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_69.gif" width="83" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_70.gif" width="34" height="54" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_71.gif" width="21" height="54" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_72.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_73.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_74.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_72.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_73.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_74.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_75.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_76.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_77.gif" width="21" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_75.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_76.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_77.gif" width="21" height="53" /></td>
   </tr>
   <tr>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_78.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_79.gif" width="34" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_80.gif" width="49" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_81.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_82.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_83.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_84.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_85.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_86.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_87.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_88.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_89.gif" width="83" height="53" /></td>
-    <td background="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_90.gif" width="63" height="53" /></td>
-    <td><div align="left"><img src="http://www.toutmoliere.net/new/images/maquette_tout_moliere_t2_91.gif" width="21" height="53" /></div></td>
+    <td background="new/images/maquette_tout_moliere_t2_78.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_79.gif" width="34" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_80.gif" width="49" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_81.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_82.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_83.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_84.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_85.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_86.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_87.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_88.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_89.gif" width="83" height="53" /></td>
+    <td background="new/images/maquette_tout_moliere_t2_90.gif" width="63" height="53" /></td>
+    <td><div align="left"><img src="new/images/maquette_tout_moliere_t2_91.gif" width="21" height="53" /></div></td>
   </tr>
 </table>
-<div id="menu_haut"><a href="http://www.toutmoliere.net/new/index.html" title="Accueil - ToutMoliere">Accueil</a>::<a href="http://www.toutmoliere.net/dictionnaire/index.html" title="Dictionnaire - ToutMoliere">Dictionnaire</a>::<a href="http://www.toutmoliere.net/oeuvres/index.html" title="Œuvre - ToutMoliere">&OElig;uvre</a>::<a href="http://www.toutmoliere.net/new/actualite/index.php">Actualités</a>::<a href="http://www.toutmoliere.net/chronologie/index.html" title="Chronologie - ToutMoliere">Chronologie</a>::<a href="http://www.toutmoliere.net/iconographie/index.php" title="Iconographie - ToutMoliere">Iconographie</a>::<a href="http://www.toutmoliere.net/bibliographie/index.php" title="Bibiliographie - ToutMoliere">Bibliographie</a>::<a href="http://www.toutmoliere.net/filmographie/index.php" title="Filmographie - ToutMoliere">Filmographie</a>::<a href="http://www.toutmoliere.net/liens/index.html" title="Liens - ToutMoliere">Liens</a></div>
+<div id="menu_haut"><a href="new/index.html" title="Accueil - ToutMoliere">Accueil</a>::<a href="dictionnaire/index.html" title="Dictionnaire - ToutMoliere">Dictionnaire</a>::<a href="oeuvres/index.html" title="Œuvre - ToutMoliere">&OElig;uvre</a>::<a href="new/actualite/index.php">Actualités</a>::<a href="chronologie/index.html" title="Chronologie - ToutMoliere">Chronologie</a>::<a href="iconographie/index.php" title="Iconographie - ToutMoliere">Iconographie</a>::<a href="bibliographie/index.php" title="Bibiliographie - ToutMoliere">Bibliographie</a>::<a href="filmographie/index.php" title="Filmographie - ToutMoliere">Filmographie</a>::<a href="liens/index.html" title="Liens - ToutMoliere">Liens</a></div>
 <div id="scenovision"><a href="http://www.scenovisionmoliere.com" target="_blank" title="Scénovision Molière, Parcours spectacle, ville de Pézénas - 34">NOUVEAU à Pézenas ! Le scénovision Molière : parcours spectacle en 5 salles, projection en relief et son spatialisé !</a></div>
 <div id="partenaires"><a href="http://www.ville-pezenas.fr/" title="Ville de Pézenas" target="_blank">Ville de Pézenas</a> - <a href="http://www.ot-pezenas-valdherault.com/" title="Office du tourisme de Pézenas" target="_blank">Office du tourisme de Pézenas</a> - <a href="http://www.phenix2i.com/" title="Phénix 2i" target="_blank">Phénix 2i</a> - <a href="http://www.ateliergraphic.net/" title="Atelier Graphic" target="_blank">Atelier Graphic</a> - <a href="http://www.plenisud.com/" title="plenisud informatique departement 34 boutique en ligne" target="_blank">Plenisud Informatique</a></div>
