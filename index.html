@@ -16,7 +16,9 @@
     <img src="your-portrait.jpg" alt="Paul Moore" class="portrait" />
     <h1>Paul Moore</h1>
     <nav class="links">
-      
+    <a href="#" id="darkModeToggle" aria-label="Toggle Dark Mode" style="margin-right:10px; class="toggle-link">
+      <i class="fas fa-moon"></i>
+    </a>
     <a href="mailto:pmoore44@uwo.ca" aria-label="Email" style="margin-right:10px;">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
         <path d="M0 4a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H2a2 2 0 01-2-2V4zm2-.5v.217l6 3.6 6-3.6V3.5H2zm6.761 4.85L2.481 13h11.038l-6.758-3.65z"/>
@@ -32,7 +34,10 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hi! I am currently studying for my masters degree in computer science at Western. My areas of interest are Deep Learning algorithms and their applications in Bioinformatics.</p>
+    <p>Hi! I am currently studying for my masters degree in computer science at Western, under the co-supervision of <a href="https://agustinus.kristia.de/">Dr. Augustinus Kistiadi</a> and <a href="https://www.csd.uwo.ca/~ilie/">Dr. Lucian Ilie</a>. 
+    My areas of interest are Deep Learning algorithms and their applications in Bioinformatics.
+
+    </p>
   </section>
 
   <section id="projects">
@@ -43,8 +48,21 @@
     </div>
   </section>
 
-  <footer>
-    <p>&copy; 2025 Paul Moore</p>
-  </footer>
+  <section id="news">
+    <h2>News</h2>
+    <div class="news-item">
+      <h3>Began studying for my masters degree</h3>
+      <div class="date">September 2, 2025</div>
+      <p>Early september marked the begining of my life as a graduate student!</p>        
+    </div>
+    <div class="news-item">
+      <h3>Graduated with an Honours Specialization in Computer Science</h3>
+      <div class="date">June 9, 2025</div>
+      <p>I completed my 4 year bachelors degree at University of Western Ontario, graduating with distinction</p>
+    </div>
+  </section>  
+
+
+<script src="darkmode-toggle.js"></script>
 </body>
 </html>
