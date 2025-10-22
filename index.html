@@ -3,13 +3,60 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>My Portfolio</title> 
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-p1CmD56MDEQfn4poCd9N6T0LqJP7qG7PLj6l47gTWZqN3JzN6f6NY19qUeCKsTBT6k3BRcS7lSvltVrVdEYjPA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <style>
+    header {
+      display: flex;
+      align-items: center;
+      padding: 1rem 2rem;
+      background-color: #f8f8f8;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      gap: 1.5rem;
+    }
+    .portrait {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #333;
+    }
+    h1 {
+      flex-grow: 1;
+      font-size: 1.5rem;
+      margin: 0;
+      color: #333;
+    }
+    .links a {
+      margin-left: 1rem;
+      color: #333;
+      font-size: 1.3rem;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    .links a:hover {
+      color: #0077b5; /* a nice blue for hover */
+    }
+  </style>
 </head>
 <body>
   <header>
-    <h1>Paul Moore</h1>
-    <p>MSc Student, University Of Western Ontario</p>
+    <img src="your-portrait.jpg" alt="Your Name" class="portrait" />
+    <h1>Your Name</h1>
+    <nav class="links">
+      <a href="mailto:your.email@example.com" aria-label="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+      <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+    </nav>
   </header>
 
   <section id="about">
