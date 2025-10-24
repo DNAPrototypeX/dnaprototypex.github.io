@@ -178,10 +178,12 @@ section p {
 }
 
 .news-item p {
+  cursor: pointer;
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.5;
 }
+
 
 /* Responsive */
 @media (max-width: 600px) {

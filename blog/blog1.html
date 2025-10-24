@@ -6,15 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About Paul Moore</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-  <link rel="stylesheet" href="styles.css" />
-
+  <link rel="stylesheet" href="../styles.css" />
 </head>
 
 <body>
   <header>
-    <img src="my-portrait.jpg" alt="Paul Moore" class="portrait" />
+    <img src="../my-portrait.jpg" alt="Paul Moore" class="portrait" />
     <h1>Paul Moore</h1>
     <nav class="links">
+      <a href="../index.html" aria-label="Back to Main Page" style="margin-right:10px;">
+        <i class="fas fa-arrow-left"></i>
+      </a>
       <a href="#" id="darkModeToggle" aria-label="Toggle Dark Mode" style="margin-right:10px; class=" toggle-link">
         <i class="fas fa-moon"></i>
       </a>
@@ -33,35 +35,10 @@
     </nav>
   </header>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>Hi! I am currently studying for my masters degree in computer science at Western, under the co-supervision of <a
-        href="https://agustinus.kristia.de/">Dr. Augustinus Kistiadi</a> and <a href="https://www.csd.uwo.ca/~ilie/">Dr.
-        Lucian Ilie</a>.
-      My areas of interest are Deep Learning algorithms and their applications in Bioinformatics.</p>
-    <p>Outside of academia I spend my time throwing shotput and hammer, building and riding motorcycles, and
-      back-country camping.</p>
+  <section id="Blog">
+    <h2>Blog Title</h2>
   </section>
-
-  <section id="projects">
-    <h2>Projects</h2>
-    <div class="project">
-      <h3>Generative Models for Protein-Protein Interaction Prediction</h3>
-      <p>A review paper intended to bring informed non-experts up to speed on the current developments in PPI prediction
-        using deep learning.</p>
-    </div>
-  </section>
-
-  <section id="blog">
-    <h2>Blog Posts</h2>
-    <section class="news-item" onclick="window.location.href='blog/blog1.html'">
-      <h3>My First Blog Post</h3>
-      <p>My Blog post template</p>
-      <div class="date">October 24, 2025</div>
-    </section>
-  </section>
-
-  <script src="darkmode-toggle.js"></script>
+  <script src="../darkmode-toggle.js"></script>
 </body>
 
 </html>
