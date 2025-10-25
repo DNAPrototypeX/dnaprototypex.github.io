@@ -184,6 +184,27 @@ section p {
   line-height: 1.5;
 }
 
+/* Figure styles */
+.rte-media {
+  display: block;
+  margin: 10px auto;
+  text-align: center; /* centers the caption text */
+}
+
+.rte-media img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.rte-media-caption {
+  text-align: center;  /* ensure caption is centered */
+  font-size: 0.9rem;
+  color: #555; /* optional styling */
+  margin-top: 0.5em;
+}
+
 
 /* Responsive */
 @media (max-width: 600px) {

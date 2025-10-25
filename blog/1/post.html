@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Paul Moore</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="../../styles.css" />
+</head>
+
+<body>
+  <header>
+    <img src="../../my-portrait.jpg" alt="Paul Moore" class="portrait" />
+    <h1>Paul Moore</h1>
+    <nav class="links">
+      <a href="../../index.html" aria-label="Back to Main Page" style="margin-right:10px;">
+        <i class="fas fa-arrow-left"></i>
+      </a>
+      <a href="#" id="darkModeToggle" aria-label="Toggle Dark Mode" style="margin-right:10px; class=" toggle-link">
+        <i class="fas fa-moon"></i>
+      </a>
+      <a href="mailto:pmoore44@uwo.ca" aria-label="Email" style="margin-right:10px;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+          <path
+            d="M0 4a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H2a2 2 0 01-2-2V4zm2-.5v.217l6 3.6 6-3.6V3.5H2zm6.761 4.85L2.481 13h11.038l-6.758-3.65z" />
+        </svg>
+      </a>
+      <a href="https://github.com/DNAPrototypeX" target="_blank" aria-label="GitHub">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+          <path
+            d="M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38v-1.33c-2.23.49-2.7-1.08-2.7-1.08-.36-.91-.88-1.15-.88-1.15-.72-.5.06-.49.06-.49.8.06 1.22.83 1.22.83.71 1.22 1.87.87 2.33.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.96 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.22 2.2.82a7.58 7.58 0 012-.27c.68 0 1.36.09 2 .27 1.52-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.08-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8 8 0 0016 8c0-4.42-3.58-8-8-8z" />
+        </svg>
+      </a>
+    </nav>
+  </header>
+
+  <section id="Blog">
+    <h2>Thinkpad T430s USB-C Charging Mod</h2>
+
+    <p>
+      I recently got my hands on a T430s for free (from my chiropractor, funny story). Anyways, I decided that since the
+      price was right I would risk tackling converting it to USB-C charging as my first mod on it.
+    </p>
+    <p>
+      <strong>The Tear-down</strong>
+    </p>
+    <p>
+      I followed this <a rpl="" class="relative pointer-events-auto a cursor-pointer
+  
+  
+  
+  
+  underline
+  " href="https://www.ifixit.com/Guide/Lenovo+ThinkPad+T430s+Motherboard+Replacement/139277"
+        rel="noopener nofollow noreferrer ugc" target="_blank">IFIXIT guide</a> (super helpful, especially for
+      reassembly later). During the tear-down while it was apart, I cleaned all the dust and <em>gooch</em> off the fan,
+      and other surfaces with an old toothbrush and some rubbing alcohol. I also repasted it, as I'm certain that hadn't
+      been done since it was manufactured. Overall it was pretty easy getting the whole thing apart (ThinkPads are the
+      best).
+    </p>
+    <p>
+      <strong>The Mod</strong>
+    </p>
+    <p>
+      This is the hard part. I've seen some people <a rpl="" class="relative pointer-events-auto a cursor-pointer
+  
+  
+  
+  
+  underline
+  " href="https://www.reddit.com/r/thinkpad/comments/1fektwj/t430_usbc_mod/" rel="noopener nofollow noreferrer ugc"
+        target="_blank">do this mod to the regular T430</a>, but have not seen anyone do it with the T430s. This is
+      because unlike the T430, whose charging port is attached by cable to the mainboard, and is a relatively simple
+      splicing of wires to mod, the <em>s</em> model has a small daughterboard that houses the barrel charging port:
+    </p>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-8t5t7q5dm0me1.png?width=225&amp;format=png&amp;auto=webp&amp;s=8532d4f6e2601ab9e543ece37849ca00f2288c67"
+        title="Image from r/thinkpad - T430s Charging daughterboard" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-8t5t7q5dm0me1.png?width=225&amp;format=png&amp;auto=webp&amp;s=8532d4f6e2601ab9e543ece37849ca00f2288c67"
+          alt="r/thinkpad - T430s Charging daughterboard"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="225" height="auto"
+          style="aspect-ratio:225/225" loading="eager">
+      </a>
+      <figcaption class="rte-media-caption">T430s Charging daughterboard</figcaption>
+    </figure>
+    <p>
+      This makes installing a USB-C PD chip a bit more challenging than splicing a couple cables.
+    </p>
+    <p>
+      What I ended up doing was printing <a rpl="" class="relative pointer-events-auto a cursor-pointer
+  
+  
+  
+  
+  underline
+  " href="https://www.thingiverse.com/thing:4363602" rel="noopener nofollow noreferrer ugc" target="_blank">this
+        part</a> on my buddy's 3D printer, which didn't fit right away, as it's intended for the T430, not the T430s. I
+      had to use a file to take material off the back until it would fit between the daughterboard and the chasis. I
+      then de-soldered the original barrel connector from the board.
+    </p>
+    <p>
+      Now some stuff about the barrel plug. The barrel plug for the T430s has its negative connection on the outside of
+      the barrel, and
+      positive on the inside, with a signal pin in the middle. On the daughterboard, the connector passed the negative
+      to the two outermost solder points, the signal pin to the center point, and positive to the other two. Luckily, as
+      far as I can tell, the positive and negative points are internally bridged with the other positive and negative
+      point respectively, and the signal point is pretty much optional (DO NOT QUOTE ME ON THIS).
+    </p>
+    <p>
+      This means that what I could do was simply cover up one of each of the positive and negative points (and the
+      signal point), then solder the USB-C PD board directly to the daughterboard. If anyone knows more about this than
+      me please educate everyone why this is as bad of an idea as I know it to be. Here is a little diagram, it doesn't
+      matter which of the positive and negative you solder to, I just happened to pick those two, and the port fit
+      better if I soldered to the back of the daughterboard so I did that.
+    </p>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-bqfqnwjrs0me1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=c6ecca0f894cccb06994f6e261082ca6f58c517f"
+        title="Image from r/thinkpad - T430s USB-C charging mod" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-bqfqnwjrs0me1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=c6ecca0f894cccb06994f6e261082ca6f58c517f"
+          alt="r/thinkpad - T430s USB-C charging mod"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="750" height="auto"
+          srcset="https://preview.redd.it/t430s-usb-c-charging-mod-v0-bqfqnwjrs0me1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3a9df2e58a2b5f1a82cfec11306b9b6b82ef4b05 320w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-bqfqnwjrs0me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfad221b16165dc1aab43726e2431c856d2d465c 640w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-bqfqnwjrs0me1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=54a118dd01d852d6995becc57db15f61c74aa56e 1080w"
+          sizes="(min-width: 1415px) 750px, (min-width: 768px) 50vw, 100vw" style="aspect-ratio:750/750"
+          loading="eager">
+      </a>
+
+    </figure>
+    <p>
+      Anyways, with the USB-C PD board secure within it's 3D printed enclosure and soldered to a positive and negative
+      point on the charging daughterboard, I started reassembling to a point where I could try to boot the laptop and
+      test if it would charge.
+    </p>
+    <p>
+      <strong>Booting it back up and testing</strong>
+    </p>
+    <p>
+      Once I had the laptop (partially) reassembled, I tried booting it only to get a black screen and a heart dropping
+      beeping code. I kinda panicked, thinking I blew it (oh no, I broke my free thinkpad lol), but when I looked up the
+      code it said it was related to memory. I swapped the ram sticks' places and it booted up just fine! Once I was
+      booted into my desktop, I plugged it in, and it was working! In fact, I'm sitting here typing this as it's
+      charging :)
+    </p>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-6c0hprabp0me1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=48960f33ed9fa836dd06ad9c16030d974a14c16d"
+        title="Image from r/thinkpad - It's woooooorkinnnnnng" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-6c0hprabp0me1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=48960f33ed9fa836dd06ad9c16030d974a14c16d"
+          alt="r/thinkpad - It's woooooorkinnnnnng"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="750" height="auto"
+          srcset="https://preview.redd.it/t430s-usb-c-charging-mod-v0-6c0hprabp0me1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=98d4f6329b4de4d02e1386f4d6c5cae09f12893c 320w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-6c0hprabp0me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f23b9369ad86e7fdc066ebd3c17d588824495b80 640w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-6c0hprabp0me1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=767fcb04539dd95d16402a20fab4c122aacfcbf6 1080w"
+          sizes="(min-width: 1415px) 750px, (min-width: 768px) 50vw, 100vw" style="aspect-ratio:750/421.875"
+          loading="eager">
+      </a>
+      <figcaption class="rte-media-caption">It's woooooorkinnnnnng</figcaption>
+    </figure>
+    <p>
+      <strong>The Final Results</strong>
+    </p>
+    <p>
+      Overall I am very satisfied with this mod. It was a pain in the butt to solder the two boards directly together,
+      especially with my my 20$ Canadian Tire soldering iron and my bent nose pliers with an elastic band instead of
+      soldering clips, but It all worked out in the end somehow. I don't think I can recommend doing this (especially in
+      the janky way like I did) unless you know what you are doing and you are willing to risk the ruining the
+      daughterboard and paying 25$CAD for a replacement, or worse, ruining the laptop. I had the privileged of not
+      having any money invested in this laptop, so that is something to consider. Here are the pics of the final
+      product:
+    </p>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-mo87a4vsq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=ee5730dc56ae1809227b1ca51186112ee65bed91"
+        title="Image from r/thinkpad - T430s USB-C charging mod" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-mo87a4vsq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=ee5730dc56ae1809227b1ca51186112ee65bed91"
+          alt="r/thinkpad - T430s USB-C charging mod"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="750" height="auto"
+          srcset="https://preview.redd.it/t430s-usb-c-charging-mod-v0-mo87a4vsq0me1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a74a00ab2ddcfe9e77f5276574c57471497367b2 320w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-mo87a4vsq0me1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe25dd04b630c479dddff97c04b8e7585353ce7b 640w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-mo87a4vsq0me1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ac65a2343eb55bd63977fb8e744c5462356f05a7 1080w"
+          sizes="(min-width: 1415px) 750px, (min-width: 768px) 50vw, 100vw" style="aspect-ratio:750/562.5"
+          loading="eager">
+      </a>
+
+    </figure>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-q12z9qmuq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=72a09b01a9795e45c63cbb3bb7cb26d91118c11c"
+        title="Image from r/thinkpad - T430s USB-C charging mod" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-q12z9qmuq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=72a09b01a9795e45c63cbb3bb7cb26d91118c11c"
+          alt="r/thinkpad - T430s USB-C charging mod"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="750" height="auto"
+          srcset="https://preview.redd.it/t430s-usb-c-charging-mod-v0-q12z9qmuq0me1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=51544b6e4f84f413a5e0bc58b31800b0a6c0d343 320w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-q12z9qmuq0me1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76db2c07d12b685393018916409304508149908f 640w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-q12z9qmuq0me1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=20e9324957b847e10314bd145b104ee0db9437e3 1080w"
+          sizes="(min-width: 1415px) 750px, (min-width: 768px) 50vw, 100vw" style="aspect-ratio:750/562.5"
+          loading="eager">
+      </a>
+
+    </figure>
+    <figure class="rte-media">
+      <a href="https://preview.redd.it/t430s-usb-c-charging-mod-v0-tpw9djtvq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=284937f9a53bbd61cb6f97e3318fe120da5b9f7e"
+        title="Image from r/thinkpad - T430s USB-C charging mod" rel="noopener noreferrer ugc" target="_blank">
+        <img
+          src="https://preview.redd.it/t430s-usb-c-charging-mod-v0-tpw9djtvq0me1.jpg?width=4000&amp;format=pjpg&amp;auto=webp&amp;s=284937f9a53bbd61cb6f97e3318fe120da5b9f7e"
+          alt="r/thinkpad - T430s USB-C charging mod"
+          class="mb-0 block w-fit my-0 mx-auto max-w-[100%] non-lightboxed-content" width="750" height="auto"
+          srcset="https://preview.redd.it/t430s-usb-c-charging-mod-v0-tpw9djtvq0me1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b87abf780ee26a35971ffc44b99fc8d191b1fedb 320w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-tpw9djtvq0me1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90db09079cf018ff890594677906145bec5b6b4e 640w, https://preview.redd.it/t430s-usb-c-charging-mod-v0-tpw9djtvq0me1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=26f1799f82dce456b8df72247c1be489a7741213 1080w"
+          sizes="(min-width: 1415px) 750px, (min-width: 768px) 50vw, 100vw" style="aspect-ratio:750/562.5"
+          loading="eager">
+      </a>
+
+    </figure>
+
+  </section>
+  <script src="../../darkmode-toggle.js"></script>
+</body>
+
+</html>
