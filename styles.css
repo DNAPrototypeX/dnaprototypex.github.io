@@ -26,6 +26,7 @@ body.dark-mode {
 
 /* Apply variables */
 body {
+  margin: 125px auto 3rem;
   background-color: var(--background-color);
   color: var(--text-color);
   transition: background-color 0.3s ease, color 0.3s ease;
@@ -33,6 +34,10 @@ body {
 
 /* --- Header styles --- */
 header {
+  position: fixed;
+  top: 0;
+  width: 95%;
+  z-index: 1000;
   display: flex;
   align-items: center;
   padding: 1rem 2rem;
