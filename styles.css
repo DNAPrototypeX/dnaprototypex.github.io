@@ -1,6 +1,5 @@
 
 /* styles.css */
-
 /* --- Color variables for light & dark themes --- */
 :root {
   --background-color: #f8f8f8;
@@ -36,7 +35,12 @@ body {
 header {
   position: fixed;
   top: 0;
-  width: 95%;
+  width: 100%; 
+  
+  box-sizing: border-box; 
+  left: 50%; /* Start the left edge in the middle of the screen */
+  transform: translateX(-50%); /* Shift the element left by half its own width */
+
   z-index: 1000;
   display: flex;
   align-items: center;
