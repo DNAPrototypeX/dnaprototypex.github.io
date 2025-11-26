@@ -17,7 +17,7 @@ I followed this [IFIXIT guide](https://www.ifixit.com/Guide/Lenovo+ThinkPad+T430
 
 This is the hard part. I've seen some people [do this mod to the regular T430](https://www.reddit.com/r/thinkpad/comments/1fektwj/t430_usbc_mod/), but have not seen anyone do it with the T430s. This is because unlike the T430, whose charging port is attached by cable to the mainboard, and is a relatively simple splicing of wires to mod, the *s* model has a small daughterboard that houses the barrel charging port:
 
-![T430s Charging Controller Daughterboard](daughterboard.jpg)
+![T430s Charging Controller Daughterboard](daughterboard.jpg){:.img-third}
 *T430s Charging Controller Daughterboard*
 
 This makes installing a USB-C PD chip a bit more challenging than splicing a couple cables.
