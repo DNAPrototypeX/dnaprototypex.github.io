@@ -1,0 +1,33 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Custom CSS for Image Sizing */
+.img-half {
+
+  max-width: 50vw;
+  height: auto;
+
+
+}
+
+.img-third {
+  max-width: 33vw;
+  height: auto;
+
+
+}
+
+img {
+border-radius: 12px;
+}
+
+
