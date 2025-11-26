@@ -12,18 +12,26 @@
 
 /* Custom CSS for Image Sizing */
 .img-half {
-
-  max-width: 35rem;
+  width: 12rem;
   height: auto;
-
 
 }
 
 .img-third {
-  max-width: 15rem;
+  max-width: 7rem;
   height: auto;
+}
 
+@media (min-width: 767px) {
+  .img-half {
+    width: 35rem;
+    height: auto;
+  }
 
+  .img-third {
+    max-width: 20rem;
+    height: auto;
+  }
 }
 
 img {

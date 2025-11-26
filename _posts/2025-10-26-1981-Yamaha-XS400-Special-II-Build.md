@@ -1,7 +1,6 @@
 ---
 title: 1981 Yamaha XS400 Special II Build
 date: 2025-10-27 12:00:00 -0500 # Using the date from the HTML meta tag, inferring the time/offset
-last_modified_at: 2025-11-26 12:05:00 -0500
 categories: [Blogging, Motorcycles] # Suggested categories based on content
 tags: [motorcycle, xs400, custom-build, project] # Suggested tags based on content
 media_subpath: /assets/img/bike/
@@ -16,7 +15,7 @@ Over the past few years, I've been watching more and more custom motorcycle buil
 
 As I watched these works of art be built, I developed a taste of my own and a vision of my *perfect* motorcycle. I imagined a bike that was brat style adjacent—subtly different from the original style, retro, yet modern... That's when I encountered BJ from [Brick House Builds](https://brickhousebuilds.com/)' XS400 (right).
 
-![BrickHouseBuilds' XS400](bhbxs400.jpg){: .right}
+![BrickHouseBuilds' XS400](bhbxs400.jpg){: .img-third .right}
 
 
 This build checks a lot of boxes for me, and ultimately inspired me to start my own build. In particular, I like the handlebars, seat, front and rear fenders, and the upswept seat hoop. Some things I would change is to keep the original airbox and side covers. Not only does that avoid needing to rejet the carbs, I also prefer the look. Also, I prefer the wheels to be black, and it needs mirrors.
