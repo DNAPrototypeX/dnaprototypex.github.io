@@ -4,6 +4,7 @@ date: 2025-10-26 12:00:00 -0500
 categories: [Blogging, Technology]
 tags: [thinkpad, modding, usb-c, hardware]
 media_subpath: /assets/img/thinkpad/
+description: 'A write up on my Thinkpad T430s modification. (originally posted to Reddit)'
 ---
 
 I recently got my hands on a T430s for free (from my chiropractor, funny story). Anyways, I decided that since the price was right I would risk tackling converting it to USB-C charging as my first mod on it.

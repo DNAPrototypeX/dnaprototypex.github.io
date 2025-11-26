@@ -6,6 +6,7 @@ categories: [Blogging, Motorcycles] # Suggested categories based on content
 tags: [motorcycle, xs400, custom-build, project] # Suggested tags based on content
 media_subpath: /assets/img/bike/
 pin: true
+description: 'A write up on my progress building a custom motorcyclce!'
 ---
 
 ## Intro, Inspiration, and Initial Purchase
