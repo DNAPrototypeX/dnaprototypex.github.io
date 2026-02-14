@@ -1,6 +1,7 @@
 ---
 title: 1981 Yamaha XS400 Special II Build
 date: 2025-10-27 12:00:00 -0500 # Using the date from the HTML meta tag, inferring the time/offset
+last_modified_at: 2026-02-13 23:30:00 -0500
 categories: [Blogging, Motorcycles] # Suggested categories based on content
 tags: [motorcycle, xs400, custom-build, project] # Suggested tags based on content
 media_subpath: /assets/img/bike/
@@ -23,7 +24,7 @@ This build checks a lot of boxes for me, and ultimately inspired me to start my 
 So, I started shopping for bikes. I scrolled Facebook marketplace every day for multiple months, going to see a couple bikes, but never finding *the one*. I wasn't specifically shopping for an XS400 either. I was open to any 70s or 80s bike, as long as it had the iconic *Japanese Universal Motorcycle (JUM)* look. I also specifically wanted it to have a kickstart (I don't know why but kickstarting a road bike is just so cool to me). I liked the idea of the XS750, or an older Suzuki GS or Honda CB, but none ever popped up in my price range. Eventually, an XS400 Special II came up, asking only **\$600CAD** and only a 3-hour drive away. It didn't run, and had been sitting for 17 years, but the price was right, it had a clean title and ownership was in the seller's possession. I went to see it, and met the older couple selling it. It was the bike his wife learned to ride on. I offered \$500CAD, and we settled at \$550CAD.
 
 ![Side view of my XS400 when I bought it](side-view.jpg){: .img-half}
-*Side view of my XS400 when I bought it*
+*Side view of my XS400 when I bought it.*
 
 ---
 
@@ -50,7 +51,7 @@ At this point, I didn't have a welder or angle grinder yet (for the frame modifi
 I used 16AWG wire instead of the original 18AWG to ensure a tighter fit through the grommet, just to be safe. I applied a conservative amount of red RTV, and reinstalled the stator.
 
 ![Rewired Stator In The Bike](rewired-stator.jpg){:.img-third}
-*Rewired stator installed in the bike*
+*Rewired stator installed in the bike.*
 
 ---
 
@@ -59,7 +60,7 @@ I used 16AWG wire instead of the original 18AWG to ensure a tighter fit through 
 Another little job I did around this time was polishing the headers, as the pitting was really not bad. I used red scotch-brite and metal polishing compound on most of the pipe, but used the heavy-duty green pad for the worst of the pitting. They turned out just perfect!
 
 ![Polished Headers](polished-headers.jpg){:.img-third}
-*The polished headers*
+*The polished headers.*
 
 ---
 
@@ -68,66 +69,104 @@ Another little job I did around this time was polishing the headers, as the pitt
 Continuing with the small jobs, I upgraded the original headlight sealed beam unit to a modern H4 replaceable bulb. This was a bit of a funny process, involving the smashing of the original bulb to get it out, and some careful Dremel work to make the modern bulb fit nicely. I bent the tabs on the bulb and used some more red RTV as some glue to make sure it doesn't vibrate itself loose.
 
 ![Modified headlight](modified-headlight.jpg){:.img-third}
-*The modified headlight unit*
+*The modified headlight unit.*
 
 ---
 
-## Painting Assorted Parts
+## Painting Assorted Parts (Nov, 2025)
 
 Every so often when I got the chance, I scuffed, cleaned, and painted parts I intended on reusing. Such as foot pegs, shifter pedal, rear brake pedal, and the hand levers. I also painted the headlight bucket and battery tray, and rear drum. It's not included in the image, but I also painted the kickstand and rear drum support.
 
 ![Assorted painted parts](assorted-painted-parts.jpg){:.img-half}
-*Assorted parts I painted*
+*Assorted parts I painted.*
 
 Next, I painted the rear wheel. It had some pitting in the chrome, but nothing some scotchbrite and brakleen couldn't handle. The before and after are amazing! The paint I used is just the cheap gloss black rust paint from Canadian Tire, and some clear coat. I did a couple coats of each.
 
 ![Dirty Rear Wheel](rear-wheel-dirty.jpg){:.img-third}
-*The rear wheel before prep*
+*The rear wheel before prep.*
 
 ![Prepped Rear Wheel](rear-wheel-prepped.jpg){:.img-half}
-*The rear wheel after prep*
+*The rear wheel after prep.*
 
 ![Painted Rear Wheel](painting-rear-wheel.jpg){:.img-third}
-*The rear wheel after painting*
+*The rear wheel after painting.*
 
 Finally, before putting the wheel back on, I figured a new sprocket couldn't hurt. This involved buying a sprocket kit from eBay, as well as some NOS retaining washers to make sure the sprocket nuts don't come undone. I also had to buy a set of snap ring pliers to get the snap ring back on (getting it off was easy enough with a pair of pliers and a screwdriver, but I couldn't get it back on the same way).
 
 ![New sprocket on the rear wheels](new-sprocket.jpg){:.img-half}
-*New sprocket*
+*New sprocket.*
 
 And here is the wheel, with its new sprocket, installed back on the bike. I had my brother hold up the wheel while I put the axel through all the bits, with a light coat of antiseize brushed on.
 
 ![Finished wheel back on the bike.](wheel-on-bike.jpg){:.img-half}
-*The finished rear wheel back on the bike*
+*The finished rear wheel back on the bike.*
 
 The next items on the painting hit-list are the front wheel and fork bodies. To remove the front wheel, I started by removing the fender, then disconnected the brake linkage. After that, I undid the two bolts on the left fork holding the axel, and hammered it out. Overall the front wheel was much cleaner than the rear.
 
 ![Removing Front Wheel 1](removing-front-wheel-1.jpg){:.img-half}
-*The front wheel before disassembly*
+*The front wheel before disassembly.*
 
 ![Removing Front Wheel 2](removing-front-wheel-2.jpg){:.img-half}
-*The front wheel-less forks!*
+*The front wheel-less forks!.*
 
 ![Removing Front Wheel 3](removing-front-wheel-3.jpg){:.img-half}
-*The front wheel all alone :(*
+*The front wheel all alone :(.*
 
 The front wheel painting was the same as the rear wheel, though a bit faster as there was less grime (no chain lube gathering road goo). Just a thorough clean with brakleen, then soap and water, scuff with scotchbrite, and a final rinse with water. The temperature outside was getting too cold for paint so there were some issues with getting the paint to stick. I think it still turned out alright.
 
 ![Front drum brake housing painted](front-wheel-painted-1.jpg){:.img-third}
-*Front drum brake housing painted*
+*Front drum brake housing painted.*
 
 ![Front wheel painted (1)](front-wheel-painted-2.jpg){:.img-half}
-*Front wheel painted (1)*
+*Front wheel painted (1).*
 
 ![Front wheel painted (2)](front-wheel-painted-3.jpg){:.img-half}
-*Front wheel painted (2)*
+*Front wheel painted (2).*
 
 There was a couple weeks where we got some snow ([The gales of November came early](https://www.youtube.com/watch?v=FuzTkGyxkYI)), so painting was off the table. I decided to do an initial mockup of the controls, cut the throttle cable to length, etc. I chose some [orange grips](https://dominoracing.com/shop/domino-xm2-grips/) to match the future color of the bike!
 
 ![Control mockup left](controls-L.jpg){:.img-half}
-*Control mockup left*
+*Control mockup left.*
 
 ![Control mockup right](controls-R.jpg){:.img-half}
-*Control mockup right*
+*Control mockup right.*
 
+## Rebuilding the forks (Feb, 2026) 
+After a significant break while my responsibilities as a graduate student took priority, and indoor track season started to ramp up, I finally got back to working on the bike. The job I took on was rebuilding the forks, which is a messy and tedious job. Thankfully, there is a lovely [video on YouTube](https://www.youtube.com/watch?v=R-6CvH97k6I) that showed in great detail how to complete this job, so I followed it. 
 
+The first step is to remove the forks from the bike and drain the oil out of the small drain hole sealed with a JIS screw and copper crush washer.
+
+![Fork draining](fork_draining.jpg){:.img-third}
+*Draining the forks.*
+
+The left fork oil was quite dark, and had a bit of a fishy smell. I suspect that the fork seal had started to go on this side, and that the oil was likely the original oil from the 80s (yikes!). The right fork was different, with relatively clean looking oil and less smell. The oil had either been replaced before (which would be strange... Wouldn't you just to both at the same time?), or the difference was just in the seals. Maybe the right one did a better job keeping the gunk out.
+
+The next step in to open up the forks. This is done by removing the small plastic cap, pressing down on the plunger at the top of the fork with a large screwdriver, and picking out the small circlip that stops the plunger from shooting out the top of the fork under the pressure from the spring. The guy in the video recommended putting the fork back on the bike to hold it in place while you do this in the case that you don't have a vice (which I do not).
+
+![Opened Fork](fork_opening.jpg){:.img-third}
+*The opened up fork.*
+
+Getting that little circlip out while pressing down on the plunger with the other hand is a huge pain in the ass, and was by far the hardest part of this job. Here's a picture of the little bugger:
+
+![Fork plunger and circlip](fork_circlip.jpg){:.img-third}
+*The fork plunger and circlip.*
+
+After this the forks can be fully dismantled by taking out one last bolt from the bottom. It was pretty cool seeing the inner workings of a fork, but this is the messiest part of the job. I placed down some shop towels to soak up any left over oil.
+
+![Dismantled fork](fork_dissasembled.jpg){:.img-half}
+*A fork fully disassembled*
+
+Next, I cleaned them up and replaced the fork seals. To remove the old ones you just pry them out with a big screwdriver, being careful not to scratch the sealing surface on the housing. Then, you gently press the new ones in and using a big socket and a mallet, lightly tap it until it is fully seated. 
+
+![Fork seals 1](fork_seal_1.jpg){:.img-third}
+
+![Fork seals 2](fork_seal_2.jpg){:.img-third}
+
+![Fork seals 3](fork_seal_3.jpg){:.img-third}
+
+![Fork seals 4](fork_seal_4.jpg){:.img-third}
+
+Finally, the forks can be reassembled in the reverse order of disassembly, and installed back on the bike. As a 260lb man, I decided to put use heavier fork oil to hopefully avoid bottoming out these poor little forks. I'll see if it is beneficial, or if it just makes the suspension too stiff. I can always drain the oil and fill it back up with lighter oil. I was intending to paint the fork bodies black while they were off the bike, but the weather was far too cold. I'm quite liking the look of mixed silver and black so I'm gonna give it a chance for now and can always take them back off for painting later.
+
+![Forks reinstalled](fork_back_on_bike.jpg){:.img-half}
+  *The rebuilt forks back on the bike.*
