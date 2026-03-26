@@ -38,4 +38,18 @@ img {
 border-radius: 12px;
 }
 
+.badge-status {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 28px !important;
+  height: 28px !important;
+  border-radius: 50% !important;
+  flex-shrink: 0 !important;
+  cursor: help !important;
+}
+
+.bg-completed { background-color: #28a745 !important; color: #fff !important; }
+.bg-progress { background-color: #f39c12 !important; color: #fff !important; }
+
 
