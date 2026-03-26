@@ -1,6 +1,7 @@
 ---
 title: Thinkpad T430s USB-C Charging Mod
 date: 2025-10-26 12:00:00 -0500
+last-updated: 2025-10-26 12:00:00 -0500
 categories:
   - Blogging
   - Technology
