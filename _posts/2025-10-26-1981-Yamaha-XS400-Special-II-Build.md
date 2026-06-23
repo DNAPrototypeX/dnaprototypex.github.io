@@ -41,8 +41,10 @@ I got it home with the help of my uncle, who lives only a half-hour from the sel
 I checked the cylinder walls with a boroscope, and they look fantastic, crosshatching and everything! I measured the compression, getting 120psi on the left and 125psi on the right. The engine is healthy and does not require a rebuild! The next step was really stripping it down. Removing all the parts I don’t intend to use in the final build, and cleaning the bike thoroughly (lots of mouse poo, yuck).
 
 After a good cleaning, I removed the entire wiring harness. I plan to fully rewire the bike to run a modern reg/rec, headlight, and LED brake and turn signals. I also purchased a [Motogadget mo unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue) to really modernize the bike with keyless ignition and the works.
-### Rewiring the Stator
+### September, 2025
 ---
+#### Rewiring the Stator
+
 At this point, I didn’t have a welder or angle grinder yet (for the frame modifications, seat hoop, etc.), and I still have a lot to do before I’m ready to begin wiring. So, I started some odd jobs. First on the list is fixing the small oil leak coming from the stator wire grommet. This is a common failure point on these bikes, and unfortunately, you can’t get a new grommet anywhere. Rewiring, and some silicone gasket maker, it is!
 
 ![Rewired Stator Grommet](rewired-stator-grommet.jpg){: .img-third } 
@@ -52,20 +54,21 @@ I used 16AWG wire instead of the original 18AWG to ensure a tighter fit through 
 
 ![Rewired Stator In The Bike](rewired-stator.jpg){:.img-third} 
 *Rewired stator installed in the bike.*
-### Polishing the Headers
----
+#### Polishing the Headers
+
 Another small task I completed around this time was polishing the headers, as the pitting was not too severe. I used a red Scotch-Brite pad and metal polishing compound on most of the pipe, but used the heavy-duty green pad for the worst of the pitting. They turned out just perfect!
 
 ![Polished Headers](polished-headers.jpg){:.img-third} 
 *The polished headers.*
-### Upgrading the Headlight
----
+#### Upgrading the Headlight
+
 Continuing with the small jobs, I upgraded the original headlight sealed beam unit to a modern H4 replaceable bulb. This was a bit of a funny process, involving the smashing of the original bulb to get it out, and some careful Dremel work to make the modern bulb fit nicely. I bent the tabs on the bulb and used some more red RTV as some glue to make sure it doesn’t vibrate itself loose.
 
 ![Modified headlight](modified-headlight.jpg){:.img-third} 
 *The modified headlight unit.*
-### Painting Assorted Parts (Nov, 2025)
+###  November, 2025
 ---
+#### Painting Assorted Parts
 Every so often, when I got the chance, I scuffed, cleaned, and painted parts I intended on reusing. Such as foot pegs, shifter pedal, rear brake pedal, and the hand levers. I also painted the headlight bucket and battery tray, and the rear drum. It’s not included in the image, but I also painted the kickstand and rear drum support.
 
 ![Assorted painted parts](assorted-painted-parts.jpg){:.img-half} 
@@ -121,8 +124,10 @@ There were a couple of weeks where we got some snow ([The gales of November came
 
 ![Control mockup right](controls-R.jpg){:.img-half} 
 *Control mockup right.*
-### Rebuilding the forks (Feb, 2026)
+### February, 2026
 ---
+#### Rebuilding the forks (Feb, 2026)
+
 After a significant break while my responsibilities as a graduate student took priority, and indoor track season started to ramp up, I finally got back to working on the bike. The job I took on was rebuilding the forks, which is a messy and tedious job. Thankfully, there is a lovely [video on YouTube](https://www.youtube.com/watch?v=R-6CvH97k6I) that shows in great detail how to complete this job, so I followed it.
 
 The first step is to remove the forks from the bike and drain the oil out of the small drain hole sealed with a JIS screw and copper crush washer.
@@ -161,8 +166,10 @@ Finally, the forks can be reassembled in the reverse order of disassembly and in
 
 ![Forks reinstalled](fork_back_on_bike.jpg){:.img-half} 
 *The rebuilt forks back on the bike.*
-### Chopping The Frame (Mar 2026)
+### March, 2026
 ---
+#### Chopping The Frame (Mar 2026)
+
 Making the modifications to the frame of the bike is the scariest part of this build for me. I have used an angle grinder before at work, but I did not own one myself, so I had to buy one. My dad bought me a small flux core welder for Christmas (2025), and I had to learn how to use it.
 
 Before going after the frame of the bike, I practiced on the factory front fender of the bike. Since I’m going for a cafe/brat style resto-mod, I needed it to be quite a bit shorter. I drew my desired lines using a Sharpie and some yarn, then went at it with the cutoff wheel.
@@ -182,10 +189,90 @@ Next, I chopped the frame, ensuring that I cut the frame evenly on both sides an
 
 I also trimmed the hoop such that the frame will terminate at my desired length. Finally, it is time to practice some welding. I had never welded before, so I did a few practice runs on the scrap pieces from chopping the frame and hoop.
 
-![My first welds 1](first_welds_0.jpg){:.img-third}  
+![My first welds 1](first_welds_0.jpg){:.img-third} 
 ![My first welds 2](first_welds_1.jpg){:.img-third} 
 *My first ever welds.*
 
 Next, I tack-welded the hoop to the frame, clamping it in place temporarily with vice grips.
 
 {% include embed/video.html src='welding_frame.mp4' %}{:.vid}
+
+After fully welding the hoop, I painted it gloss black.
+
+![The fully welded hoop](fully_welded_hoop.jpg){:.img-third} 
+*The fully welded seat hoop.*
+
+![The painted hoop.](painted_hoop.jpg){:.img-half} 
+*The painted seat hoop.*
+
+### June, 2026
+---
+#### Mounting the rear fender
+
+I got quite busy with work and school for the past couple months, only being able to work on the bike for a few hours on weekends, and with my girlfriend staying an hour and a half away this summer, I haven't been out in the garage as much as I'd like to be. 
+
+Nonetheless I have gotten some work done... The following is the culmination of many hours spread out over a few weekends these past months.
+
+I started by mocking up the rear fender where I wanted it to sit. Poking out just past the end of the frame hoop, and going low enough to protect the regulator. I just taped it in place with painter's tape.
+
+![Rear fender mock-up](rear_fender_mockup.jpg){:.img-half}
+*Mocking up the rear fender.*
+
+Then, using tin snips, and some left-over metal roofing, I folded up a couple of mounts, drilled holes for some hardware, and painted them black.
+
+![Rear fender mount 1](rear_fender_mount(1).jpg){:.img-half}
+![Rear fender mount 2](rear_fender_mount(2).jpg){:.img-third}
+*The rear fender mounting brackets.*
+
+I'm pretty happy with the final location of the fender. Now it just needs paint.
+![Rear fender mounted](rear_fender_mounted.jpg){:.img-third}
+*The mounted rear fender.*
+
+#### Wiring harness from scratch 
+Next I started on the tedium that is creating a wiring harness. I started with simply getting the bike running, and importantly, charging. Since the old harness was old, and nasty, and breaking in some places, I decided that it would be best if I started over from scratch. I had ordered a [7-wire reg/rec from ebay](https://www.ebay.ca/itm/290798826230) in an attempt to simplify the wiring slightly by having only one unit rather than the original separate regulator and rectifier, but it was DOA. Won't be buying from them again. Since the original units are still working, I just used them and had no issues. 
+
+For the main fuse box, I am converting the bike to a [mo.unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue) which will allow me to have only two fuses on the whole bike, as well as all LED lights, and keyless ignition. I mounted it where the original fuse box sits using some more of that old roofing steel, but this time not painting the mounting locations, as the unit grounds itself through there.
+
+![Mo.unit mounting](mounted_mounit.jpg){:.img-half}
+*The mounted mo.unit.*
+
+It's worth mentioning now that I do intend to add a plastic splash guard around the unit, since my fender provides less protection than the OEM one. 
+
+For the wiring, I started with adding deutsch DT connectors on each of the individual components (TCI, pickups, stator, oil and neutral switches, reg, rec, etc.) carefully noting down which color I used for what, and their purpose. In general, I went with brown as keyed power, black as ground, and red as hot. Other colors all correspond to some input/output of the unit, except the neutral and oil switches. I'll draw up a nice diagram to put on here in the future once I've finalized the harness. 
+
+![gauge wires](gauge_cluster_wires.jpg){:.img-third}
+
+![charging system wires](charging_wires.jpg){:.img-third}
+
+![coil wires](coil_wires.jpg){:.img-third}
+
+![control wires](control_wires(1).jpg){:.img-third}
+
+![control wires](control_wires(2).jpg){:.img-third}
+*Various individual components wired up.*
+
+I used some marine grade heat shrink (has adhesive lining the inside), and some amazon [generic wiring harness tape](https://a.co/d/00MuGOUd). I think it makes for a very clean look. I then started running every wire to it's proper destination, and slowly looming from outside in. I started with the lower portion of the harness (stator, charging):
+
+![Lower harness](lower_harness.jpg){:.img-third}
+*The lower portion of the wiring harness.*
+
+I also got started on the ignition portion (pickups, coils, TCI), and the front part (everything up at the handle bars):
+
+![Ignition harness](ignition_harness.jpg){:.img-third}
+![Front harness](front_harness.jpg){:.img-half}
+*The other portions of the wiring harness.*
+
+I'm not quite ready to fully finish looming the harness, as I haven't yet mounted my garage door opener solution, or the license plate bracket, which legally must be lit in Ontario.
+
+#### Garage door opener
+One of my signature moves when acquiring a bike is to add a handlebar mounted garage door opener. This is the case on my ZX-6R and on my dad's Concours, but all they are is a remote button soldered to the contacts on the PCB. That is, they still require changing the batteries every so often. My solution to this is extremely overkill, but is one of the cooler parts of this build. 
+
+The mo.unit has optional input and outputs AUX1 and AUX2, which can be configured to activate when a button is pressed. What I did is bridge the contacts of the button together, effectively making the garage door opener on whenever it has power. Then, I removed the battery and wired a 12v to 3v step-down converter to the positive and negative battery terminals. 
+
+![Garage door opener](garage_door_opener.jpg){:.img-half}
+
+The result is a garage door opener that activates upon receiving 12v power, which can be hooked up the the AUX1 output of the mo.unit! I had planned to do this from the beginning and already have the push-button wired up on the right handle bar control.
+
+The next steps are to make or buy a box to store this, mount it, and wire it into the harness. The same goes for the wires for the licence plate light.
+
+
