@@ -25,7 +25,7 @@ I followed this [IFIXIT guide](https://www.ifixit.com/Guide/Lenovo+ThinkPad+T430
 
 This is the hard part. I've seen some people [do this mod to the regular T430](https://www.reddit.com/r/thinkpad/comments/1fektwj/t430_usbc_mod/), but have not seen anyone do it with the T430s. This is because unlike the T430, whose charging port is attached by cable to the mainboard, and is a relatively simple splicing of wires to mod, the *s* model has a small daughterboard that houses the barrel charging port:
 
-![T430s Charging Controller Daughterboard](daughterboard.jpg){:.img-third}
+![T430s Charging Controller Daughterboard](daughterboard.jpg)
 *T430s Charging Controller Daughterboard*
 
 This makes installing a USB-C PD chip a bit more challenging than splicing a couple cables.
@@ -35,7 +35,7 @@ What I ended up doing was printing [this part](https://www.thingiverse.com/thing
 Now some stuff about the barrel plug. The barrel plug for the T430s has its negative connection on the outside of the barrel, and positive on the inside, with a signal pin in the middle. On the daughterboard, the connector passed the negative to the two outermost solder points, the signal pin to the center point, and positive to the other two. Luckily, as far as I can tell, the positive and negative points are internally bridged with the other positive and negative point respectively, and the signal point is pretty much optional (DO NOT QUOTE ME ON THIS).
 
 
-![T430s USB-C charging mod diagram](diagram.jpg){:.img-third }
+![T430s USB-C charging mod diagram](diagram.jpg)
 *T430s USB-C charging mod diagram*
 This means that what I could do was simply cover up one of each of the positive and negative points (and the signal point), then solder the USB-C PD board directly to the daughterboard. If anyone knows more about this than me please educate everyone why this is as bad of an idea as I know it to be. Here is a little diagram, it doesn't matter which of the positive and negative you solder to, I just happened to pick those two, and the port fit better if I soldered to the back of the daughterboard so I did that.
 
@@ -54,8 +54,10 @@ Once I had the laptop (partially) reassembled, I tried booting it only to get a 
 
 Overall I am very satisfied with this mod. It was a pain in the butt to solder the two boards directly together, especially with my my 20\$ Canadian Tire soldering iron and my bent nose pliers with an elastic band instead of soldering clips, but It all worked out in the end somehow. I don't think I can recommend doing this (especially in the janky way like I did) unless you know what you are doing and you are willing to risk the ruining the daughterboard and paying 25\$CAD for a replacement, or worse, ruining the laptop. I had the privileged of not having any money invested in this laptop, so that is something to consider. Here are the pics of the final product:
 
-![Final result 1](final-result-1.jpg){: .img-half}
-![Final result 2](final-result-2.jpg){: .img-half }
-![Final result 3](final-result-3.jpg){: .img-half}
+![Final result 1](final-result-1.jpg)
+*The laptop closed up, with everything back in place.*
+![Final result 2](final-result-2.jpg)
+*A closer look at the charge port, still wearing its original 20V marking.*
+![Final result 3](final-result-3.jpg)
 *The final results*
 

@@ -10,32 +10,119 @@
 
 /* append your custom style below */
 
-/* Custom CSS for Image Sizing */
-.img-half {
-  width: 12rem;
-  height: auto;
+/* Image galleries
+ *
+ * Runs of images in a post are wrapped in .gallery by _plugins/image-gallery.rb,
+ * which also stamps each item with its true aspect ratio as --ar. Widths are
+ * derived from that ratio, so images are never labelled by hand: every item in
+ * a row is laid out at the same height, and a row holds however many images
+ * fit at the target height for the current screen. Landscape shots therefore
+ * take more of the row than portrait ones, which is what makes mixed
+ * orientations tile evenly.
+ */
+.gallery {
+  /* Target row height. Raising it fits fewer, larger images per row. */
+  --row-h: 18rem;
+  --gap: 0.6rem;
 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap);
+  margin: 1.5rem 0;
 }
 
-.img-third {
-  max-width: 7rem;
-  height: auto;
-}
+.gallery-item {
+  /* Basis tracks the aspect ratio so a row of items shares one height, and
+   * growth stays proportional so that height survives justification. */
+  flex: var(--ar) 1 calc(var(--ar) * var(--row-h));
 
-@media (min-width: 767px) {
-  .img-half {
-    width: 35rem;
-    height: auto;
+  /* Without a ceiling a short final row would stretch its images far past
+   * the size of every row above it. Anything wider than the container is
+   * still reined in by flex-shrink, so this needs no 100% clamp. */
+  max-width: calc(var(--ar) * var(--row-h) * 1.5);
+  min-width: 0;
+
+  a {
+    display: block;
+    margin: 0;
   }
 
-  .img-third {
-    max-width: 20rem;
+  img {
+    display: block;
+    width: 100%;
     height: auto;
+    border-radius: 12px;
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery {
+    /* Keeps phones to roughly one landscape or two portrait shots per row. */
+    --row-h: 11rem;
+    --gap: 0.4rem;
+  }
+
+  /* No room to wrap text beside an image on a phone, so a floated image
+   * drops back into the flow at full width. */
+  .content .img-link.left,
+  .content .img-link.right {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  .content .img-link.left + em,
+  .content .img-link.right + em {
+    float: none;
+    width: 100%;
+    margin: -0.5rem 0 1rem;
+  }
+}
+
+/* Floated images.
+ *
+ * Chirpy hangs these classes on the wrapping <a>, not the <img>, so the width
+ * has to go there too -- without one the link fills the column and the float
+ * has nothing to wrap around. Chirpy's own .right supplies the float and a
+ * zero right margin, which is what lines the image up with the text edge.
+ */
+.content .img-link {
+  &.left,
+  &.right {
+    width: 45%;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  /* The caption is a sibling of the link, so it has to be floated and cleared
+   * alongside it -- left in the flow it would wrap around the image instead of
+   * sitting under it. */
+  &.left + em,
+  &.right + em {
+    width: 45%;
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  &.right + em {
+    float: right;
+    clear: right;
+    margin-left: 1rem;
+  }
+
+  &.left + em {
+    float: left;
+    clear: left;
+    margin-right: 1rem;
   }
 }
 
 img {
-border-radius: 12px;
+  border-radius: 12px;
 }
 
 .badge-status {
