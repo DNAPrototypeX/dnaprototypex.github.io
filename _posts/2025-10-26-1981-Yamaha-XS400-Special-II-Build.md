@@ -1,5 +1,5 @@
 ---
-title: 1981 Yamaha XS400 Special II Build
+title: 1981 Yamaha XS400 Special II Build (Project Monarch)
 date: 2025-10-27 12:00:00 -0500
 last_modified_at: 2026-07-21 14:24:00 -0500
 categories:
@@ -311,7 +311,7 @@ I originally intended to use the original headlight bucket and housing, but deci
 ![Headlight bucket](headlight.jpg)
 *The new headlight mounted.*
 
-### July, 2026
+### July, 2026 (1)
 ---
 #### Front sprocket and clutch cable
 After a parts order arrived at the dealership, I was able to install my new sprocket, and test fit the chain to make sure I got the correct rear sprocket (some of these bikes needed a special rear sprocket). 
@@ -355,3 +355,30 @@ Since my harness isn't really a "simplified" harness, and actually has more butt
 *The spaghetti in question, inside the headlight bucket.*
 
 Thankfully, I took my time, and really tried my best to make the harness professional, and easy to install, so everything just fits. All that's left to do for the wiring is trimming the excess wire at the mo.unit so that it looks clean under the seat aswell, but that should be a 20 minute job at most. Overall, I'm very happy about how it turned out. There isn't too much more to be done before this build is finished!
+
+### July, 2026 (2)
+---
+#### TCI Scare
+Since my last update, I had a little scare because of my wiring. One of the pins in the connector going to the TCI box was no good, leading to no spark on the left cylinder. I tested everything, plugs, plug wires, coils, pickups, and the wires going to that connector. I ended up ordering some parts in preparation for reverting the bike to the mechanical advance/points system, as well as an aftermarket electronic ignition system to go with it. I posted to the forum and was inspired by one of the replies to go back and check everything again. That time, I thought to check the connector and wired that go into the TCI and found my problem. Quick fix and we were back.
+
+#### Wiring Complete
+With the bike running on both cylinders, I fully finished the wiring harness, trimming the excess length, and securing it to the frame where applicable
+
+![Trimmed mo.unit wires](trimmed_mo_unit_wires.jpg)*The wires going to the mo.unit trimmed, and grounds terminated.*
+
+#### Paint
+I added a couple new additions to my list of victims... The rattlecan special claims the gas cap, the license plate bracket, and the brackets that hold the airboxes in place.
+
+![Painted gas cap](painted_gas_cap.jpg)*The painted gas cap and license plate bracket.*
+![Painted airbox bracket](painted_airbox_bracket.jpg)*The painted airbox bracket.*
+
+I also dropped the tank, side covers, and fenders off at a local painter to get done properly. These smaller, black paint jobs will look fine with cheap paint, but the eye-catchy parts I wanted to be done right. The color I chose is Monarch Orange Metallic. It's a Nissan colour with code EBB, and I think will be very unique looking on an old bike like the xs400.
+
+![Example of Monarch Orange Metallic on a bike](paint_sample_img.jpg)*Monarch Orange Metallic on a bike.*
+
+I'm looking forward to getting the parts back. Up to this point I didn't have a name for the bike. When I revealed the name of the paint colour, my sister pointed out that monarch is a sick name for a paint, and I decided then to name the bike Monarch.
+
+#### Custom seat
+I also have started the process of building the custom seat. I started by getting in contact with the local Polymershapes branch in London, who were able to put in a custom order for some 4.5mm thick black ABS plastic sheet. This will be easier to work with than fibreglass. Based on [Caferacergarage](https://www.youtube.com/c/CafeRacerGarage)'s thermoplastic seat base video, I'll cut the sheet to the size I need, and shape it using a heat gun. I'll also use some to make an additional cover to protect the battery box and mo.unit from road debris that gets past the fender. The only thing is that the minimum size of sheet I could get is 4ft x 8ft haha... 
+
+For the foam and cover I haven't gotten as far, but I do have a lead for at least the foam. [London Foam & Cushion](https://upholstery-foam-london.ca/) is a local business ran out of the owner's home who was very helpful to me on the phone chatting about which type of foam I would need for my specific application, so I feel inclined to continue doing business with her. For the cover, the plan is to convince my sister to help make a vinyl cover and add some embroidery of monarch butterflies in orange stitching (Since the bike's name is monarch now). 
