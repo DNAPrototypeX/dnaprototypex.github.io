@@ -22,7 +22,7 @@ This is my write-up for my 1981 XS400 motorcycle build. I have never committed t
 ---
 Over the past few years, I’ve been watching more and more custom motorcycle builds online. Primarily cafe racers, brat style, and scramblers, but also choppers and bobbers.
 
-As I watched these works of art be built, I developed a taste of my own and a vision of my perfect motorcycle. I imagined a bike that was brat style adjacent—subtly different from the original style. Retro, yet modern. That’s when I encountered BJ from [Brick House Builds](https://brickhousebuilds.com/)’ XS400 (right).
+As I watched these works of art be built, I developed a taste of my own and a vision of my perfect motorcycle. I imagined a bike that was brat style adjacent—subtly different from the original style. Retro, yet modern. That’s when I encountered BJ from [Brick House Builds](https://brickhousebuilds.com/){:target="_blank"}’ XS400 (right).
 
 ![BrickHouseBuilds' XS400](bhbxs400.jpg){: .right}
 *BJ's XS400 from Brick House Builds.*
@@ -43,7 +43,7 @@ I got it home with the help of my uncle, who lives only a half-hour from the sel
 
 I checked the cylinder walls with a boroscope, and they look fantastic, crosshatching and everything! I measured the compression, getting 120psi on the left and 125psi on the right. The engine is healthy and does not require a rebuild! The next step was really stripping it down. Removing all the parts I don’t intend to use in the final build, and cleaning the bike thoroughly (lots of mouse poo, yuck).
 
-After a good cleaning, I removed the entire wiring harness. I plan to fully rewire the bike to run a modern reg/rec, headlight, and LED brake and turn signals. I also purchased a [Motogadget mo unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue) to really modernize the bike with keyless ignition and the works.
+After a good cleaning, I removed the entire wiring harness. I plan to fully rewire the bike to run a modern reg/rec, headlight, and LED brake and turn signals. I also purchased a [Motogadget mo unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue){:target="_blank"} to really modernize the bike with keyless ignition and the works.
 ### September, 2025
 ---
 #### Rewiring the stator
@@ -120,7 +120,7 @@ The front wheel painting was the same as the rear wheel, though a bit faster, as
 ![Front wheel painted (2)](front-wheel-painted-3.jpg)
 *Front wheel painted (2).*
 
-There were a couple of weeks where we got some snow ([The gales of November came early](https://www.youtube.com/watch?v=FuzTkGyxkYI)), so painting was off the table. I decided to do an initial mockup of the controls, cut the throttle cable to length, etc. I chose some [orange grips](https://dominoracing.com/shop/domino-xm2-grips/) to match the future color of the bike!
+There were a couple of weeks where we got some snow ([The gales of November came early](https://www.youtube.com/watch?v=FuzTkGyxkYI){:target="_blank"}), so painting was off the table. I decided to do an initial mockup of the controls, cut the throttle cable to length, etc. I chose some [orange grips](https://dominoracing.com/shop/domino-xm2-grips/){:target="_blank"} to match the future color of the bike!
 
 ![Control mockup left](controls-L.jpg)
 *Control mockup left.*
@@ -131,7 +131,7 @@ There were a couple of weeks where we got some snow ([The gales of November came
 ---
 #### Rebuilding the forks
 
-After a significant break while my responsibilities as a graduate student took priority, and indoor track season started to ramp up, I finally got back to working on the bike. The job I took on was rebuilding the forks, which is a messy and tedious job. Thankfully, there is a lovely [video on YouTube](https://www.youtube.com/watch?v=R-6CvH97k6I) that shows in great detail how to complete this job, so I followed it.
+After a significant break while my responsibilities as a graduate student took priority, and indoor track season started to ramp up, I finally got back to working on the bike. The job I took on was rebuilding the forks, which is a messy and tedious job. Thankfully, there is a lovely [video on YouTube](https://www.youtube.com/watch?v=R-6CvH97k6I){:target="_blank"} that shows in great detail how to complete this job, so I followed it.
 
 The first step is to remove the forks from the bike and drain the oil out of the small drain hole sealed with a JIS screw and copper crush washer.
 
@@ -240,9 +240,9 @@ I'm pretty happy with the final location of the fender. Now it just needs paint.
 *The mounted rear fender.*
 
 #### Wiring harness from scratch 
-Next I started on the tedium that is creating a wiring harness. I started with simply getting the bike running, and importantly, charging. Since the old harness was old, and nasty, and breaking in some places, I decided that it would be best if I started over from scratch. I had ordered a [7-wire reg/rec from ebay](https://www.ebay.ca/itm/290798826230) in an attempt to simplify the wiring slightly by having only one unit rather than the original separate regulator and rectifier, but it was DOA. Won't be buying from them again. Since the original units are still working, I just used them and had no issues. 
+Next I started on the tedium that is creating a wiring harness. I started with simply getting the bike running, and importantly, charging. Since the old harness was old, and nasty, and breaking in some places, I decided that it would be best if I started over from scratch. I had ordered a [7-wire reg/rec from ebay](https://www.ebay.ca/itm/290798826230){:target="_blank"} in an attempt to simplify the wiring slightly by having only one unit rather than the original separate regulator and rectifier, but it was DOA. Won't be buying from them again. Since the original units are still working, I just used them and had no issues. 
 
-For the main fuse box, I am converting the bike to a [mo.unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue) which will allow me to have only two fuses on the whole bike, as well as all LED lights, and keyless ignition. I mounted it where the original fuse box sits using some more of that old roofing steel, but this time not painting the mounting locations, as the unit grounds itself through there.
+For the main fuse box, I am converting the bike to a [mo.unit blue](https://www.motogadget.com/en-en/products/mo-unit-blue){:target="_blank"} which will allow me to have only two fuses on the whole bike, as well as all LED lights, and keyless ignition. I mounted it where the original fuse box sits using some more of that old roofing steel, but this time not painting the mounting locations, as the unit grounds itself through there.
 
 ![Mo.unit mounting](mounted_mounit.jpg)
 *The mounted mo.unit.*
@@ -266,7 +266,7 @@ For the wiring, I started with adding deutsch DT connectors on each of the indiv
 ![control wires](control_wires(2).jpg)
 *Handlebar controls mounted and wired.*
 
-I used some marine grade heat shrink (has adhesive lining the inside), and some amazon [generic wiring harness tape](https://a.co/d/00MuGOUd). I think it makes for a very clean look. I then started running every wire to it's proper destination, and slowly looming from outside in. I started with the lower portion of the harness (stator, charging):
+I used some marine grade heat shrink (has adhesive lining the inside), and some amazon [generic wiring harness tape](https://a.co/d/00MuGOUd){:target="_blank"}. I think it makes for a very clean look. I then started running every wire to it's proper destination, and slowly looming from outside in. I started with the lower portion of the harness (stator, charging):
 
 ![Lower harness](lower_harness.jpg)
 *The lower portion of the wiring harness.*
@@ -379,6 +379,24 @@ I also dropped the tank, side covers, and fenders off at a local painter to get 
 I'm looking forward to getting the parts back. Up to this point I didn't have a name for the bike. When I revealed the name of the paint colour, my sister pointed out that monarch is a sick name for a paint, and I decided then to name the bike Monarch.
 
 #### Custom seat
-I also have started the process of building the custom seat. I started by getting in contact with the local Polymershapes branch in London, who were able to put in a custom order for some 4.5mm thick black ABS plastic sheet. This will be easier to work with than fibreglass. Based on [Caferacergarage](https://www.youtube.com/c/CafeRacerGarage)'s thermoplastic seat base video, I'll cut the sheet to the size I need, and shape it using a heat gun. I'll also use some to make an additional cover to protect the battery box and mo.unit from road debris that gets past the fender. The only thing is that the minimum size of sheet I could get is 4ft x 8ft haha... 
+I also have started the process of building the custom seat. I started by getting in contact with the local Polymershapes branch in London, who were able to put in a custom order for some 4.5mm thick black ABS plastic sheet. This will be easier to work with than fibreglass. Based on [Caferacergarage](https://www.youtube.com/c/CafeRacerGarage){:target="_blank"}'s thermoplastic seat base video, I'll cut the sheet to the size I need, and shape it using a heat gun. I'll also use some to make an additional cover to protect the battery box and mo.unit from road debris that gets past the fender. The only thing is that the minimum size of sheet I could get is 4ft x 8ft haha... 
 
-For the foam and cover I haven't gotten as far, but I do have a lead for at least the foam. [London Foam & Cushion](https://upholstery-foam-london.ca/) is a local business ran out of the owner's home who was very helpful to me on the phone chatting about which type of foam I would need for my specific application, so I feel inclined to continue doing business with her. For the cover, the plan is to convince my sister to help make a vinyl cover and add some embroidery of monarch butterflies in orange stitching (Since the bike's name is monarch now). 
+For the foam and cover I haven't gotten as far, but I do have a lead for at least the foam. [London Foam & Cushion](https://upholstery-foam-london.ca/){:target="_blank"} is a local business ran out of the owner's home who was very helpful to me on the phone chatting about which type of foam I would need for my specific application, so I feel inclined to continue doing business with her. For the cover, the plan is to convince my sister to help make a vinyl cover and add some embroidery of monarch butterflies in orange stitching (Since the bike's name is monarch now). 
+
+### August, 2026
+With the new school year approaching, progress has slowed down a bit again. Only a few things have changed since the last update, but they are significant.
+
+#### Paint finished!
+The local painter I hired to do the important parts finished last week. He did an amazing job ([Streicher Auto Body](https://streicherautobody.ca/){:target="_blank"}). I resealed the gas cap and replaced the tank emblems, as the original ones were falling apart. I got the replacements from [xs650direct](https://xs650direct.com){:target="_blank"}.
+
+![Painted Tank](painted_bike_1.jpg)*Painted tank*
+![Painted Bike 1](painted_bike_3.jpg)*Painted bike side profile.*
+![Painted Parts](painted_bike_2.jpg)*Painted Parts.*
+![Painted Bike 2](painted_bike_4.jpg)*Painted bike rear angle.*
+
+With that, the bike is looking very complete, but in reality it is still quite far from being done.
+
+#### Tires, Seat, Mud guard
+The three main items left on the checklist before bringing the bike in for inspection. I have the tires, they just need to be mounted and balanced, which I may pay someone with the correct equipment to do for me. Then, there are the seat and mudguard. Both are one of pieces that I need to make myself. I'm starting with the mudguard, which will double as a mount for the fender (I don't like the sheet metal hack job I did a while ago). It will span the entire width of the bike, and extend further down toward the swing-arm than the fender itself. I'll make it out of the same plastic as the seat base. The idea is to make sure the mo.unit is well protected from water, since it is by far the most valuable piece on the bike.
+
+Once those are finished I'll be free to start the seat, which will be the hardest part of this build in my opinion. I have not yet decided where to get my foam, or upholstery material. I'm imagining a black waterproof vinyl, with orange stitching. I'll ask my sister (who is crafty, and loves embroidering) to do some butterflies on the side of the seat cover, as well as sign my name (I don't really have a makers mark or anything). There are some other finishing touches I have planned, but they are non-critical, so I'll discuss those as I do them.
