@@ -8,4 +8,3 @@ github_url: https://github.com/DNAPrototypeX/gmppip
 arxiv_url:
 pub_url:
 ---
-A review paper intended to bring informed non-experts up to speed on the current developments in PPI prediction using deep learning.
