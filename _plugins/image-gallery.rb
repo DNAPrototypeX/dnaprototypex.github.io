@@ -13,6 +13,10 @@
 # as portrait -- which is what the browser draws. That is what makes the sizing
 # automatic: the layout knows each image's real shape, so nothing needs to be
 # labelled .img-half or .img-third by hand.
+#
+# Videos from Chirpy's embed/video.html include tile the same way. Their shape
+# comes from the MP4 track header, with the rotation matrix applied, so a phone
+# video recorded sideways is measured as portrait too.
 
 module ImageGallery
   # Used when dimensions can't be read (remote src, unreadable file). A mild
@@ -29,17 +33,29 @@ module ImageGallery
   # One image link plus the optional <em> caption Chirpy renders beneath it.
   IMG_UNIT = %r{<a[^>]*\bimg-link\b[^>]*>\s*<img\b[^>]*>\s*</a>(?:\s*<em>.*?</em>)?}m
 
-  # A paragraph containing images and captions and nothing else.
-  PARAGRAPH = %r{<p>\s*(?:#{IMG_UNIT}\s*(?:<br\s*/?>)?\s*)+</p>}m
+  # One embedded video plus the optional <em> caption from the include's title.
+  VIDEO_UNIT = %r{<video\b[^>]*>.*?</video>(?:\s*<em>.*?</em>)?}m
+
+  MEDIA_UNIT = %r{(?:#{IMG_UNIT}|#{VIDEO_UNIT})}m
+
+  # A paragraph containing images, videos and captions and nothing else. The
+  # video include's paragraph can carry an IAL class such as .vid.
+  PARAGRAPH = %r{<p(?:\s[^>]*)?>\s*(?:#{MEDIA_UNIT}\s*(?:<br\s*/?>)?\s*)+</p>}m
 
   # One or more such paragraphs in a row -- the unit we replace.
   RUN = %r{#{PARAGRAPH}(?:\s*#{PARAGRAPH})*}m
 
-  UNIT_SCAN = %r{(<a[^>]*\bimg-link\b[^>]*>\s*<img\b([^>]*)>\s*</a>)(\s*<em>.*?</em>)?}m
+  UNIT_SCAN = %r{
+    (<a[^>]*\bimg-link\b[^>]*>\s*<img\b([^>]*)>\s*</a>|<video\b[^>]*>(.*?)</video>)
+    (\s*<em>.*?</em>)?
+  }mx
+
+  # Boxes that hold the track headers, on the way down from the file root.
+  MP4_CONTAINERS = %w[moov trak].freeze
 
   class << self
     def process(html, site)
-      return html unless html.include?('img-link')
+      return html unless html.include?('img-link') || html.include?('<video')
 
       html.gsub(RUN) do |run|
         next run if OPT_OUT_CLASSES.any? { |c| run.match?(/\bclass="[^"]*\b#{c}\b[^"]*"/) }
@@ -54,9 +70,10 @@ module ImageGallery
     private
 
     def build_gallery(items, site)
-      figures = items.map do |link, attrs, caption|
+      figures = items.map do |media, img_attrs, video_inner, caption|
+        attrs = img_attrs || video_inner[/<source\b[^>]*>/].to_s
         ratio = ratio_for(attrs, site)
-        tag = annotate(link, ratio)
+        tag = media.start_with?('<video') ? annotate_video(media, ratio) : annotate(media, ratio)
         %(<div class="gallery-item" style="--ar:#{format('%.4f', ratio)}">#{tag}#{caption}</div>)
       end
 
@@ -77,6 +94,15 @@ module ImageGallery
       width = 1000
       height = (width / ratio).round
       link.sub(/<img\b/, %(<img width="#{width}" height="#{height}"))
+    end
+
+    # Same intrinsic size hint as annotate, for a <video> element.
+    def annotate_video(video, ratio)
+      return video if video.match?(/<video[^>]*\bwidth=/)
+
+      width = 1000
+      height = (width / ratio).round
+      video.sub(/<video\b/, %(<video width="#{width}" height="#{height}"))
     end
 
     def ratio_for(attrs, site)
@@ -111,6 +137,7 @@ module ImageGallery
         when '.jpg', '.jpeg' then jpeg_dimensions(io)
         when '.png'          then png_dimensions(io)
         when '.gif'          then gif_dimensions(io)
+        when '.mp4', '.m4v', '.mov' then mp4_dimensions(io, io.size)
         end
       end
     rescue StandardError => e
@@ -130,6 +157,50 @@ module ImageGallery
       return nil unless header.start_with?('GIF')
 
       header[6, 4].unpack('v2')
+    end
+
+    # Walks the MP4 box tree down to the first track header with a picture
+    # size. Audio tracks report 0x0, so they are skipped on the way past.
+    def mp4_dimensions(io, finish)
+      while io.pos + 8 <= finish
+        start = io.pos
+        size, type = io.read(8).unpack('Na4')
+        header = 8
+
+        if size == 1
+          size = io.read(8).unpack1('Q>')
+          header = 16
+        elsif size.zero?
+          size = finish - start
+        end
+        return nil if size < header
+
+        if MP4_CONTAINERS.include?(type)
+          dims = mp4_dimensions(io, start + size)
+          return dims if dims
+        elsif type == 'tkhd'
+          dims = tkhd_dimensions(io.read(size - header).to_s)
+          return dims if dims
+        end
+
+        io.seek(start + size)
+      end
+
+      nil
+    end
+
+    # Reads the 16.16 fixed-point width and height after the transform matrix.
+    # A matrix with a zero first term is a quarter turn, so the drawn shape is
+    # transposed -- the video equivalent of EXIF orientations 5-8.
+    def tkhd_dimensions(box)
+      matrix_at = box.getbyte(0) == 1 ? 52 : 40
+      return nil if box.bytesize < matrix_at + 44
+
+      a, b = box[matrix_at, 8].unpack('l>2')
+      width, height = box[matrix_at + 36, 8].unpack('N2').map { |v| v >> 16 }
+      return nil if width.zero? || height.zero?
+
+      a.zero? && !b.zero? ? [height, width] : [width, height]
     end
 
     # Walks the JPEG marker segments for the SOF frame header, noting the EXIF
@@ -164,7 +235,11 @@ module ImageGallery
           # Orientations 5-8 are the quarter turns; drawn shape is transposed.
           return (5..8).cover?(orientation) ? [height, width] : [width, height]
         elsif code == 0xE1
-          orientation = exif_orientation(io.read(length - 2).to_s)
+          # APP1 also carries XMP, which phones often write after the EXIF
+          # block. Only an EXIF segment may set the orientation, or the XMP
+          # one would reset it to upright.
+          segment = io.read(length - 2).to_s
+          orientation = exif_orientation(segment) if segment.start_with?("Exif\0\0")
         else
           io.seek(length - 2, IO::SEEK_CUR)
         end

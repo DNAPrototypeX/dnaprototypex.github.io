@@ -43,7 +43,10 @@
   max-width: calc(var(--ar) * var(--row-h) * 1.5);
   min-width: 0;
 
-  a {
+  /* a.popup matches the specificity of Chirpy's .content a.popup, whose
+   * 0.5rem vertical margin would drop images out of line with videos. */
+  a,
+  a.popup {
     display: block;
     margin: 0;
   }
@@ -52,6 +55,18 @@
     display: block;
     width: 100%;
     height: auto;
+    border-radius: 12px;
+  }
+
+  /* Two classes deep to beat Chirpy's .embed-video.file, which sets a fixed
+   * 16:9 box and a bottom margin that would push the caption away. */
+  .embed-video {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    aspect-ratio: var(--ar);
+    margin: 0;
     border-radius: 12px;
   }
 }
