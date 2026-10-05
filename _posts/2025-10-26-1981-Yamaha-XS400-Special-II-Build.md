@@ -1,7 +1,7 @@
 ---
 title: 1981 Yamaha XS400 Special II Build (Project Monarch)
 date: 2025-10-27 12:00:00 -0500
-last_modified_at: 2026-07-21 14:24:00 -0500
+last_modified_at: 2026-10-05 11:46:00 -0500
 categories:
   - Blogging
   - Motorcycles
