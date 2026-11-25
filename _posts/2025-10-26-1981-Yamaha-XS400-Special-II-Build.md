@@ -1,7 +1,7 @@
 ---
 title: 1981 Yamaha XS400 Special II Build (Project Monarch)
 date: 2025-10-27 12:00:00 -0500
-last_modified_at: 2026-10-05 11:46:00 -0500
+last_modified_at: 2026-11-25 11:34:00 -0500
 categories:
   - Blogging
   - Motorcycles
@@ -19,7 +19,7 @@ status: In Progress
 ## Intro
 
 <hr style="height: 1px; background-color: var(--heading-color); border: none; opacity: 1;">
-This is my write-up for my 1981 XS400 motorcycle build. I have never committed to such a large project before, but I believe the end result will be incredible! My masters supervisor Augustinus suggested that I write a blog to practice writing skill. I think he was talking about more technical, mathematics write-ups, but this will have to do!
+This is my write-up for my 1981 XS400 motorcycle build. I have never committed to such a large project before, but I believe the end result will be incredible! My masters supervisor Agustinus suggested that I write a blog to practice writing skill. I think he was talking about more technical, mathematics write-ups, but this will have to do!
 ### Inspiration, and Initial Purchase
 ---
 Over the past few years, I’ve been watching more and more custom motorcycle builds online. Primarily cafe racers, brat style, and scramblers, but also choppers and bobbers.
@@ -490,3 +490,88 @@ I also lost a small spacer/washer that goes on the rear axle, and lines the cast
 #### Mo.ride app replacement
 
 I saw recently that Motogadget is going to start charging a subscription to use some of their app's features. This seems like a money grab to me, considering the price I paid for the product to begin with, and that almost all of the features being paywalled shouldn't require a server connection. I decided to reverse engineer the mo.unit Bluetooth protocol, and create a custom app for myself. Their UI was ugly anyways. I already have the reverse engineering done, and keyless ignition working.
+
+### November, 2026
+---
+This month has been extremely busy. I've been so stressed at school, and have little free time during the week. However, Saturdays are free game for working on the project!
+
+#### Extended Kickstand
+With the additional height from the longer-than-stock rear shocks, the bike leans way too far when on the side stand. Naturally, the solution is just a longer kickstand! I chopped it, welded it, and painted it it black again. The bike now sits much more upright on the sidestand.
+
+![Sidestand chopped](sidestand-chopped.jpg)
+_The sidestand chopped._
+![Sidestand mocked](sidestand-mocked.jpg)_The sidestand exteneded and mocked up for welding._
+![Sidestand tacked](sidestand-tacked.jpg)_The sidestand tak welded._
+![Sidestand welded and painted](sidestand-welded-and-painted.jpg)_The sidestand fully welded and painted black._
+
+#### Seat
+This is the big one from this month. Many many hours of thought and effort went into this seat. I am pretty happy with how it turned out considering it is my first ever upholstery project. I will certainly be redoing the seat and seat cover in the future, but not anytime soon. Eventually, I'll be rebuilding the engine---it can wait until then.
+
+**Finishing the base.** The seat base just needed to be cut to its final dimensions. I went with a very round back to help facilitate the seat shape I'm going for.
+
+![seat base cut 1](seat-base-cut-1.jpg)_The seat base cut to its final shape._
+![seat base cut 2](seat-base-cut-2.jpg)
+_The seat base cut to its final shape. (alternative angle)_
+
+**Adding foam.** I originally wanted to source my foam from a local upholsterer, but they ended up ghosting me. I just bought from Foamite in Toronto and paid for the shipping. I got a 1" thick layer of extra firm, a 3" layer of firm, and a final 0.5" soft to be used for the quilting of the cover. 
+
+After receiving my foam, I glued it to the finished base and started the process of shaping it. Starting with large cuts using a bread knife, moving to snipping small bits off with scissors, and finally smoothing using an orbital sander. I found this process to be very messy, so I had the shop-vac running to suck up any stray foam.
+
+![foam 0](foam-0.jpg)_The foam glued to the seat base_
+![foam 2](foam-2.jpg)_The first rough cuts with a bread knife._
+![foam 3](foam-3.jpg)_The next set of slightly finer bread knife cuts._
+![foam 4](foam-4.jpg)_The final cuts with the bread knife._
+![foam 5](foam-5.jpg)_The finishing touches on the shape using the scissors._
+![foam 6](foam-6.jpg)_After sanding and final adjustments using the scissors. This is the final shape of the foam._
+![foam 7](foam-7.jpg)_The seat on the bike._
+
+#### Sewing side quest
+**Acquiring a sewing machine.** Before continuing on the seat, I needed to learn how to sew (so I can make the cover). This lead to a bit of a side quest. I purchased a sewing machine on marketplace that was listed as "needing maintenance" for only 25$ (most were really expensive!). It's an old singer 328J, and it didn't really need maintenance. The lady who sold it to me was using the wrong kind of bobbin. The ones she gave me caused the top thread to get caught. A quick trip to Walmart for the correct bobbins was all I had to do (plus a good cleaning)!
+
+![sewing machine](sewing-machine.jpg)_My Singer 328J._
+
+**Learning to sew.** The first thing I made was actually a crop top for the Purple and White intrasquad track meet at Western. It's tradition to wear a silly singlet while competing (especially in any events you are not trying out for). I decided it was the perfect way to get used to my machine. I cut it, sewed the hem, and embroidered by name (misspelled on purpose) using the zig-zag stitch setting. 
+
+![croptop1](croptop1.jpg)_Lining up the cut._
+![croptop2](croptop2.jpg)_Cropping the top._
+![croptop3](croptop3.jpg)_Marking for embroidery._
+![croptop4](croptop4.jpg)_Embroidering my name._
+![croptop5](croptop5.jpg)_Trying it on._
+![competing1](competing1.jpg)_Running the 600m in the top._
+![competing2](competing2.jpg)_Running the 600m in the top._
+
+#### Back to the seat
+Making the seat cover is by far the hardest thing I've done on this bike. To make things as easy as possible on myself, I used black vinyl purchased from the local fabric shop, and made the top pattern as simple as I could without compromising looks. Thanks to my sister for the original sketch, and the idea of making the quilted pattern resemble butterfly wings.
+
+**Practice.** Before committing to the final cover, and using my nice foam, I practiced on cheap foam from the fabric store to dial in my settings. The advice online for sewing patterns into a seat cover like this one is to glue some backing material to the underside of the foam to make sure it doesn't get caught on the feet in the sewing machine and stop the thread from ripping through the foam. 
+
+![practice cover 1](practice1.jpg)_The patter prototype on the vinyl._
+![practice cover 2](practice2.jpg)_The backing material for under the foam. (Thank you to the elderly woman who gave me advice at the fabric store)_
+![practice cover 3](practice3.jpg)_The layers of the practice cover stacked up._
+
+![practice cover 4](practice4.jpg)_The practice cover glued together._
+
+**The real thing.** Now that I had a couple hours of practice on the actual material to be used for the cover, I started on what would be the final cover. 
+
+**Cutting the material to shape.** The first step was to get the exact shape of the top of the seat, so I can accurately mark out the pattern and cut it to size. The way I did this was to completely cover the seat in painter's tape. Since painter's tape won't stretch and doesn't stick very well except to itself, it worked perfectly for getting the actual shape of the seat.
+
+![cutting material 1](cutting-material1.jpg)_Covering the entire seat in tape._
+![cutting material 2](cutting-material2.jpg)_Cutting the tape where I want the seam, and removing it from the seat._
+![cutting material 3](cutting-material3.jpg)_Tracing the shapes onto the vinyl._
+
+**Quilting the top.** I transferred the shape to the top of the vinyl, and sketched the final iteration of the pattern. Then, I glued the foam and backing layers as before and started quilting! I also added a stitch around the edge, so there is a stripe going around the top of the cover next to the actual seam. I'll mirror this on the bottom piece. This also allowed me to have an exact line for where to remove the excess foam.
+
+![quilting 1](quilting1.jpg)_Drawing the pattern._
+![quilting 2](quilting2.jpg)_First stitched._
+![quilting 3](quilting3.jpg)_Quilting finished._
+![quilting 4](quilting4.jpg)_Removing the excess foam._
+
+**Defects.** Despite my best efforts, as a beginner I didn't feed the thread through the tension mechanism on my machine properly for a couple of the stitches, resulting in much too loose of a stitch. I decided to accept this as a quirk, and a reminder of the process of making this seat, and just glued the loose thread on the back to stop it from pulling through (this can be seen above). Overall I am very happy with the look.
+
+**Attaching the sides.** Finally (in terms of sewing), I added the decorative stitch to the side piece (to match the one on the top), and combined the two pieces. Sewing to pieces together at a approximately right angle is a lot more challenging that I originally thought. It felt like an impossible juggling act, balancing the cover upright while simultaneously keeping it facing the correct way, and then also ensuring that the two pieces are lined up correctly. I still managed, and most of my stitches look acceptable.
+
+![final sewing 1](final-sewing1.jpg)_The side piece sewed to the top piece._
+![final sewing 2](final-sewing2.jpg)_The cover over the seat._
+![final sewing 3](final-sewing3.jpg)_The finished cover over the seat with all sewing finished._
+
+**Next steps.** Once I attach the cover to the seat permanently, and install new spark plugs, the bike is finished. I plan to add some removable saddlebags in preparation for a big trip I'm planning for the spring after I graduate. Maybe remove the center stand. Once I return from that trip this project will resume. I'll rebuild and paint the engine, do all the bearings, and maybe have the frame, wheels, forks, etc power-coated. The tachometer also is not working correctly anymore, likely due to me dropping it at some point...
